@@ -278,7 +278,155 @@ They die immediately.
 
 ---
 
-## 14. Approved Rules Currently Locked
+## 14. Starting Spell Access
+
+At character creation, spellcasting classes gain access to:
+- all cantrips available to their class
+- all 1st-level spells available to their class
+
+Cantrips do **not** consume spell slots.
+
+---
+
+## 15. Learning Higher-Level Spells
+
+Higher-level spells are **not** learned automatically in full.
+
+Spells of levels 2-5 must usually be acquired through adventuring, most often in the form of scrolls.
+
+### New Spell Tier Rule
+When a caster first gains access to a new spell tier, they immediately learn:
+- **one spell** of that newly unlocked level
+- chosen from their class spell list
+
+### Example Unlock Pattern
+Examples include:
+- access to 2nd-level spells at level 3
+- access to 3rd-level spells at level 5
+- later spell tiers at their normal unlock points
+
+---
+
+## 16. Scrolls, Spellbooks, and Casting Requirements
+
+### Scroll Use
+When a scroll is found, a qualified caster may use it in one of two ways.
+
+#### Cast from the Scroll
+If the caster meets both:
+- the class requirement
+- the level requirement
+
+then they may cast the spell directly from the scroll.
+
+Rules:
+- the scroll is consumed
+- the scroll turns to ash after use
+- this is a one-time cast
+
+#### Memorize the Spell
+If the spell is not already known, and the caster meets both:
+- the class requirement
+- the level requirement
+
+then they may memorize the spell instead of casting it from the scroll.
+
+Rules:
+- memorization is immediate
+- the scroll is destroyed
+- the spell is permanently added to that caster's known spell list
+
+### Spellbooks
+Spellbooks do **not** exist as physical carried items.
+
+Instead, each caster has access to an internal **spellbook interface** that lists all spells they know.
+
+### Casting Requirements
+Umberhold does **not** require a casting focus.
+
+A caster may freely cast any spell they know without needing a focus item or a free hand.
+
+---
+
+## 17. Upcasting and Resting
+
+### Upcasting
+Umberhold does **not** use upcasting.
+
+A spell must be cast using a spell slot of its own level only.
+
+### Rule
+- a 1st-level spell requires a 1st-level spell slot
+- a 2nd-level spell requires a 2nd-level spell slot
+- and so on
+
+A lower-level spell may **not** be cast using a higher-level spell slot.
+
+### Resting
+The recovery system uses **Resting**.
+
+A Rest takes **8 hours**.
+
+A Rest fully restores:
+- all hit points, to maximum
+- all spell slots
+- any class abilities that are restored by rest, as defined by class rules
+
+### Valid Rest Locations
+Resting may only be performed in safe locations, such as:
+- inns
+- designated safe areas in dungeons
+
+These safe areas should be clearly indicated in the area's description.
+
+### Unsafe Rest Attempt
+If the player attempts to rest in an unsafe location, the rest fails with the message:
+
+> **It is not safe to camp here.**
+
+### No Short Rest System
+Umberhold does **not** use a short rest mechanic.
+
+---
+
+## 18. Current Approved Spell List Scope
+
+The current approved spell list for:
+- cantrips
+- 1st-level spells
+
+is maintained in:
+- `umberhold/spells-cantrips-1st.md`
+
+This includes the currently approved entries such as:
+- Arcbolt
+- Beguile
+- Blind
+- Cure Minor Wounds
+- Deathknell of Solace
+- Feather Fall
+- Identify
+- Judgment of Solace
+- Litany of Solace
+- Mocking Words
+- Sleep
+- Shockwave
+- Shield of Solace
+- Solace's Blessing
+- Soothe Beast
+- Thornburst
+- Vaelric's Quietus Key
+- Vaelric's Unseen Disarmament
+- Venomspit
+- Warden's Mark
+- Witchlight
+- Zarveth's Acid Darts
+- Zarveth's Arcane Cloak
+- Zarveth's Floating Candle
+
+---
+
+## 19. Approved Rules Currently Locked
 
 The following are currently approved canon:
 
@@ -307,9 +455,29 @@ The following are currently approved canon:
 - death saves are not used
 - 0 or fewer hit points means immediate death
 
+### Spellcasting and Recovery Rules
+- spellcasting classes start with all class cantrips and all class 1st-level spells
+- cantrips do not consume spell slots
+- higher-level spells are mainly acquired through adventuring, especially scrolls
+- when a caster unlocks a new spell tier, they immediately learn one spell of that level
+- scrolls may be cast directly if requirements are met
+- scrolls may be memorized if requirements are met and the spell is not already known
+- spellbooks are not physical items
+- each caster has an internal spellbook interface
+- no casting focus is required
+- upcasting does not exist
+- spells must use slots of their own level only
+- Resting takes 8 hours
+- Resting fully restores hit points, spell slots, and rest-based class abilities
+- Resting only works in safe locations
+- unsafe resting fails with a fixed message
+- there is no short rest system
+- spells explicitly marked as Bonus Action use the bonus action slot for the turn
+- the current cantrip and 1st-level spell list is tracked in `umberhold/spells-cantrips-1st.md`
+
 ---
 
-## 15. Still Open for Later Canonization
+## 20. Still Open for Later Canonization
 
 The following are still open and should be resolved in future canon passes:
 
@@ -318,7 +486,7 @@ The following are still open and should be resolved in future canon passes:
 - exact turn timing for status durations
 - enemy-side bonus action rules
 - whether songs can ever be bonus actions
-- whether some spells or items can be bonus actions
+- whether items can ever be bonus actions
 - target invalidation edge cases
 - mid-combat initiative changes, if any
 - full player formation rules
@@ -332,12 +500,23 @@ The following are still open and should be resolved in future canon passes:
 - whether Holy / Unholy / Arcane / Shock have special systemic interactions beyond type tags
 - whether monsters follow the exact same death rule presentation as player characters
 
+### Spellcasting Open Questions
+- exact spell-tier unlock table by class and level
+- whether every caster learns the same number of spells when unlocking later tiers beyond the one free spell
+- whether scrolls can ever be used by non-casters through special items or class features
+- whether rare exceptions can bypass normal class spell lists
+- whether some safe dungeon rest locations can be exhausted or used only once
+- whether rest can ever be interrupted by scripted events in valid safe zones
+- higher-level spell lists beyond 1st level
+
 ---
 
-## 16. Source Sheets
+## 21. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`
 - `umberhold/damage-canon.md`
+- `umberhold/spellcasting-canon.md`
+- `umberhold/spells-cantrips-1st.md`
 
 These may still be kept as narrower reference sheets if useful.
