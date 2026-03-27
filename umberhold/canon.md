@@ -528,7 +528,26 @@ The current gemstone reference is maintained in:
 
 ---
 
-## 23. Approved Rules Currently Locked
+## 23. Class Hit Dice and Equipment Rules
+
+The current approved class hit-die and equipment rules are maintained in:
+- `umberhold/class-equipment-canon.md`
+
+### Current Class Equipment Rules
+- each class has a defined hit die per level
+- Constitution modifier is added to each hit point roll
+- every level requires a hit point roll
+- there is no average hit point option
+- armor restrictions are absolute
+- shield restrictions are absolute
+- unusable armor may still be carried but should display in red in inventory
+- any class may equip any weapon
+- weapon proficiency only affects whether Proficiency Bonus is added to attack rolls
+- non-proficient weapon attacks do not gain Proficiency Bonus
+
+---
+
+## 24. Approved Rules Currently Locked
 
 The following are currently approved canon:
 
@@ -596,7 +615,7 @@ The following are currently approved canon:
 
 ---
 
-## 24. Still Open for Later Canonization
+## 25. Still Open for Later Canonization
 
 The following are still open and should be resolved in future canon passes:
 
@@ -657,9 +676,16 @@ The following are still open and should be resolved in future canon passes:
 - whether gemstones can have special uses beyond sale value, such as quest, ritual, or crafting functions
 - whether gemstones stack in inventory or remain individual items under no-stacking rules
 
+### Class Equipment Open Questions
+- whether first-level characters still begin with maximum hit points from their class hit die
+- whether off-hand weapon proficiency follows the same rule with no exceptions
+- whether class proficiencies can ever be expanded by training, items, or special features
+- whether instruments for Troubadours count as weapon-category items for equipment UI purposes
+- whether some relic or class effects can temporarily bypass armor restrictions
+
 ---
 
-## 25. Source Sheets
+## 26. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`
