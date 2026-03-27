@@ -26,7 +26,7 @@
 | **Damage Resistances** | None |
 | **Damage Immunities** | None |
 | **Condition Immunities** | None |
-| **Attacks** | **Rusty Dagger:** +3 to hit, 1d4 piercing. Combat text: *Boggart Knifer stabs at (insert target) with a rusty dagger!* |
+| **Attacks** | **Rusty Dagger:** +3 to hit, range 1, 1d4 piercing. Combat text: *Boggart Knifer stabs at (insert target) with a rusty dagger!* |
 | **Treasure Type** | A; **Boggart Cloak** (1 in 500) |
 | **Comments** | “Get stuck in, lads!”, “Oi, this one’s got meat on ’em!”, “Stab it in the hammy so it can’t run!”, “Heh, I’m keepin’ the good bits!”, “Don’t break it—boss said fresh!” |
 | **Experience** | 25 |

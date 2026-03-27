@@ -181,8 +181,11 @@ A monster's attack list should include, at minimum:
 - to-hit bonus
 - damage
 - damage type
-- range if relevant
+- range
 - any attached effects or conditions
+
+### Attack Range Rule
+Every monster attack must have a **range value from 1-3**.
 
 ---
 

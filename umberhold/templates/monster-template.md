@@ -78,7 +78,7 @@ It does **not** modify `MASTER.md`.
 - **Name:** 
 - **Attack Type:** Melee / Ranged / Spell / Special
 - **To Hit:** 
-- **Range:** 
+- **Range:** 1 / 2 / 3
 - **Targeting:** 
 - **Damage:** 
 - **Damage Type:** 
@@ -88,7 +88,7 @@ It does **not** modify `MASTER.md`.
 - **Name:** 
 - **Attack Type:** Melee / Ranged / Spell / Special
 - **To Hit:** 
-- **Range:** 
+- **Range:** 1 / 2 / 3
 - **Targeting:** 
 - **Damage:** 
 - **Damage Type:** 
@@ -98,7 +98,7 @@ It does **not** modify `MASTER.md`.
 - **Name:** 
 - **Attack Type:** Melee / Ranged / Spell / Special
 - **To Hit:** 
-- **Range:** 
+- **Range:** 1 / 2 / 3
 - **Targeting:** 
 - **Damage:** 
 - **Damage Type:** 
