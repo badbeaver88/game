@@ -443,7 +443,48 @@ The detailed rules for these conditions are maintained in:
 
 ---
 
-## 20. Approved Rules Currently Locked
+## 20. Generic Monster Stat Block
+
+The current approved generic monster stat block is maintained in:
+- `umberhold/monster-stat-block-canon.md`
+
+The baseline monster entry currently includes:
+- Name
+- Level
+- Size
+- Type
+- Alignment
+- AC
+- Hit Points
+- Strength
+- Constitution
+- Agility
+- Intellect
+- Piety
+- Personality
+- Luck
+- Proficiency Bonus
+- Saving Throw Proficiencies
+- Skill Proficiencies
+- Attacks
+- Experience
+
+### Current Monster Rules Captured by the Generic Stat Block
+- monsters use **Level** rather than challenge rating
+- current monster levels are **1-20**
+- monster sizes are **Small, Medium, Large, Huge, Gigantic**
+- Small and Medium occupy **1 slot**
+- Large occupies **2 slots**
+- Huge occupies **3 slots**
+- Gigantic occupies **4 slots**
+- unarmored AC starts at **10**
+- monsters use the same seven core attributes as player characters
+- monster attributes currently range from **3-30**
+- monsters have explicit saving throw proficiencies, skill proficiencies, attacks, and XP value
+
+---
+
+## 21. Approved Rules Currently Locked
 
 The following are currently approved canon:
 
@@ -496,9 +537,22 @@ The following are currently approved canon:
 - the current approved condition list is Beguiled, Blinded, Frightened, Paralyzed, Poisoned, Silenced, Slept, and Stunned
 - detailed condition behavior is tracked in `umberhold/conditions-canon.md`
 
+### Monster Stat Block Rules
+- the generic monster stat block is tracked in `umberhold/monster-stat-block-canon.md`
+- monsters use Level rather than challenge rating
+- current monster levels are 1-20
+- monster sizes are Small, Medium, Large, Huge, and Gigantic
+- Small and Medium occupy 1 combat slot
+- Large occupies 2 combat slots
+- Huge occupies 3 combat slots
+- Gigantic occupies 4 combat slots
+- unarmored monster AC starts at 10
+- monsters use the same seven core attributes as player characters
+- monster attributes currently range from 3-30
+
 ---
 
-## 21. Still Open for Later Canonization
+## 22. Still Open for Later Canonization
 
 The following are still open and should be resolved in future canon passes:
 
@@ -539,9 +593,18 @@ The following are still open and should be resolved in future canon passes:
 - how cleansing/removal rules are distributed across items, spells, and services
 - exact timing for condition expiration when not stated explicitly by a spell or ability
 
+### Monster Open Questions
+- whether monsters will ever exceed level 20 in released content
+- whether the proficiency table needs values above level 20 if the current monster cap remains 20
+- the exact XP table by monster level
+- whether monster hit points use only size dice or also add Constitution-derived bonuses by level
+- whether alignment has any systemic effect beyond lore and spell interaction
+- the full canonical skill list used by monsters and characters
+- whether monster spellcasters follow player spell slot rules or use bespoke spellcasting packages
+
 ---
 
-## 22. Source Sheets
+## 23. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`
@@ -549,5 +612,6 @@ This consolidated file is currently based on:
 - `umberhold/spellcasting-canon.md`
 - `umberhold/spells-cantrips-1st.md`
 - `umberhold/conditions-canon.md`
+- `umberhold/monster-stat-block-canon.md`
 
 These may still be kept as narrower reference sheets if useful.
