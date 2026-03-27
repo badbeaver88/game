@@ -450,6 +450,7 @@ The current approved generic monster stat block is maintained in:
 
 The baseline monster entry currently includes:
 - Name
+- Description
 - Level
 - Size
 - Type
@@ -466,7 +467,13 @@ The baseline monster entry currently includes:
 - Proficiency Bonus
 - Saving Throw Proficiencies
 - Skill Proficiencies
+- Damage Vulnerabilities
+- Damage Resistances
+- Damage Immunities
+- Condition Immunities
 - Attacks
+- Treasure Type
+- Comments
 - Experience
 
 ### Current Monster Rules Captured by the Generic Stat Block

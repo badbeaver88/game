@@ -32,6 +32,7 @@ It does **not** modify `MASTER.md`.
 | Skill Proficiencies | List of proficient skills |
 | Damage Vulnerabilities | List of damage vulnerabilities |
 | Damage Resistances | List of damage resistances |
+| Damage Immunities | List of damage immunities |
 | Condition Immunities | List of condition immunities |
 | Attacks | List of attacks, including to-hit, damage, damage type, and special effects |
 | Treasure Type | Treasure category from A-Z, based on treasure tables |
@@ -166,6 +167,7 @@ If a monster is proficient in a save or skill, it adds its proficiency bonus to 
 Monster entries may include:
 - damage vulnerabilities
 - damage resistances
+- damage immunities
 - condition immunities
 
 These should use Umberhold's current damage types and condition list.
@@ -222,7 +224,7 @@ This document locks in the following:
 - proficiency bonus follows the current level progression table
 - monster entries include a Description field
 - monster entries include saving throw proficiencies and skill proficiencies
-- monster entries may include damage vulnerabilities, damage resistances, and condition immunities
+- monster entries may include damage vulnerabilities, damage resistances, damage immunities, and condition immunities
 - monster entries include attacks and XP value
 - monster entries may include Treasure Type and Comments
 
