@@ -547,7 +547,20 @@ The current approved class hit-die and equipment rules are maintained in:
 
 ---
 
-## 24. Approved Rules Currently Locked
+## 24. Weapon Statistics
+
+The current approved weapon table is maintained in:
+- `umberhold/weapon-statistics-canon.md`
+
+### Current Weapon Rules
+- weapon entries include damage type
+- weapon entries include range values from 1-3
+- Quarterstaff is part of the approved weapon table
+- finesse weapons may use Strength or Agility, whichever is higher
+
+---
+
+## 25. Approved Rules Currently Locked
 
 The following are currently approved canon:
 
@@ -615,7 +628,7 @@ The following are currently approved canon:
 
 ---
 
-## 25. Still Open for Later Canonization
+## 26. Still Open for Later Canonization
 
 The following are still open and should be resolved in future canon passes:
 
@@ -683,9 +696,16 @@ The following are still open and should be resolved in future canon passes:
 - whether instruments for Troubadours count as weapon-category items for equipment UI purposes
 - whether some relic or class effects can temporarily bypass armor restrictions
 
+### Weapon Open Questions
+- whether ammunition is abstracted or fully tracked for bows, slings, and crossbows
+- whether crossbows have reload-specific handling beyond normal attack use
+- whether thrown weapons will exist as a distinct category later
+- whether weapon categories should be formalized for class features and item effects
+- whether some named weapons gain variant properties beyond the base table
+
 ---
 
-## 26. Source Sheets
+## 27. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`
