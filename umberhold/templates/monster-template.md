@@ -11,6 +11,7 @@ It does **not** modify `MASTER.md`.
 ## Core Identity
 
 - **Name:** 
+- **Description:** 
 - **Level:** 
 - **Size:** Small / Medium / Large / Huge / Gigantic
 - **Combat Slot Use:** 
@@ -21,7 +22,6 @@ It does **not** modify `MASTER.md`.
   - Gigantic = 4
 - **Type:** Beast / Dragon / Elemental / Fey / Fiend / Giant / Humanoid / Insect / Monstrosity / Ooze / Plant / Undead
 - **Alignment:** Good / Neutral / Evil
-- **Short Description:** 
 - **Lore Notes:** 
 
 ---
@@ -111,10 +111,10 @@ It does **not** modify `MASTER.md`.
 ### Vulnerabilities
 - 
 
-### Resistances
+### Damage Resistances
 - 
 
-### Immunities
+### Damage Immunities
 - 
 
 ### Condition Immunities
@@ -153,10 +153,18 @@ It does **not** modify `MASTER.md`.
 
 ## Rewards
 
+- **Treasure Type:** 
 - **Experience:** 
 - **Gold Drop:** 
 - **Loot Table:** 
-- **Special Drop:** 
+- **Special Drop / Unique Drop:** 
+
+---
+
+## Comments
+
+- **Turn Comment Pool:** 
+- **Turn Comment Chance:** 5% at the start of its turn
 
 ---
 
@@ -185,12 +193,12 @@ It does **not** modify `MASTER.md`.
 
 ## Core Identity
 - Name:
+- Description:
 - Level:
 - Size:
 - Combat Slot Use:
 - Type:
 - Alignment:
-- Short Description:
 - Lore Notes:
 
 ## Combat Profile
@@ -232,9 +240,9 @@ It does **not** modify `MASTER.md`.
 - Additional Effect:
 
 ## Defense and Traits
-- Vulnerabilities:
-- Resistances:
-- Immunities:
+- Damage Vulnerabilities:
+- Damage Resistances:
+- Damage Immunities:
 - Condition Immunities:
 - Passive Traits:
 - Special Rules:
@@ -255,10 +263,15 @@ It does **not** modify `MASTER.md`.
 - Recommended Groupings:
 
 ## Rewards
+- Treasure Type:
 - Experience:
 - Gold Drop:
 - Loot Table:
-- Special Drop:
+- Special Drop / Unique Drop:
+
+## Comments
+- Turn Comment Pool:
+- Turn Comment Chance: 5% at the start of its turn
 
 ## Presentation
 - Portrait / Visual Brief:
