@@ -9,6 +9,7 @@ This folder contains individual monster entries for Umberhold.
 | Monster | Level | Size | Type | Notes |
 |---|---:|---|---|---|
 | [Boggart Knifer](./boggart-knifer.md) | 1 | Small | Humanoid | Early weak skirmisher with a rare unique drop: **Boggart Cloak** |
+| [Boggart Boneboiler](./boggart-boneboiler.md) | 2 | Small | Humanoid | Grease-hurling boggart brute with a **Polished Finger Bone** drop |
 | [Wulf](./wulf.md) | 1 | Small | Beast | Mangy pack beast with a diseased bite and a rare **Bone Collar** drop |
 
 ---
