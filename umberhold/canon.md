@@ -426,7 +426,24 @@ This includes the currently approved entries such as:
 
 ---
 
-## 19. Approved Rules Currently Locked
+## 19. Conditions
+
+The current approved condition list is:
+- Beguiled
+- Blinded
+- Frightened
+- Paralyzed
+- Poisoned
+- Silenced
+- Slept
+- Stunned
+
+The detailed rules for these conditions are maintained in:
+- `umberhold/conditions-canon.md`
+
+---
+
+## 20. Approved Rules Currently Locked
 
 The following are currently approved canon:
 
@@ -475,9 +492,13 @@ The following are currently approved canon:
 - spells explicitly marked as Bonus Action use the bonus action slot for the turn
 - the current cantrip and 1st-level spell list is tracked in `umberhold/spells-cantrips-1st.md`
 
+### Condition Rules
+- the current approved condition list is Beguiled, Blinded, Frightened, Paralyzed, Poisoned, Silenced, Slept, and Stunned
+- detailed condition behavior is tracked in `umberhold/conditions-canon.md`
+
 ---
 
-## 20. Still Open for Later Canonization
+## 21. Still Open for Later Canonization
 
 The following are still open and should be resolved in future canon passes:
 
@@ -509,14 +530,24 @@ The following are still open and should be resolved in future canon passes:
 - whether rest can ever be interrupted by scripted events in valid safe zones
 - higher-level spell lists beyond 1st level
 
+### Condition Open Questions
+- whether Beguiled and Soothed should remain separate conditions or merge into one rules concept
+- whether Stunned should prevent all actions instead of only applying attack/save penalties
+- whether Frightened affects spell targeting or only attacks
+- whether Blinded affects all targeted spell use
+- whether bosses have default immunities to specific control conditions
+- how cleansing/removal rules are distributed across items, spells, and services
+- exact timing for condition expiration when not stated explicitly by a spell or ability
+
 ---
 
-## 21. Source Sheets
+## 22. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`
 - `umberhold/damage-canon.md`
 - `umberhold/spellcasting-canon.md`
 - `umberhold/spells-cantrips-1st.md`
+- `umberhold/conditions-canon.md`
 
 These may still be kept as narrower reference sheets if useful.
