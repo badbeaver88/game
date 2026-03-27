@@ -34,164 +34,164 @@ Suggested marker:
 - [x] **Approve** replacing all mixed 5E labels in content with these terms.
 
 ## 1.2 Magic System Canon
-- [ ] **Approve** a single magic model: **per-level spell cast pools** that behave like slot tiers.
-- [ ] **Approve** cantrips as **unlimited use**.
-- [ ] **Approve** that all non-cantrip spells consume a cast from their spell level pool.
-- [ ] **Approve** recovery of spell casts only on **Long Rest at an Inn** unless a special effect says otherwise.
-- [ ] **Approve** removal of the contradictory “no spell slots, only spells” wording from the README.
+- [x] **Approve** a single magic model: **per-level spell cast pools** that behave like slot tiers.
+- [x] **Approve** cantrips as **unlimited use**.
+- [x] **Approve** that all non-cantrip spells consume a cast from their spell level pool.
+- [-] **Approve** recovery of spell casts only on **Long Rest at an Inn** unless a special effect says otherwise. (Long and short rests have been removed from the game. Now Resting at an inn takes 8 hours and functions like a long rest; all resources are recovered, including spell slots, hit points and class resources.) 
+- [x] **Approve** removal of the contradictory “no spell slots, only spells” wording from the README.
 
 ## 1.3 Death and Resurrection Canon
-- [ ] **Approve**: **0 HP = immediate death**.
-- [ ] **Approve** removing death saves from the design.
-- [ ] **Approve** resurrection failure formula as:
+- [x] **Approve**: **0 HP = immediate death**.
+- [x] **Approve** removing death saves from the design.
+- [x] **Approve** resurrection failure formula as:
   - `Failure Rate = 20% - Constitution Score`, minimum **1%**
-- [ ] **Approve** resurrection cost as:
+- [x] **Approve** resurrection cost as:
   - `500 gp x character level`
-- [ ] **Approve** failed resurrection as a real loss unless the player chooses to reload their last inn save.
+- [x] **Approve** failed resurrection as a real loss unless the player chooses to reload their last inn save. (This mechanic can be bypassed by players saving their game before attempting a resurrection. To prevent this, failure to resurrect causes the character to be turned to ash and even if a previous saved game is loaded, the player is gone, permanently).
 
 ## 1.4 Save / Consequence Canon
-- [ ] **Approve**: manual saves are only available at **Inns**.
-- [ ] **Approve**: no autosaves in dungeons.
-- [ ] **Approve**: a total party wipe sends the player to the **Graveyard Screen**.
-- [ ] **Approve**: loading a saved game returns to the **last Inn save**.
-- [ ] **Approve** that this is a **high-tension reload model**, not hardcore ironman.
+- [x] **Approve**: manual saves are only available at **Inns**.
+- [x] **Approve**: no autosaves in dungeons. (Some areas in dungeons allow the party to rest, functioning like an inn. These areas are clearly identified and typically require the party to clear a set number of encounters to make them safe.)
+- [x] **Approve**: a total party wipe sends the player to the **Graveyard Screen**.
+- [x] **Approve**: loading a saved game returns to the **last Inn save**.
+- [x] **Approve** that this is a **high-tension reload model**, not hardcore ironman.
 
 ## 1.5 Lockpicking and Trap Canon
-- [ ] **Approve**: **Shadowman** is the primary lock/trap specialist.
-- [ ] **Approve**: non-Shadowman characters cannot normally pick locks or disarm traps by skill.
-- [ ] **Approve**: locks/traps may still be bypassed by specific spells or items.
-- [ ] **Approve**: each character gets only **one attempt per lock** unless a special effect overrides it.
-- [ ] **Approve**: failed lock attempts jam the lock for that specific character only.
+- [x] **Approve**: **Shadowman** is the primary lock/trap specialist. (The Shadowman class is the only one who can pick locks and find and remove traps).
+- [x] **Approve**: non-Shadowman characters cannot normally pick locks or disarm traps by skill.
+- [x] **Approve**: locks/traps may still be bypassed by specific spells or items.
+- [x] **Approve**: each character gets only **one attempt per lock** unless a special effect overrides it.
+- [x] **Approve**: failed lock attempts jam the lock for that specific character only.
 
 ## 1.6 Warden Identity Canon
-- [ ] **Approve** the Warden’s casting stat as **PIE**.
-- [ ] **Approve** removing INT-based Warden references from the README.
+- [x] **Approve** the Warden’s casting stat as **PIE**.
+- [x] **Approve** removing INT-based Warden references from the README.
 
 ## 1.7 Combat Presentation Canon
-- [ ] **Approve** the **4-rank tactical axis** as the only combat battlefield model.
-- [ ] **Approve** deleting or ignoring the stray **20x20 combat grid** reference.
+- [x] **Approve** the **4-rank tactical axis** as the only combat battlefield model.
+- [x] **Approve** deleting or ignoring the stray **20x20 combat grid** reference.
 
 ---
 
 # 2. Exploration System Changes
 
 ## 2.1 Grid and Movement
-- [ ] **Approve** the world model as strict **26x26 coordinate grids** for all regions.
-- [ ] **Approve** first-person, step-based movement with **90-degree turns**.
-- [ ] **Approve** movement inputs as:
+- [x] **Approve** the world model as strict **26x26 coordinate grids** for all regions.
+- [x] **Approve** first-person, step-based movement with **90-degree turns**.
+- [x] **Approve** movement inputs as:
   - forward
   - backward
   - turn left
   - turn right
-- [ ] **Approve** no free-look and no freeform analog movement.
+- [x] **Approve** no free-look and no freeform analog movement.
 
 ## 2.2 Encounter Trigger Rules
-- [ ] **Approve** random encounter checks only on **successful movement into a new tile**.
-- [ ] **Approve** no random encounter rolls when only turning in place.
-- [ ] **Approve** encounter rates to be **region-specific and tile-tag aware**.
-- [ ] **Approve** set-piece coordinates suppressing random encounters while their event is active.
+- [x] **Approve** random encounter checks only on **successful movement into a new tile**.
+- [x] **Approve** no random encounter rolls when only turning in place.
+- [x] **Approve** encounter rates to be **region-specific and tile-tag aware**.
+- [x] **Approve** set-piece coordinates suppressing random encounters while their event is active.
 
 ## 2.3 Map Authoring Standard
-- [ ] **Approve** all maps being authored from external data files, not hardcoded scene logic.
-- [ ] **Approve** each tile storing at minimum:
+- [x] **Approve** all maps being authored from external data files, not hardcoded scene logic.
+- [x] **Approve** each tile storing at minimum:
   - coordinate
   - wall/passability
   - texture/theme
   - trigger reference
   - interactable reference
   - encounter table reference
-- [ ] **Approve** adding support for one-time, repeatable, and conditional step triggers.
+- [x] **Approve** adding support for one-time, repeatable, and conditional step triggers.
 
 ## 2.4 Navigation UX
-- [ ] **Approve** an automap/minimap in the vertical slice.
-- [ ] **Approve** visible facing direction and current coordinate in the HUD.
-- [ ] **Approve** basic accessibility options for turn speed and camera comfort.
+- [x] **Approve** an automap/minimap in the vertical slice.
+- [x] **Approve** visible facing direction and current coordinate in the HUD.
+- [x] **Approve** basic accessibility options for turn speed and camera comfort.
 
 ---
 
 # 3. Combat System Changes
 
 ## 3.1 Party Formation Rules
-- [ ] **Approve** the player party as a **fixed 3 front / 3 rear formation**.
-- [ ] **Approve** no player-side slot sizing in version 1 of the combat system.
-- [ ] **Approve** Large player races affecting stats and equipment rules, but **not consuming extra party formation slots** in v1.
-- [ ] **Approve** dead party members being moved to the rear visually but not automatically replaced mid-turn.
-- [ ] **Approve** party rank reordering only outside combat for the first implementation.
+- [x] **Approve** the player party as a **fixed 3 front / 3 rear formation**.
+- [x] **Approve** no player-side slot sizing in version 1 of the combat system.
+- [x] **Approve** Large player races affecting stats and equipment rules, but **not consuming extra party formation slots** in v1.
+- [-] **Approve** dead party members being moved to the rear visually but not automatically replaced mid-turn. (The party oredr is 1-6, assuming a full party of 6. The first 3 are in the front rank, and the last 3 are in the rear rank. Dead characters are moved to back of the party, and the living characters move up a slot.) 
+- [x] **Approve** party rank reordering only outside combat for the first implementation. (By drag and dropping on another character's portrait to switch positions)
 
 ## 3.2 Enemy Formation Rules
-- [ ] **Approve** enemy formation as:
+- [x] **Approve** enemy formation as:
   - Enemy Front Rank: 6 slots
   - Enemy Rear Rank: 6 slots
-- [ ] **Approve** enemy size costs:
+- [x] **Approve** enemy size costs:
   - Medium = 1 slot
   - Large = 2 slots
   - Huge = 3 slots
   - Gigantic = 4 slots
-- [ ] **Approve** large enemies occupying contiguous slots.
+- [-] **Approve** large enemies occupying contiguous slots. (I'm unsure what this means)
 
 ## 3.3 Range and Targeting
-- [ ] **Approve** range validation by rank distance:
+- [x] **Approve** range validation by rank distance:
   - adjacent ranks = distance 1
   - one-rank gap = distance 2
   - two-rank gap = distance 3
-- [ ] **Approve** target selection against specific enemy slot groups/portraits.
-- [ ] **Approve** area effects using horizontal slot geometry where relevant.
-- [ ] **Approve** invalid range feedback appearing before action resolution.
+- [x] **Approve** target selection against specific enemy slot groups/portraits.
+- [x] **Approve** area effects using horizontal slot geometry where relevant.
+- [x] **Approve** invalid range feedback appearing before action resolution.
 
 ## 3.4 Action Economy
-- [ ] **Approve** one primary action per combat turn in the first implementation.
-- [ ] **Approve** available actions as:
+- [x] **Approve** one primary action per combat turn in the first implementation.
+- [x] **Approve** available actions as:
   - Attack
   - Cast Spell
   - Use Item
   - Dodge/Defend
   - Equip/Swap Weapon
-- [ ] **Approve** weapon swap consuming the turn in the first implementation.
-- [ ] **Approve** bonus actions and reactions being deferred unless a class absolutely requires them.
+- [x] **Approve** weapon swap consuming the turn in the first implementation.
+- [-] **Approve** bonus actions and reactions being deferred unless a class absolutely requires them. (Reactions ahve been removed from the game)
 
 ## 3.5 Core Combat Math
-- [ ] **Approve** using a 5E-style attack roll foundation for physical attacks.
-- [ ] **Approve** using spell save DC:
+- [x] **Approve** using a 5E-style attack roll foundation for physical attacks.
+- [x] **Approve** using spell save DC:
   - `8 + proficiency + casting modifier`
-- [ ] **Approve** status durations to tick down on clearly defined turn boundaries.
-- [ ] **Approve** crit rules to be explicitly specified for all classes in `canon.md`.
+- [x] **Approve** status durations to tick down on clearly defined turn boundaries.
+- [x] **Approve** crit rules to be explicitly specified for all classes in `canon.md`.
 
 ## 3.6 Enemy AI
-- [ ] **Approve** enemy AI profiles as explicit data-driven behavior sets.
-- [ ] **Approve** melee enemies with `advance` behavior moving from rear to front when space allows.
-- [ ] **Approve** ranged/caster enemies preferring rear rank unless forced forward.
-- [ ] **Approve** boss AI using bespoke scripted behavior layers on top of base profiles.
+- [x] **Approve** enemy AI profiles as explicit data-driven behavior sets.
+- [x] **Approve** melee enemies with `advance` behavior moving from rear to front when space allows.
+- [x] **Approve** ranged/caster enemies preferring rear rank unless forced forward.
+- [x] **Approve** boss AI using bespoke scripted behavior layers on top of base profiles.
 
-## 3.7 Status System
-- [ ] **Approve** a canonical condition list for the vertical slice, including at minimum:
+## 3.7 Status System (I've provided a list of conditions)
+- [-] **Approve** a canonical condition list for the vertical slice, including at minimum:
   - Poisoned
   - Charmed
   - Blinded
   - Frightened
   - Sleep
   - Bleeding
-- [ ] **Approve** defining resistance, immunity, cleansing, stacking, and timing rules in `canon.md`.
+- [x] **Approve** defining resistance, immunity, cleansing, stacking, and timing rules in `canon.md`.
 
 ---
 
 # 4. Character System Changes
 
 ## 4.1 Vertical Slice Class Scope
-- [ ] **Approve** limiting the first playable slice to these classes:
+- [ ] **Approve** limiting the first playable slice to these classes: (I'd like all classes in)
   - Man-at-Arms
   - Shadowman
   - Friar
 - [ ] **Approve** deferring the rest until the core loop is proven.
 
 ## 4.2 Vertical Slice Race Scope
-- [ ] **Approve** limiting the first playable slice to these races:
+- [ ] **Approve** limiting the first playable slice to these races: (I'd like all races in)
   - Human
   - Stoutling
   - Hillkin
 - [ ] **Approve** deferring the rest until later production.
 
 ## 4.3 Character Creation Scope
-- [ ] **Approve** first implementation character creation flow as:
+- [x] **Approve** first implementation character creation flow as:
   - sex
   - race
   - class
@@ -200,14 +200,14 @@ Suggested marker:
   - starting gold
   - keep/discard
   - name
-- [ ] **Approve** no class/race restrictions in the first playable slice unless balance requires it.
+- [x] **Approve** no class/race restrictions in the first playable slice unless balance requires it.
 
 ## 4.4 Vocation Scope
-- [ ] **Approve** vocations as **passive background perks only** in the first implementation.
-- [ ] **Approve** no vocation-specific dialogue or quest branching in the vertical slice.
+- [x] **Approve** vocations as **passive background perks only** in the first implementation.
+- [x] **Approve** no vocation-specific dialogue or quest branching in the vertical slice.
 
 ## 4.5 Luck Integration
-- [ ] **Approve** Luck affecting at least these systems in the final rules pass:
+- [-] **Approve** Luck affecting at least these systems in the final rules pass: (I will provide Luck rules soon)
   - trap avoidance or trap saves
   - rare loot / event rolls
   - initiative tie-breaks or crit-related subrules
@@ -218,33 +218,37 @@ Suggested marker:
 # 5. Progression, Economy, and Inventory Changes
 
 ## 5.1 XP Curve
-- [ ] **Approve** using a **5x 5E XP curve** as the long-term progression model.
-- [ ] **Approve** producing an explicit level table for levels **1-10** in `canon.md`.
+- [x] **Approve** using a **5x 5E XP curve** as the long-term progression model.
+- [x] **Approve** producing an explicit level table for levels **1-10** in `canon.md`.
 - [ ] **Approve** using a reduced temporary cap of **3 to 5** in the vertical slice.
 
 ## 5.2 Inventory Rules
-- [ ] **Approve** inventory as both **weight-limited** and **slot-limited** where needed by UI.
-- [ ] **Approve** no item stacking.
-- [ ] **Approve** equipped items counting toward carry burden.
-- [ ] **Approve** trading items between party members.
+- [x] **Approve** inventory as both **weight-limited** and **slot-limited** where needed by UI. 
+- [x] **Approve** no item stacking.
+- [x] **Approve** equipped items counting toward carry burden.
+- [x] **Approve** trading items between party members.
+
+The paperdoll has the following slots: Torso (armor), main and offhand (offhand shaded out if a two handed weapon is equiped in main hand), Feet (boots), Head (cap, helm, hat), Hands (gloves, bracers), Neck (necklace), Fingers (two rings are allowed), Special (4 slots are available for various items like Ioun Stones, broaches and the like). 
+
+
 
 ## 5.3 Encumbrance Formula
-- [ ] **Approve** defining a hard carry-cap formula tied primarily to **STR**.
-- [ ] **Approve** preventing item pickup when over capacity rather than allowing overloaded movement penalties.
+- [x] **Approve** defining a hard carry-cap formula tied primarily to **STR**.
+- [x] **Approve** preventing item pickup when over capacity rather than allowing overloaded movement penalties.
 
 ## 5.4 Shop and Economy Rules
-- [ ] **Approve** creating explicit pricing tables for:
+- [x] **Approve** creating explicit pricing tables for:
   - resting
   - healing
   - resurrection
   - identification
   - potions
   - weapon/armor resale
-- [ ] **Approve** shops as mostly static inventories in the vertical slice.
-- [ ] **Approve** a fixed resale percentage for clarity.
+- [x] **Approve** shops as mostly static inventories in the vertical slice.
+- [x] **Approve** a fixed resale percentage for clarity.
 
 ## 5.5 Ammunition Decision
-- [ ] **Approve** one of the following for the first slice:
+- [x] **Approve** one of the following for the first slice: (It is assumed characters have unlimited ammunition for the ranged weapons they carry; this is not recorded or tracked and is a QOL mechanic).
   - **Option A:** abstract ammo and do not track arrows/bolts yet
   - **Option B:** fully track ammo as non-stacking items
 - [ ] **Approve** default recommendation: **Option A** for vertical slice simplicity.
@@ -254,27 +258,27 @@ Suggested marker:
 # 6. Narrative and Quest Changes
 
 ## 6.1 Narrative Scope Lock
-- [ ] **Approve** the first vertical slice story as:
+- [x] **Approve** the first vertical slice story as:
   - life in Umberhold
   - disappearances begin
   - Gravenhollow Manor opens
   - villagers are missing
   - the manor reveals necromantic corruption
   - first major boss is defeated
-- [ ] **Approve** not building all nine regions before the opening act is polished.
+- [x] **Approve** not building all nine regions before the opening act is polished.
 
 ## 6.2 Narrative Flag System
-- [ ] **Approve** a global story flag dictionary driving:
+- [x] **Approve** a global story flag dictionary driving:
   - quest states
   - NPC dialogue changes
   - event conditions
   - set-piece outcomes
   - boss defeat persistence
-- [ ] **Approve** all fixed encounters and story events checking flags before firing.
+- [x] **Approve** all fixed encounters and story events checking flags before firing. (Most fixed encounters will be larger combats with a fixed number of monsters, and often a unique, named 'boss' monster not encountered anywhere else.)
 
 ## 6.3 Set-Piece Authoring
-- [ ] **Approve** set pieces as data-driven scripted events, not hardcoded one-offs.
-- [ ] **Approve** support for:
+- [-] **Approve** set pieces as data-driven scripted events, not hardcoded one-offs. (There may be some dialogue before combat begins, and occasionally combat may be avoided by good parley).
+- [x] **Approve** support for:
   - dialogue
   - battle start
   - item grant
@@ -282,16 +286,20 @@ Suggested marker:
   - NPC spawn/despawn
   - conditional branch by prior choices
 
+
+QUEST ITEMS - quest items are necessary for completion of the game. When the party recieve these, they go into a separate Quest Items tab on the UI. These items cannot be dropped, sold or lost; they are permanent inventory once picked up in order to ensure the game can be completed.
+
+
 ## 6.4 NPC Reactivity Scope
-- [ ] **Approve** “intelligent NPCs” being implemented as **conditional authored dialogue**, not generative AI behavior.
-- [ ] **Approve** deferring advanced NPC simulation.
+- [x] **Approve** “intelligent NPCs” being implemented as **conditional authored dialogue**, not generative AI behavior.
+- [x] **Approve** deferring advanced NPC simulation.
 
 ---
 
 # 7. UI/UX Changes
 
 ## 7.1 Combat UI Priorities
-- [ ] **Approve** combat HUD must clearly show:
+- [x] **Approve** combat HUD must clearly show:
   - party front/rear
   - enemy front/rear
   - enemy slot occupancy
@@ -299,12 +307,12 @@ Suggested marker:
   - initiative order
   - status icons
   - combat log
-- [ ] **Approve** range failure messaging such as:
+- [x] **Approve** range failure messaging such as:
   - “Target out of range”
   - “No valid target in selected rank”
 
 ## 7.2 Explore UI Priorities
-- [ ] **Approve** exploration HUD must show:
+- [x] **Approve** exploration HUD must show:
   - minimap / automap
   - facing direction
   - current coordinate
@@ -313,12 +321,12 @@ Suggested marker:
   - interact prompt when relevant
 
 ## 7.3 Input Philosophy
-- [ ] **Approve** keyboard-first controls with mouse-assisted targeting.
-- [ ] **Approve** right-click or Escape to cancel pending target selection.
-- [ ] **Approve** keyboard-only fallback support where practical.
+- [x] **Approve** keyboard-first controls with mouse-assisted targeting.
+- [x] **Approve** right-click or Escape to cancel pending target selection.
+- [x] **Approve** keyboard-only fallback support where practical.
 
 ## 7.4 Accessibility
-- [ ] **Approve** minimum accessibility support in the vertical slice:
+- [x] **Approve** minimum accessibility support in the vertical slice:
   - key rebinding
   - turn speed/snap turn settings
   - subtitle/combat log readability
@@ -329,8 +337,8 @@ Suggested marker:
 # 8. Technical and Pipeline Changes
 
 ## 8.1 Engine Decision
-- [ ] **Approve** selecting the engine before deeper implementation begins.
-- [ ] **Approve** making engine choice based on:
+- [x] **Approve** selecting the engine before deeper implementation begins.
+- [x] **Approve** making engine choice based on:
   - first-person grid rendering ease
   - UI tooling
   - data loading workflow
@@ -338,7 +346,7 @@ Suggested marker:
   - team familiarity
 
 ## 8.2 Data-Driven Architecture
-- [ ] **Approve** external data files for:
+- [x] **Approve** external data files for:
   - maps
   - tiles
   - encounters
@@ -352,47 +360,47 @@ Suggested marker:
   - dialogue
   - shops
   - flags
-- [ ] **Approve** schema validation for content files.
+- [x] **Approve** schema validation for content files.
 
 ## 8.3 Tooling Requirement
-- [ ] **Approve** building or adopting tools for:
+- [x] **Approve** building or adopting tools for:
   - map editing
   - encounter table editing
   - dialogue editing
   - content validation
   - save inspection/debugging
-- [ ] **Approve** this as a production requirement, not a nice-to-have.
+- [x] **Approve** this as a production requirement, not a nice-to-have.
 
 ## 8.4 Save System Scope
-- [ ] **Approve** multiple manual save slots at Inns.
-- [ ] **Approve** saving party roster, items, gold, flags, fixed encounter states, and world progression.
-- [ ] **Approve** random encounters not needing per-encounter persistence.
+- [x] **Approve** multiple manual save slots at Inns. (5 saves are available; A-E. These can be overwritten.)
+- [x] **Approve** saving party roster, items, gold, flags, fixed encounter states, and world progression.
+- [x] **Approve** random encounters not needing per-encounter persistence.
 
 ## 8.5 Testing Strategy
-- [ ] **Approve** adding automated validation for:
+- [x] **Approve** adding automated validation for:
   - range checks
   - enemy advance logic
   - slot occupancy
   - save/load integrity
   - resurrection math
   - flag gating
-- [ ] **Approve** simulation tests for combat edge cases.
+- [x] **Approve** simulation tests for combat edge cases.
 
 ---
 
 # 9. Vertical Slice Scope Changes
 
 ## 9.1 Slice Boundary
-- [ ] **Approve** the vertical slice as:
+- [x] **Approve** the vertical slice as:
   - Umberhold village hub
   - Gravenhollow Manor first dungeon experience
   - 1 boss
   - 2-3 side quests
   - full inn/shop/chantry loop
-- [ ] **Approve** no expansion beyond this until the slice is fun and stable.
+- [x] **Approve** no expansion beyond this until the slice is fun and stable.
 
 ## 9.2 Content Count Targets
-- [ ] **Approve** approximate vertical slice targets:
+- [-] **Approve** approximate vertical slice targets: (I'd like all classes and races in)
   - 1 town hub
   - 1 dungeon map
   - 8-12 monsters
@@ -404,7 +412,7 @@ Suggested marker:
   - 1 boss
 
 ## 9.3 Done Criteria
-- [ ] **Approve** vertical slice success criteria:
+- [x] **Approve** vertical slice success criteria:
   - create a party
   - explore a 3D 26x26 map
   - trigger random and fixed encounters
@@ -419,7 +427,7 @@ Suggested marker:
 # 10. Documentation Changes
 
 ## 10.1 New Required Docs
-- [ ] **Approve** creation of these follow-up docs:
+- [x] **Approve** creation of these follow-up docs:
   - `canon.md` — final rules and formulas
   - `slice.md` — exact first playable scope
   - `schemas.md` — content data formats
@@ -427,7 +435,7 @@ Suggested marker:
   - `economy.md` — XP, gold, prices, carry formulas
 
 ## 10.2 README Cleanup Pass
-- [ ] **Approve** a future README cleanup to remove contradictions after canon decisions are signed off.
+- [x] **Approve** a future README cleanup to remove contradictions after canon decisions are signed off.
 
 ---
 
@@ -472,19 +480,19 @@ If you want to approve in the best sequence, do it in this order:
 
 If you want the shortest path to approval, these are the recommended defaults:
 
-- [ ] Use **STR / AGI / CON / INT / PIE / PRE / LCK**
-- [ ] Use **per-level spell cast pools** with free cantrips
-- [ ] Use **0 HP = death**
-- [ ] Use resurrection failure = **20% - CON**, min 1%
-- [ ] Use **Inn-only manual saves**
-- [ ] Make **Shadowman** the lock/trap specialist
-- [ ] Make **Warden PIE-based**
-- [ ] Use **4-rank combat only**
-- [ ] Use **3 front / 3 rear party formation**
-- [ ] Use **6-slot enemy ranks**
-- [ ] Build **Umberhold + Gravenhollow** first
-- [ ] Limit the vertical slice to **3 classes / 3 races / 1 dungeon / 1 boss**
-- [ ] Make the whole project **data-driven** from the start
+- [x] Use **STR / AGI / CON / INT / PIE / PRE / LCK**
+- [x] Use **per-level spell cast pools** with free cantrips
+- [x] Use **0 HP = death**
+- [x] Use resurrection failure = **20% - CON**, min 1%
+- [x] Use **Inn-only manual saves**
+- [x] Make **Shadowman** the lock/trap specialist
+- [x] Make **Warden PIE-based**
+- [x] Use **4-rank combat only**
+- [x] Use **3 front / 3 rear party formation**
+- [x] Use **6-slot enemy ranks**
+- [x] Build **Umberhold + Gravenhollow** first
+- [-] Limit the vertical slice to **3 classes / 3 races / 1 dungeon / 1 boss**
+- [x] Make the whole project **data-driven** from the start
 
 ---
 
