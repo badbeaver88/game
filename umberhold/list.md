@@ -23,7 +23,7 @@ Suggested marker:
 # 1. Canon Rules Changes
 
 ## 1.1 Stat Naming Standardization
-- [ ] **Approve** one canonical stat set for all systems and UI:
+- [x] **Approve** one canonical stat set for all systems and UI:
   - **STR** = Strength
   - **AGI** = Agility
   - **CON** = Constitution
@@ -31,7 +31,7 @@ Suggested marker:
   - **PIE** = Piety
   - **PRE** = Personality
   - **LCK** = Luck
-- [ ] **Approve** replacing all mixed 5E labels in content with these terms.
+- [x] **Approve** replacing all mixed 5E labels in content with these terms.
 
 ## 1.2 Magic System Canon
 - [ ] **Approve** a single magic model: **per-level spell cast pools** that behave like slot tiers.
