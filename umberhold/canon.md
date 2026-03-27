@@ -508,7 +508,27 @@ The current approved experience rules are maintained in:
 
 ---
 
-## 22. Approved Rules Currently Locked
+## 22. Currency and Gemstones
+
+The current approved currency rules are maintained in:
+- `umberhold/currency-canon.md`
+
+The current gemstone reference is maintained in:
+- `umberhold/items/gemstones.md`
+
+### Current Currency Rules
+- Umberhold uses three coin types: Silver Rook, Gold Crown, and Platinum Stag
+- Silver Rook is the base coin
+- Gold Crown is worth 10 Silver Rooks
+- Platinum Stag is worth 25 Gold Crowns
+
+### Current Gemstone Rules
+- gemstones are valid loot-table valuables
+- gemstone values are currently tracked in Gold Crowns
+
+---
+
+## 23. Approved Rules Currently Locked
 
 The following are currently approved canon:
 
@@ -576,7 +596,7 @@ The following are currently approved canon:
 
 ---
 
-## 23. Still Open for Later Canonization
+## 24. Still Open for Later Canonization
 
 The following are still open and should be resolved in future canon passes:
 
@@ -631,9 +651,15 @@ The following are still open and should be resolved in future canon passes:
 - whether escape or partial-victory outcomes grant reduced XP
 - the exact level-up benefits by class and level
 
+### Currency and Gemstone Open Questions
+- whether older `gp` prices in existing notes should be universally converted to Gold Crowns
+- whether shops ever display prices directly in mixed denominations
+- whether gemstones can have special uses beyond sale value, such as quest, ritual, or crafting functions
+- whether gemstones stack in inventory or remain individual items under no-stacking rules
+
 ---
 
-## 24. Source Sheets
+## 25. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`

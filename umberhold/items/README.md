@@ -9,6 +9,9 @@ This folder contains individual item entries for Umberhold.
 | Item | Type | Magical | Weight | Source |
 |---|---|---|---:|---|
 | [Boggart Cloak](./boggart-cloak.md) | Cloak / Armor Accessory | No | 1 stone | Rare drop from **Boggart Knifer** |
+| [Bone Collar](./bone-collar.md) | Collar / Trade Good | No | TBD | Rare drop from **Wulf** |
+| [Polished Finger Bone](./polished-finger-bone.md) | Curio / Trade Good | No | TBD | Rare drop from **Boggart Boneboiler** |
+| [Gemstone Reference](./gemstones.md) | Loot Reference | No | — | Standard gemstone values for treasure tables |
 
 ---
 
