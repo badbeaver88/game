@@ -594,8 +594,6 @@ The following are still open and should be resolved in future canon passes:
 - exact timing for condition expiration when not stated explicitly by a spell or ability
 
 ### Monster Open Questions
-- whether monsters will ever exceed level 20 in released content
-- whether the proficiency table needs values above level 20 if the current monster cap remains 20
 - the exact XP table by monster level
 - whether monster hit points use only size dice or also add Constitution-derived bonuses by level
 - whether alignment has any systemic effect beyond lore and spell interaction

@@ -135,14 +135,13 @@ Each attribute currently ranges from:
 
 | Level Range | Proficiency Bonus |
 |---|---|
-| 1-4 | +2 |
-| 5-8 | +3 |
-| 9-12 | +4 |
-| 13-16 | +5 |
-| 17-20 | +6 |
-| 21-24 | +7 |
-| 25-28 | +8 |
-| 29+ | +9 |
+| 1-3 | +2 |
+| 4-6 | +3 |
+| 7-9 | +4 |
+| 10-12 | +5 |
+| 13-15 | +6 |
+| 16-18 | +7 |
+| 19-20 | +8 |
 
 ---
 
@@ -200,8 +199,6 @@ This document locks in the following:
 ## 14. Still Open for Later Canonization
 
 The following are still open and may need later clarification:
-- whether monsters will ever exceed level 20 in released content
-- whether the proficiency table needs values above level 20 if the current monster cap remains 20
 - the exact XP table by monster level
 - whether monster hit points use only size dice or also add Constitution-derived bonuses by level
 - whether alignment has any systemic effect beyond lore and spell interaction
