@@ -478,13 +478,30 @@ The baseline monster entry currently includes:
 - Huge occupies **3 slots**
 - Gigantic occupies **4 slots**
 - unarmored AC starts at **10**
+- monster hit dice scale by size: Small **1d6**, Medium **1d8**, Large **1d12**, Huge **2d10**, Gigantic **2d20** per level
+- monster proficiency bonus uses the current progression: **1-3 +2, 4-6 +3, 7-9 +4, 10-12 +5, 13-15 +6, 16-18 +7, 19-20 +8**
 - monsters use the same seven core attributes as player characters
 - monster attributes currently range from **3-30**
 - monsters have explicit saving throw proficiencies, skill proficiencies, attacks, and XP value
 
 ---
 
-## 21. Approved Rules Currently Locked
+## 21. Experience and Leveling Access
+
+The current approved experience rules are maintained in:
+- `umberhold/experience-canon.md`
+
+### Current XP Rules
+- monsters award XP based on monster level
+- the XP table for monster levels 1-20 is defined
+- XP is shared equally among surviving party members
+- leveling up is performed at an inn
+- leveling up has no gold cost
+- full level-up rules will be defined separately
+
+---
+
+## 22. Approved Rules Currently Locked
 
 The following are currently approved canon:
 
@@ -552,7 +569,7 @@ The following are currently approved canon:
 
 ---
 
-## 22. Still Open for Later Canonization
+## 23. Still Open for Later Canonization
 
 The following are still open and should be resolved in future canon passes:
 
@@ -594,15 +611,22 @@ The following are still open and should be resolved in future canon passes:
 - exact timing for condition expiration when not stated explicitly by a spell or ability
 
 ### Monster Open Questions
-- the exact XP table by monster level
 - whether monster hit points use only size dice or also add Constitution-derived bonuses by level
 - whether alignment has any systemic effect beyond lore and spell interaction
 - the full canonical skill list used by monsters and characters
 - whether monster spellcasters follow player spell slot rules or use bespoke spellcasting packages
 
+### Experience Open Questions
+- the exact character XP thresholds required for levels 1-10
+- whether benched roster members ever receive shared XP
+- whether summoned allies or temporary NPC allies affect XP splitting
+- whether story or quest XP exists in addition to monster XP
+- whether escape or partial-victory outcomes grant reduced XP
+- the exact level-up benefits by class and level
+
 ---
 
-## 23. Source Sheets
+## 24. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`

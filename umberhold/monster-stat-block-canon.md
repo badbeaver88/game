@@ -171,7 +171,8 @@ A monster's attack list should include, at minimum:
 
 Each monster should include an **Experience** value showing how much XP is awarded to the party for slaying it.
 
-The exact XP table should be defined separately.
+The exact XP values by monster level are maintained in:
+- `umberhold/experience-canon.md`
 
 ---
 
@@ -199,7 +200,6 @@ This document locks in the following:
 ## 14. Still Open for Later Canonization
 
 The following are still open and may need later clarification:
-- the exact XP table by monster level
 - whether monster hit points use only size dice or also add Constitution-derived bonuses by level
 - whether alignment has any systemic effect beyond lore and spell interaction
 - the full canonical skill list used by monsters and characters
