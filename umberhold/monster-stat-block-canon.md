@@ -13,6 +13,7 @@ It does **not** modify `MASTER.md`.
 | Field | Details |
 |---|---|
 | Name | Name of the creature |
+| Description | Describes the creature in detail, including appearance, odor, demeanor, behavior, and other sensory notes |
 | Level | 1-20 |
 | Size | Small, Medium, Large, Huge, or Gigantic |
 | Type | Beast, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Insect, Monstrosity, Ooze, Plant, or Undead |
@@ -29,7 +30,12 @@ It does **not** modify `MASTER.md`.
 | Proficiency Bonus | Based on level progression |
 | Saving Throw Proficiencies | List of proficient saves |
 | Skill Proficiencies | List of proficient skills |
+| Damage Vulnerabilities | List of damage vulnerabilities |
+| Damage Resistances | List of damage resistances |
+| Condition Immunities | List of condition immunities |
 | Attacks | List of attacks, including to-hit, damage, damage type, and special effects |
+| Treasure Type | Treasure category from A-Z, based on treasure tables |
+| Comments | Optional creature comments, including a 5% chance at the start of its turn to speak a random humorous line appropriate to its creature type |
 | Experience | XP awarded to the party for slaying the monster |
 
 ---
@@ -155,7 +161,18 @@ If a monster is proficient in a save or skill, it adds its proficiency bonus to 
 
 ---
 
-## 11. Attacks
+## 11. Damage and Condition Defenses
+
+Monster entries may include:
+- damage vulnerabilities
+- damage resistances
+- condition immunities
+
+These should use Umberhold's current damage types and condition list.
+
+---
+
+## 12. Attacks
 
 A monster's attack list should include, at minimum:
 - attack name
@@ -167,8 +184,18 @@ A monster's attack list should include, at minimum:
 
 ---
 
-## 12. Experience Awards
+## 13. Treasure, Comments, and Experience
 
+### Treasure Type
+Each monster may include a **Treasure Type** field from **A-Z**, based on Umberhold's treasure tables.
+
+### Comments
+Each monster may include a **Comments** field.
+
+This currently supports flavor such as:
+- a **5% chance** at the start of its turn to speak a random humorous line appropriate to its creature type
+
+### Experience
 Each monster should include an **Experience** value showing how much XP is awarded to the party for slaying it.
 
 The exact XP values by monster level are maintained in:
@@ -176,7 +203,7 @@ The exact XP values by monster level are maintained in:
 
 ---
 
-## 13. Approved Rules Captured Here
+## 14. Approved Rules Captured Here
 
 This document locks in the following:
 - monsters use Level rather than challenge rating
@@ -193,11 +220,15 @@ This document locks in the following:
 - monsters use the same seven core attributes as player characters
 - monster attributes currently range from 3-30
 - proficiency bonus follows the current level progression table
-- monster entries include saving throw proficiencies, skill proficiencies, attacks, and XP value
+- monster entries include a Description field
+- monster entries include saving throw proficiencies and skill proficiencies
+- monster entries may include damage vulnerabilities, damage resistances, and condition immunities
+- monster entries include attacks and XP value
+- monster entries may include Treasure Type and Comments
 
 ---
 
-## 14. Still Open for Later Canonization
+## 15. Still Open for Later Canonization
 
 The following are still open and may need later clarification:
 - whether monster hit points use only size dice or also add Constitution-derived bonuses by level
@@ -207,7 +238,7 @@ The following are still open and may need later clarification:
 
 ---
 
-## 15. Implementation Note
+## 16. Implementation Note
 
 This file is a standalone approved rules sheet.
 It does **not** modify `MASTER.md`.
