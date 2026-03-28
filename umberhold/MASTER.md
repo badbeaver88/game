@@ -858,7 +858,7 @@ Would you like me to create a **Resurrection Table** showing the exact failure p
 | Man-at-Arms (fighter)  | STR / CON          | Warlord        | Tank: Front-line anchor. |
 | Warden (ranger)       | AGI / PIE          | Nature-Wraith  | Scout: Excels at point-blank archery. A half caster.                  |
 | Hedge Wizard (wizard) | INT                | Black Archon   | Full caster: rear-rank blaster, elemental specialist, and anti-magic spellcaster.           |
-| Friar (cleric)        | PIE                | Living-Icon    | Healer.         |
+| Friar (cleric)        | PIE                | Saint of the Last Rite | Full caster: healer, undead controller, and quarterstaff battle-priest.         |
 | Crusader (paladin)     | STR / PIE          | Divine Exemplar | Front-rank holy bruiser, aura support, and anti-evil half caster.         |
 | Troubadour (bard)   | PRE / LCK          | Oracle         | Support half caster. Uses instruments and sustained songs to bolster allies and hinder enemies.   |
 
@@ -964,6 +964,51 @@ Whenever you cast a spell that deals damage of your chosen type, it deals an add
 **Cataclysm Casting:** Whenever you cast a damaging spell, roll an unmodified d20. On a result of 20, the spell becomes a critical spell and deals double damage dice.
 
 **Spell Reflection:** When a spell directly targets you, there is a 5% + 1% per point of your Luck modifier chance to reflect the spell back at the caster. This does not apply to area-of-effect spells or abilities that do not specifically target you.
+
+\page
+
+Friar
+
+| Level | Title | Feature / Growth Highlights |
+| ----- | ----- | --------------------------- |
+| 1 | Penitent Wanderer | Spellcasting (Piety), Quarterstaff Mastery |
+| 2 | Ashen Disciple | Turn Undead |
+| 3 | Flagellant | Uncapped Attribute Growth |
+| 4 | Keeper of Relics | Sacred Retribution |
+| 5 | Lantern Bearer | Thunderstrike, Empowered Healing |
+| 6 | Voice of Penance | Turn Undead (Flee), Sanctified Staff |
+| 7 | Mortified Saint | Uncapped Attribute Growth |
+| 8 | Warden of Ash | Divine Restoration |
+| 9 | Living Reliquary | Embrace of Solace |
+| 10 | Saint of the Last Rite | Turn Undead (Annihilation), Uncapped Attribute Growth |
+
+**Spellcasting:** You are a full caster. Your spellcasting ability is Piety.
+
+**Quarterstaff Mastery:** Your preferred weapon is the quarterstaff. While wielding a quarterstaff, your attacks score a critical hit on a roll of 19-20. On a critical hit, the target is stunned until the end of its next turn.
+
+**Turn Undead:** Requires a holy symbol of Solace. As an action, all undead must make a Piety saving throw against your spell DC. On a failure, they gain the Frightened condition and may repeat the save at the end of each of their turns.
+
+This ability may be used once per combat and up to three times before requiring a Rest.
+
+If an undead creature rolls a natural 1 on this saving throw, it is destroyed.
+
+**Uncapped Attribute Growth:** You can permanently increase two attributes by 1 point each, or increase one attribute by 2 points.
+
+**Sacred Retribution:** When an undead creature hits you with a melee attack, you may immediately make a melee attack against that creature, provided it is within your reach and you are wielding a melee weapon. This effect can only occur once per turn.
+
+**Thunderstrike:** When you hit with a melee attack, there is a 15% + 1% per point of your Luck modifier chance that Solace's wrath calls down a bolt of lightning upon your target, dealing an additional 4d6 lightning damage.
+
+**Empowered Healing:** Your healing spells restore an additional die of healing.
+
+**Turn Undead (Flee):** Undead that fail their saving throw now flee. You gain full experience as if they were slain, but they drop no treasure.
+
+**Sanctified Staff:** Your quarterstaff attacks deal an additional die of holy damage.
+
+**Divine Restoration:** Your healing spells can now critically heal. When you cast a healing spell, roll a d20; on a 20, the healing is doubled as per a critical hit.
+
+**Embrace of Solace:** Damage that would reduce you to 0 hit points instead reduces you to 1 hit point. This effect can occur once and recharges after a Rest.
+
+**Turn Undead (Annihilation):** Undead that fail their saving throw are destroyed.
 
 \page
 

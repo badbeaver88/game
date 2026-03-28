@@ -9,6 +9,7 @@ At this point:
 - **Warden** now also has a detailed level progression and feature pass
 - **Hedge Wizard** now also has a detailed level progression and feature pass
 - **Crusader** now also has a detailed level progression and feature pass
+- **Friar** now also has a detailed level progression and feature pass
 - **Troubadour** now has a partial class file with its song list and support identity defined
 - the remaining gaps are mostly in unfinished level progression and feature timing
 
@@ -22,7 +23,7 @@ At this point:
 | Man-at-Arms | STR / CON | Warlord | Summary only |
 | Warden | AGI / PIE | Nature-Wraith | **Detailed** |
 | Hedge Wizard | INT | Black Archon | **Detailed** |
-| Friar | PIE | Living-Icon | Summary only |
+| Friar | PIE | Saint of the Last Rite | **Detailed** |
 | Crusader | STR / PIE | Divine Exemplar | **Detailed** |
 | Troubadour | PRE / LCK | Oracle | Partial; songs defined |
 
@@ -63,6 +64,14 @@ Defined in meaningful detail:
 - anti-evil and anti-undead feature suite
 - defensive aura and touch-healing support tools
 
+### Friar
+Defined in meaningful detail:
+- full level 1-10 title table
+- full-caster identity using **PIE**
+- anti-undead control and destruction tools
+- quarterstaff mastery and holy retaliation features
+- strong healing and restoration identity
+
 ### Troubadour
 Partially defined:
 - core class identity using **PRE / LCK**
@@ -74,7 +83,6 @@ Partially defined:
 ### Other Incomplete Classes
 These classes still exist mostly at the summary level:
 - Man-at-Arms
-- Friar
 
 For those classes, current data is still mainly:
 - class name
@@ -127,14 +135,19 @@ Still needs:
 - clarification on edge-case behavior for **Spell Reflection** and extreme Luck scaling
 
 ## Friar
-Needs:
-- levels 1-10 title table
-- level-by-level features
-- healing / anti-undead identity
-- support/buff role definition
-- full-caster spell list
-- divine utility outside combat
+Current status:
+- full levels 1-10 title table authored
+- class features authored
+- casting stat resolved to **PIE**
+- healing / anti-undead identity established
+- quarterstaff mastery and restoration role established
+
+Still needs:
 - starting gear identity
+- 2nd-5th level spell list expansion beyond currently approved early spells
+- clarification on **Turn Undead** upgrade behavior across later levels
+- clarification on **Sacred Retribution** timing in the no-reaction combat model
+- clarification on exact dice behavior for **Empowered Healing** and **Divine Restoration**
 
 ## Crusader
 Current status:
@@ -205,7 +218,7 @@ Still needs:
 
 ### Global class work still needed
 - [ ] Remove public-facing 5E parenthetical labels from class names/descriptions
-- [ ] Create full level 1-10 tables for 3 unfinished classes
+- [ ] Create full level 1-10 tables for 2 unfinished classes
 - [ ] Define starting proficiencies for every class
 - [ ] Define HP progression / hit-die style per class
 - [ ] Define starting weapons and armor per class
@@ -219,7 +232,6 @@ Still needs:
 
 ## Recommended Authoring Order
 1. Man-at-Arms
-2. Friar
-3. Troubadour
+2. Troubadour
 
 That order supports the first playable party archetypes fastest.
