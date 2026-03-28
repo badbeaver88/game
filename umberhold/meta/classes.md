@@ -8,6 +8,7 @@ At this point:
 - **Shadowman** has a real 1-10 progression table and feature breakdown
 - **Warden** now also has a detailed level progression and feature pass
 - **Hedge Wizard** now also has a detailed level progression and feature pass
+- **Crusader** now also has a detailed level progression and feature pass
 - the remaining classes are still mostly at the **concept / role** level
 
 ---
@@ -21,7 +22,7 @@ At this point:
 | Warden | AGI / PIE | Nature-Wraith | **Detailed** |
 | Hedge Wizard | INT | Black Archon | **Detailed** |
 | Friar | PIE | Living-Icon | Summary only |
-| Crusader | STR / PIE | Paragon | Summary only |
+| Crusader | STR / PIE | Divine Exemplar | **Detailed** |
 | Troubadour | PRE / LCK | Oracle | Summary only |
 
 ---
@@ -53,11 +54,18 @@ Defined in meaningful detail:
 - charge-efficiency and anti-magic features
 - late-game spell critical and spell reflection features
 
+### Crusader
+Defined in meaningful detail:
+- full level 1-10 title table
+- half-caster identity using **PIE**
+- front-rank holy bruiser role
+- anti-evil and anti-undead feature suite
+- defensive aura and touch-healing support tools
+
 ### Other Incomplete Classes
 These classes still exist mostly at the summary level:
 - Man-at-Arms
 - Friar
-- Crusader
 - Troubadour
 
 For those classes, current data is still mainly:
@@ -121,14 +129,18 @@ Needs:
 - starting gear identity
 
 ## Crusader
-Needs:
-- levels 1-10 title table
-- level-by-level features
-- melee + healing hybrid rules
-- half-caster spell list
-- aura / smite / holy strike equivalents if any
-- front-rank role definition
+Current status:
+- full levels 1-10 title table authored
+- class features authored
+- casting stat resolved to **PIE**
+- melee + healing hybrid identity established
+- aura / smite / anti-undead role established
+
+Still needs:
 - starting gear identity
+- 2nd-3rd level spell list expansion beyond currently approved early spells
+- clarification on **Aura of Solace** adjacency in fixed-rank combat
+- clarification on disease-system integration for **Plague Ward**, **Purity Incarnate**, and **Cleansing Touch**
 
 ## Troubadour
 Needs:
@@ -179,7 +191,7 @@ Needs:
 
 ### Global class work still needed
 - [ ] Remove public-facing 5E parenthetical labels from class names/descriptions
-- [ ] Create full level 1-10 tables for 4 unfinished classes
+- [ ] Create full level 1-10 tables for 3 unfinished classes
 - [ ] Define starting proficiencies for every class
 - [ ] Define HP progression / hit-die style per class
 - [ ] Define starting weapons and armor per class
@@ -194,7 +206,6 @@ Needs:
 ## Recommended Authoring Order
 1. Man-at-Arms
 2. Friar
-3. Crusader
-4. Troubadour
+3. Troubadour
 
 That order supports the first playable party archetypes fastest.
