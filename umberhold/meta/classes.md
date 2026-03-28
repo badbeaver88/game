@@ -4,8 +4,10 @@ Extracted from `umberhold/CURRENT.md`.
 
 ## Summary
 `CURRENT.md` names **7 classes**.
-Only **Shadowman** has a real 1-10 progression table and feature breakdown.
-The other classes currently exist at the **concept / role** level only.
+At this point:
+- **Shadowman** has a real 1-10 progression table and feature breakdown
+- **Warden** now also has a detailed level progression and feature pass
+- the remaining classes are still mostly at the **concept / role** level
 
 ---
 
@@ -15,7 +17,7 @@ The other classes currently exist at the **concept / role** level only.
 |---|---|---|---|
 | Shadowman | AGI / LCK | Dread-Shade | **Detailed** |
 | Man-at-Arms | STR / CON | Warlord | Summary only |
-| Warden | AGI / INT | Nature-Wraith | Summary only; casting-stat inconsistency elsewhere |
+| Warden | AGI / PIE | Nature-Wraith | **Detailed** |
 | Hedge Wizard | INT | Arch-Mage | Summary only |
 | Friar | PIE | Living-Icon | Summary only |
 | Crusader | STR / PIE | Paragon | Summary only |
@@ -34,8 +36,15 @@ Defined in meaningful detail:
 - poison harvesting identity
 - several named class features
 
-### Other Classes
-Only these elements exist:
+### Other Incomplete Classes
+These classes still exist mostly at the summary level:
+- Man-at-Arms
+- Hedge Wizard
+- Friar
+- Crusader
+- Troubadour
+
+For those classes, current data is still mainly:
 - class name
 - broad role
 - primary stats
@@ -58,15 +67,18 @@ Needs:
 - starting gear identity
 
 ## Warden
-Needs:
-- levels 1-10 title table
-- level-by-level features
-- final casting stat decision consistency
-- ranged combat identity
-- half-caster spell list
-- mark / hunt / scout mechanics
-- front-rank vs rear-rank role definition
+Current status:
+- full levels 1-10 title table authored
+- class features authored
+- casting stat resolved to **PIE**
+- ranged combat identity established
+- hunt / scout mechanics established
+
+Still needs:
+- half-caster spell list expansion beyond currently approved early spells
+- front-rank vs rear-rank role definition in final combat party guidance
 - starting gear identity
+- clarification on late-level interaction between Extra Attack, Death Shot, Concussive Shot, and Multishot
 
 ## Hedge Wizard
 Needs:
