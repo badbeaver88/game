@@ -623,8 +623,42 @@ The following are currently approved canon:
 - Huge occupies 3 combat slots
 - Gigantic occupies 4 combat slots
 - unarmored monster AC starts at 10
+- monster hit dice scale by size: Small 1d6, Medium 1d8, Large 1d12, Huge 2d10, Gigantic 2d20 per level
+- monster proficiency bonus uses the current progression: 1-3 +2, 4-6 +3, 7-9 +4, 10-12 +5, 13-15 +6, 16-18 +7, 19-20 +8
 - monsters use the same seven core attributes as player characters
 - monster attributes currently range from 3-30
+- monster entries include Description, damage vulnerabilities, damage resistances, damage immunities, condition immunities, Treasure Type, Comments, attacks, and XP value
+
+### Experience Rules
+- the current experience rules are tracked in `umberhold/experience-canon.md`
+- monsters award XP based on monster level
+- XP is shared equally among surviving party members
+- leveling up is performed at an inn
+- leveling up has no gold cost
+
+### Currency and Gemstone Rules
+- the current currency rules are tracked in `umberhold/currency-canon.md`
+- the current gemstone reference is tracked in `umberhold/items/gemstones.md`
+- Silver Rook is the base coin
+- Gold Crown is worth 10 Silver Rooks
+- Platinum Stag is worth 25 Gold Crowns
+
+### Class Equipment Rules
+- the current class hit-die and equipment rules are tracked in `umberhold/class-equipment-canon.md`
+- each class has a defined hit die per level
+- Constitution modifier is added to each hit point roll
+- every level requires a hit point roll
+- armor restrictions are absolute
+- shield restrictions are absolute
+- any class may equip any weapon
+- non-proficient weapon attacks do not gain Proficiency Bonus
+
+### Weapon Rules
+- the current weapon table is tracked in `umberhold/weapon-statistics-canon.md`
+- weapon entries include damage type
+- weapon entries include range values from 1-3
+- Quarterstaff is part of the approved weapon table
+- finesse weapons may use Strength or Agility, whichever is higher
 
 ---
 
@@ -712,7 +746,13 @@ This consolidated file is currently based on:
 - `umberhold/damage-canon.md`
 - `umberhold/spellcasting-canon.md`
 - `umberhold/spells-cantrips-1st.md`
+- `umberhold/class-spell-lists.md`
 - `umberhold/conditions-canon.md`
 - `umberhold/monster-stat-block-canon.md`
+- `umberhold/experience-canon.md`
+- `umberhold/currency-canon.md`
+- `umberhold/items/gemstones.md`
+- `umberhold/class-equipment-canon.md`
+- `umberhold/weapon-statistics-canon.md`
 
 These may still be kept as narrower reference sheets if useful.
