@@ -9,7 +9,8 @@ At this point:
 - **Warden** now also has a detailed level progression and feature pass
 - **Hedge Wizard** now also has a detailed level progression and feature pass
 - **Crusader** now also has a detailed level progression and feature pass
-- the remaining classes are still mostly at the **concept / role** level
+- **Troubadour** now has a partial class file with its song list and support identity defined
+- the remaining gaps are mostly in unfinished level progression and feature timing
 
 ---
 
@@ -23,7 +24,7 @@ At this point:
 | Hedge Wizard | INT | Black Archon | **Detailed** |
 | Friar | PIE | Living-Icon | Summary only |
 | Crusader | STR / PIE | Divine Exemplar | **Detailed** |
-| Troubadour | PRE / LCK | Oracle | Summary only |
+| Troubadour | PRE / LCK | Oracle | Partial; songs defined |
 
 ---
 
@@ -62,11 +63,18 @@ Defined in meaningful detail:
 - anti-evil and anti-undead feature suite
 - defensive aura and touch-healing support tools
 
+### Troubadour
+Partially defined:
+- core class identity using **PRE / LCK**
+- half-caster identity using **Personality**
+- support and song-based performance role
+- current approved song list
+- early spell access and instrument-based song action
+
 ### Other Incomplete Classes
 These classes still exist mostly at the summary level:
 - Man-at-Arms
 - Friar
-- Troubadour
 
 For those classes, current data is still mainly:
 - class name
@@ -143,14 +151,20 @@ Still needs:
 - clarification on disease-system integration for **Plague Ward**, **Purity Incarnate**, and **Cleansing Touch**
 
 ## Troubadour
-Needs:
+Current status:
+- core class file authored
+- half-caster stat resolved to **PRE / Personality**
+- support/buff/debuff identity established
+- instrument-based **Sing a Song** role captured
+- current song list authored
+- early spell access already tracked in class spell lists
+
+Still needs:
 - levels 1-10 title table
-- level-by-level features
-- song system rules
-- in-combat vs out-of-combat performance rules
-- half-caster spell list
-- instrument requirements
-- support/buff/debuff identity
+- level-by-level features beyond songs and base casting
+- full song system timing and action-economy clarification
+- instrument requirements in final equipment/UI terms
+- 2nd-3rd level spell list expansion beyond currently approved early spells
 - starting gear identity
 
 ---
