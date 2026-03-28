@@ -859,8 +859,8 @@ Would you like me to create a **Resurrection Table** showing the exact failure p
 | Warden (ranger)       | AGI / PIE          | Nature-Wraith  | Scout: Excels at point-blank archery. A half caster.                  |
 | Hedge Wizard (wizard) | INT                | Black Archon   | Full caster: rear-rank blaster, elemental specialist, and anti-magic spellcaster.           |
 | Friar (cleric)        | PIE                | Living-Icon    | Healer.         |
-| Crusader (paladin)     | STR / PIE          | Paragon        | Paladin: Hybrid healer and melee damage. A half caster, has fewer spell slots than full caster such as a mage or cleric (see 5E).         |
-| Troubadour (bard)   | PRE / LCK          | Oracle         | Support class. Able to use instruments to sing songs in and out of combat to apply various buffs to the party (this is a new skill, not present in 5E).   |
+| Crusader (paladin)     | STR / PIE          | Divine Exemplar | Front-rank holy bruiser, aura support, and anti-evil half caster.         |
+| Troubadour (bard)   | PRE / LCK          | Oracle         | Support half caster. Uses instruments and sustained songs to bolster allies and hinder enemies.   |
 
 \page
 
@@ -964,6 +964,73 @@ Whenever you cast a spell that deals damage of your chosen type, it deals an add
 **Cataclysm Casting:** Whenever you cast a damaging spell, roll an unmodified d20. On a result of 20, the spell becomes a critical spell and deals double damage dice.
 
 **Spell Reflection:** When a spell directly targets you, there is a 5% + 1% per point of your Luck modifier chance to reflect the spell back at the caster. This does not apply to area-of-effect spells or abilities that do not specifically target you.
+
+\page
+
+Crusader
+
+| Level | Title              | Feature / Growth Highlights                                 |
+| ----- | ------------------ | ----------------------------------------------------------- |
+| 1     | Oathbound          | Spellcasting (Piety), Sacred Touch, Aura of Solace          |
+| 2     | Iron Zealot        | Fearless Faith, Plague Ward                                 |
+| 3     | Faithforged        | Uncapped Attribute Growth                                   |
+| 4     | Relic Bearer       | Holy Smite                                                  |
+| 5     | Dawnbreaker        | Blinding Judgement, Sacred Touch (2 charges)                |
+| 6     | Sanctified Blade   | Exile the Unclean                                           |
+| 7     | Martyr Knight      | Uncapped Attribute Growth                                   |
+| 8     | Relentless Templar | Bulwark of Faith                                            |
+| 9     | Judicator          | Unshaken                                                    |
+| 10    | Divine Exemplar    | Purity Incarnate, Cleansing Touch, Sacred Touch (3 charges) |
+
+**Spellcasting:** You are a half caster. Your spellcasting ability is Piety.
+
+**Sacred Touch:** You may touch yourself or an ally to restore health equal to 1d8 per level. This ability recharges after a Rest.
+
+At Level 5, this ability gains 2 charges before requiring a Rest.
+At Level 10, this increases to 3 charges.
+
+**Aura of Solace:** Allies adjacent to you gain +1 to saving throws and +1 AC against attacks and spells from evil creatures.
+
+**Fearless Faith:** You have advantage on all effects that would cause the Frightened condition.
+
+**Plague Ward:** You have resistance to all effects that cause disease.
+
+**Uncapped Attribute Growth:** You can permanently increase two attributes by 1 point each, or increase one attribute by 2 points.
+
+**Holy Smite:** Your melee attacks deal an additional damage die as holy damage when striking evil creatures.
+
+**Blinding Judgement:** When you hit an evil creature with a melee attack, it must succeed on a Piety saving throw against your spell DC or be blinded until the end of its next turn.
+
+**Exile the Unclean:** When you strike a fiend or undead with a melee attack, it must succeed on a Piety saving throw against your spell DC or be banished from the plane. Your party gains full experience for defeating enemies this way. Boss-type enemies are immune to this effect.
+
+**Bulwark of Faith:** While you have a shield equipped, attacks against you cannot be critical hits.
+
+**Unshaken:** You are immune to the Frightened condition.
+
+**Purity Incarnate:** You are immune to disease.
+
+**Cleansing Touch:** You may touch an ally to remove all diseases affecting them. This ability recharges after a Rest.
+
+\page
+
+Troubadour
+
+**Spellcasting:** You are a half caster. Your spellcasting ability is Personality.
+
+**Sing a Song:** A Troubadour may perform a magical song using an instrument. Songs may provide effects in combat, out of combat, to allies, to enemies, or to the battlefield state depending on the specific song.
+
+**Song Persistence:** All buffs and debuffs from Troubadour songs are active only as long as the Troubadour continues singing. The Troubadour does not benefit from these effects.
+
+| Song Name | Effect |
+| -- | -- |
+| March of Iron Vows | All allies gain +1 AC. There is a 1% chance per point of your Luck modifier that this bonus becomes +2 AC. |
+| Hymn of the Unbroken | All allies gain +1 to all saving throws. There is a 1% chance per point of your Luck modifier that this bonus becomes +2 to all saving throws. |
+| Warcaller’s Crescendo | All allies reroll all 1s on all damage dice and must use the new result. This applies to all sources of damage, including attacks, spells, and abilities. |
+| Dirge of Withering | All enemies suffer -1 to hit with all attacks. There is a 1% chance per point of your Luck modifier that this penalty becomes -2 to hit. |
+| Ballad of Ruin | All enemies take -1 to all saving throws. There is a 1% chance per point of your Luck modifier that this penalty becomes -2 to all saving throws. |
+| Refrain of Mending | At the start of your turn, all allies heal 1d4 HP (cannot exceed maximum hit points). |
+| Purging Chorus | At the start of your turn, all allies have a 5% + 1% chance per point of your Luck modifier per condition to remove each negative condition affecting them (each condition is rolled separately). |
+| Echoes of Fury | All allies have a 5% + 1% chance per point of your Luck modifier to make an additional attack when they take the Attack action. |
 
 \page
 
