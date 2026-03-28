@@ -856,8 +856,8 @@ Would you like me to create a **Resurrection Table** showing the exact failure p
 | ------------ | ------------------ | -------------- | --------------------------------------------------------------------------------------------------------------- |
 | Shadowman (rogue)   | AGI / LCK          | Dread-Shade    | Striker: High-initiative dual-wielder. Uses Low Blow for burst damage and harvests venom from carcasses. Able to open locks and find and remove traps.       |
 | Man-at-Arms (fighter)  | STR / CON          | Warlord        | Tank: Front-line anchor. |
-| Warden (ranger)       | AGI / INT          | Nature-Wraith  | Scout: Excels at point-blank archery. A half caster.                  |
-| Hedge Wizard (wizard) | INT                | Arch-Mage      | Blaster: AOE damage.           |
+| Warden (ranger)       | AGI / PIE          | Nature-Wraith  | Scout: Excels at point-blank archery. A half caster.                  |
+| Hedge Wizard (wizard) | INT                | Black Archon   | Full caster: rear-rank blaster, elemental specialist, and anti-magic spellcaster.           |
 | Friar (cleric)        | PIE                | Living-Icon    | Healer.         |
 | Crusader (paladin)     | STR / PIE          | Paragon        | Paladin: Hybrid healer and melee damage. A half caster, has fewer spell slots than full caster such as a mage or cleric (see 5E).         |
 | Troubadour (bard)   | PRE / LCK          | Oracle         | Support class. Able to use instruments to sing songs in and out of combat to apply various buffs to the party (this is a new skill, not present in 5E).   |
@@ -920,6 +920,50 @@ Shadowman (or Shadowlady if the character is female)
 **Master of Shadows:** You now have advantage on all Stealth checks.
 
 **Master Harvester:** On a successful Survival check to harvest poison from a poisonous creature, you now harvest 1d4 doses, and you can never poison yourself while harvesting a poisonous creature.
+
+\page
+
+Hedge Wizard
+
+| Level | Title              | Feature / Growth Highlights                                         |
+| ----- | ------------------ | ------------------------------------------------------------------- |
+| 1     | Mire Initiate      | Spellcasting (Intellect)                                            |
+| 2     | Ash Whisperer      | Blackwell Casting (chance to not expend spell slot)                 |
+| 3     | Grave Scholar      | Uncapped Attribute Growth                                           |
+| 4     | Relic Leech        | Charge Siphon (chance to not expend item charges)                   |
+| 5     | Blight Channeler   | Elemental Mastery (Pyromancer, Cryomancer, Stormcaller, Venomancer) |
+| 6     | Hex Savant         | Spell Mastery (1st-level spell becomes a cantrip)                   |
+| 7     | Dread Arcanist     | Uncapped Attribute Growth                                           |
+| 8     | Sanguine Channeler | Vampiric Conduit (heal from elemental kills)                        |
+| 9     | Veilbreaker        | Arcane Defiance (chance to resist spells entirely)                  |
+| 10    | Black Archon       | Cataclysm Casting (spell crits), Spell Reflection                   |
+
+**Spellcasting:** You are a full caster. Your spellcasting ability is Intellect.
+
+**Blackwell Casting:** When you cast a spell, there is a 5% + 1% per point of your Luck modifier chance that the spell does not consume a spell slot.
+
+**Uncapped Attribute Growth:** You can permanently increase two attributes by 1 point each, or increase one attribute by 2 points.
+
+**Charge Siphon:** When you use an item with charges, there is a 10% + 1% per point of your Luck modifier chance that the charge is not expended.
+
+**Elemental Mastery:** Choose one element to master:
+
+* Fire (Pyromancer)
+* Cold (Cryomancer)
+* Lightning (Stormcaller)
+* Acid (Venomancer)
+
+Whenever you cast a spell that deals damage of your chosen type, it deals an additional damage die.
+
+**Spell Mastery:** Choose one 1st-level spell. You may cast that spell as a cantrip; it no longer consumes a spell slot.
+
+**Vampiric Conduit:** When you kill a creature using damage of your chosen Elemental Mastery type, there is a 35% + 3% per point of your Luck modifier chance to siphon its essence. You heal for 10% of the elemental damage dealt, up to your maximum hit points.
+
+**Arcane Defiance:** You have a 10% + 1% per point of your Luck modifier chance to completely resist any spell that would affect you, even if you are not the direct target.
+
+**Cataclysm Casting:** Whenever you cast a damaging spell, roll an unmodified d20. On a result of 20, the spell becomes a critical spell and deals double damage dice.
+
+**Spell Reflection:** When a spell directly targets you, there is a 5% + 1% per point of your Luck modifier chance to reflect the spell back at the caster. This does not apply to area-of-effect spells or abilities that do not specifically target you.
 
 \page
 
