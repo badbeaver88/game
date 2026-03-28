@@ -10,8 +10,8 @@ At this point:
 - **Hedge Wizard** now also has a detailed level progression and feature pass
 - **Crusader** now also has a detailed level progression and feature pass
 - **Friar** now also has a detailed level progression and feature pass
-- **Troubadour** now has a partial class file with its song list and support identity defined
-- the remaining gaps are mostly in unfinished level progression and feature timing
+- **Troubadour** now also has a detailed level progression and feature pass
+- the remaining gaps are mostly in unfinished class authoring for Man-at-Arms and later rules clarifications
 
 ---
 
@@ -25,7 +25,7 @@ At this point:
 | Hedge Wizard | INT | Black Archon | **Detailed** |
 | Friar | PIE | Saint of the Last Rite | **Detailed** |
 | Crusader | STR / PIE | Divine Exemplar | **Detailed** |
-| Troubadour | PRE / LCK | Oracle | Partial; songs defined |
+| Troubadour | PRE / LCK | Maestro of Ruin | **Detailed** |
 
 ---
 
@@ -73,12 +73,12 @@ Defined in meaningful detail:
 - strong healing and restoration identity
 
 ### Troubadour
-Partially defined:
-- core class identity using **PRE / LCK**
-- half-caster identity using **Personality**
-- support and song-based performance role
-- current approved song list
-- early spell access and instrument-based song action
+Defined in meaningful detail:
+- full level 1-10 title table
+- half-caster identity using **PRE / Personality**
+- sustained song support role
+- full approved song list
+- bonus-action songcasting and late-game spell-song interaction
 
 ### Other Incomplete Classes
 These classes still exist mostly at the summary level:
@@ -165,20 +165,20 @@ Still needs:
 
 ## Troubadour
 Current status:
-- core class file authored
+- full levels 1-10 title table authored
+- class features authored
 - half-caster stat resolved to **PRE / Personality**
 - support/buff/debuff identity established
-- instrument-based **Sing a Song** role captured
 - current song list authored
+- song action economy now defined around **bonus actions**
 - early spell access already tracked in class spell lists
 
 Still needs:
-- levels 1-10 title table
-- level-by-level features beyond songs and base casting
-- full song system timing and action-economy clarification
-- instrument requirements in final equipment/UI terms
-- 2nd-3rd level spell list expansion beyond currently approved early spells
 - starting gear identity
+- 2nd-3rd level spell list expansion beyond currently approved early spells
+- clarification on whether starting a new Song automatically ends the previous one
+- clarification on exact Song use consumption and upgrade-roll timing
+- instrument requirements in final equipment/UI terms outside current class text
 
 ---
 
@@ -218,7 +218,7 @@ Still needs:
 
 ### Global class work still needed
 - [ ] Remove public-facing 5E parenthetical labels from class names/descriptions
-- [ ] Create full level 1-10 tables for 2 unfinished classes
+- [ ] Create full level 1-10 tables for 1 unfinished class
 - [ ] Define starting proficiencies for every class
 - [ ] Define HP progression / hit-die style per class
 - [ ] Define starting weapons and armor per class
@@ -232,6 +232,5 @@ Still needs:
 
 ## Recommended Authoring Order
 1. Man-at-Arms
-2. Troubadour
 
 That order supports the first playable party archetypes fastest.

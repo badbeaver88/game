@@ -138,19 +138,20 @@ Rules:
 
 ---
 
-### 5.6 Sing a Song
-This action is available only to the **Troubadour**.
+### 5.6 Troubadour Songs
+This option is available only to the **Troubadour** through class features such as **Gift of Song**.
 
-A Troubadour may perform a magical song using an instrument.
+A Troubadour may begin or maintain a magical song as a **bonus action**.
 
-Songs may provide effects:
-- in combat
-- out of combat
-- to allies
-- to enemies
-- or to the battlefield state, depending on the specific song
+Rules:
+- Songs do **not** require an instrument unless a specific feature says otherwise
+- Songs may provide effects in combat, out of combat, to allies, to enemies, or to the battlefield state depending on the specific song
+- Song effects persist only while the Troubadour continues singing
+- a Song normally ends if the Troubadour is affected by **Silence**
+- a Song normally ends if the Troubadour casts a spell
+- specific later class features may override those ending conditions
 
-This action should only appear in the combat menu for a Troubadour.
+This option should only appear for a Troubadour when they have access to Songs.
 
 ---
 
@@ -574,7 +575,7 @@ The following are currently approved canon:
 - reactions do not exist
 - Defend imposes disadvantage on incoming attacks
 - weapon swapping uses the full main action
-- Troubadours may use **Sing a Song** as a main action
+- Troubadours may begin or maintain Songs with a **bonus action** when granted by class features
 - extra attacks cannot be redirected if the original target dies
 
 ### Damage and Death Rules
@@ -670,7 +671,7 @@ The following are still open and should be resolved in future canon passes:
 - initiative tie-break rules
 - exact turn timing for status durations
 - enemy-side bonus action rules
-- whether songs can ever be bonus actions
+- whether starting a new Song immediately ends the previous Song in all cases
 - whether items can ever be bonus actions
 - target invalidation edge cases
 - mid-combat initiative changes, if any

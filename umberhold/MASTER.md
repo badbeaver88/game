@@ -860,7 +860,7 @@ Would you like me to create a **Resurrection Table** showing the exact failure p
 | Hedge Wizard (wizard) | INT                | Black Archon   | Full caster: rear-rank blaster, elemental specialist, and anti-magic spellcaster.           |
 | Friar (cleric)        | PIE                | Saint of the Last Rite | Full caster: healer, undead controller, and quarterstaff battle-priest.         |
 | Crusader (paladin)     | STR / PIE          | Divine Exemplar | Front-rank holy bruiser, aura support, and anti-evil half caster.         |
-| Troubadour (bard)   | PRE / LCK          | Oracle         | Support half caster. Uses instruments and sustained songs to bolster allies and hinder enemies.   |
+| Troubadour (bard)   | PRE / LCK          | Maestro of Ruin | Support half caster. Uses sustained songs and social talent to bolster allies and hinder enemies.   |
 
 \page
 
@@ -1060,9 +1060,46 @@ At Level 10, this increases to 3 charges.
 
 Troubadour
 
+| Level | Title                | Feature / Growth Highlights                                                   |
+| ----- | -------------------- | ----------------------------------------------------------------------------- |
+| 1     | Wandering Minstrel   | Spellcasting (Personality), Instrumentalist, Gift of Song, Silver Performance |
+| 2     | Silver Tongue        | Beguiling Resistance, Songcraft (learn a new Song)                            |
+| 3     | Verseweaver          | Uncapped Attribute Growth                                                     |
+| 4     | Lute of Lament       | Songcraft (learn a new Song)                                                  |
+| 5     | Balladeer of War     | Unshaken Chorus                                                               |
+| 6     | Dirge Singer         | Songcraft (learn a new Song)                                                  |
+| 7     | Echo-Bound Poet      | Uncapped Attribute Growth                                                     |
+| 8     | Harbinger of Refrain | Voice Unbroken                                                                |
+| 9     | Voice Unbroken       | Songcraft (learn a new Song)                                                  |
+| 10    | Maestro of Ruin      | Endless Aria, Arcane Refrain                                                  |
+
 **Spellcasting:** You are a half caster. Your spellcasting ability is Personality.
 
-**Sing a Song:** A Troubadour may perform a magical song using an instrument. Songs may provide effects in combat, out of combat, to allies, to enemies, or to the battlefield state depending on the specific song.
+**Instrumentalist:** You may use instruments that you find, including those of magical nature.
+
+**Gift of Song:** You can perform Songs to support your party in combat. Starting or maintaining a Song requires a bonus action. Songs do not require an instrument.
+
+A Song lasts for the duration of combat and ends if you are affected by a Silence effect or if you cast a spell. You may still attack while singing.
+
+You may perform a number of Songs equal to 3 + your level before needing to Rest. Resting restores all uses.
+
+At character creation, choose one Song from the Song list.
+
+**Silver Performance:** Your party may stay at inns for free, as you perform in exchange for food and lodging. You must have an instrument in your inventory (mundane or magical) for this ability to function.
+
+**Beguiling Resistance:** You have resistance to spells and effects that attempt to charm, beguile, or otherwise manipulate your mind.
+
+**Songcraft:** You learn an additional Song from the Song list.
+
+**Uncapped Attribute Growth:** You can permanently increase two attributes by 1 point each, or increase one attribute by 2 points.
+
+**Unshaken Chorus:** While you are performing a Song, you are immune to the Frightened condition.
+
+**Voice Unbroken:** Your voice cannot be silenced by magical or mundane means.
+
+**Endless Aria:** You can now cast spells without ending your Song.
+
+**Arcane Refrain:** While performing a Song, there is a 5% + 1% per point of your Luck modifier chance that any spell you cast does not consume a spell slot.
 
 **Song Persistence:** All buffs and debuffs from Troubadour songs are active only as long as the Troubadour continues singing. The Troubadour does not benefit from these effects.
 
