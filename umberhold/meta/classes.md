@@ -7,6 +7,7 @@ Extracted from `umberhold/CURRENT.md`.
 At this point:
 - **Shadowman** has a real 1-10 progression table and feature breakdown
 - **Warden** now also has a detailed level progression and feature pass
+- **Hedge Wizard** now also has a detailed level progression and feature pass
 - the remaining classes are still mostly at the **concept / role** level
 
 ---
@@ -18,7 +19,7 @@ At this point:
 | Shadowman | AGI / LCK | Dread-Shade | **Detailed** |
 | Man-at-Arms | STR / CON | Warlord | Summary only |
 | Warden | AGI / PIE | Nature-Wraith | **Detailed** |
-| Hedge Wizard | INT | Arch-Mage | Summary only |
+| Hedge Wizard | INT | Black Archon | **Detailed** |
 | Friar | PIE | Living-Icon | Summary only |
 | Crusader | STR / PIE | Paragon | Summary only |
 | Troubadour | PRE / LCK | Oracle | Summary only |
@@ -36,10 +37,25 @@ Defined in meaningful detail:
 - poison harvesting identity
 - several named class features
 
+### Warden
+Defined in meaningful detail:
+- full level 1-10 title table
+- half-caster identity using **PIE**
+- ranged hunter-scout role
+- beast-hunter and outdoors utility features
+- late-game ranged control and execution features
+
+### Hedge Wizard
+Defined in meaningful detail:
+- full level 1-10 title table
+- full-caster identity using **INT**
+- elemental specialization path
+- charge-efficiency and anti-magic features
+- late-game spell critical and spell reflection features
+
 ### Other Incomplete Classes
 These classes still exist mostly at the summary level:
 - Man-at-Arms
-- Hedge Wizard
 - Friar
 - Crusader
 - Troubadour
@@ -81,14 +97,18 @@ Still needs:
 - clarification on late-level interaction between Extra Attack, Death Shot, Concussive Shot, and Multishot
 
 ## Hedge Wizard
-Needs:
-- levels 1-10 title table
-- level-by-level features
-- full-caster spell identity
-- school/theme focus for Umberhold
-- starting spell access
-- utility vs blaster balance
+Current status:
+- full levels 1-10 title table authored
+- class features authored
+- casting stat resolved to **INT**
+- elemental / anti-magic identity established
+- starting spell access now aligns with current spellcasting canon
+
+Still needs:
 - starting gear identity
+- 2nd-5th level spell list expansion beyond currently approved early spells
+- clarification on multi-hit spell interaction for **Elemental Mastery**
+- clarification on edge-case behavior for **Spell Reflection** and extreme Luck scaling
 
 ## Friar
 Needs:
@@ -159,7 +179,7 @@ Needs:
 
 ### Global class work still needed
 - [ ] Remove public-facing 5E parenthetical labels from class names/descriptions
-- [ ] Create full level 1-10 tables for 6 unfinished classes
+- [ ] Create full level 1-10 tables for 4 unfinished classes
 - [ ] Define starting proficiencies for every class
 - [ ] Define HP progression / hit-die style per class
 - [ ] Define starting weapons and armor per class
@@ -174,9 +194,7 @@ Needs:
 ## Recommended Authoring Order
 1. Man-at-Arms
 2. Friar
-3. Hedge Wizard
-4. Warden
-5. Crusader
-6. Troubadour
+3. Crusader
+4. Troubadour
 
 That order supports the first playable party archetypes fastest.
