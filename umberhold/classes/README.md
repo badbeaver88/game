@@ -8,6 +8,7 @@ This folder contains individual class entries for Umberhold.
 
 | Class | Status | Notes |
 |---|---|---|
+| [Shadowman](./shadowman.md) | Detailed | Stealth striker, trap specialist, and poison harvester |
 | [Warden](./warden.md) | Detailed | Hunter-scout half caster using Agility and Piety |
 
 ---
