@@ -855,7 +855,7 @@ Would you like me to create a **Resurrection Table** showing the exact failure p
 | Class (name in brackets is the 5E equivilent)       | Primary Attributes | Level 10 Title | Role & Core Mechanic                                                                                            |
 | ------------ | ------------------ | -------------- | --------------------------------------------------------------------------------------------------------------- |
 | Shadowman (rogue)   | AGI / LCK          | Dread-Shade    | Striker: High-initiative dual-wielder. Uses Low Blow for burst damage and harvests venom from carcasses. Able to open locks and find and remove traps.       |
-| Man-at-Arms (fighter)  | STR / CON          | Warlord        | Tank: Front-line anchor. |
+| Man-at-Arms (fighter)  | STR / CON          | Warlord        | Martial front-ranker: weapon specialist with critical hits, retaliation, and finishing pressure. |
 | Warden (ranger)       | AGI / PIE          | Nature-Wraith  | Scout: Excels at point-blank archery. A half caster.                  |
 | Hedge Wizard (wizard) | INT                | Black Archon   | Full caster: rear-rank blaster, elemental specialist, and anti-magic spellcaster.           |
 | Friar (cleric)        | PIE                | Saint of the Last Rite | Full caster: healer, undead controller, and quarterstaff battle-priest.         |
@@ -865,6 +865,45 @@ Would you like me to create a **Resurrection Table** showing the exact failure p
 \page
 
 An example of skills gained by leveling.
+
+Man-at-Arms
+
+| Level | Title              | Feature / Growth Highlights                      |
+| ----- | ------------------ | ------------------------------------------------ |
+| 1     | Sellsword          | Improved Critical, Lithe Movement                |
+| 2     | Shieldbearer       | Dual Wield                                       |
+| 3     | Hardened Veteran   | Weapon Specialization, Uncapped Attribute Growth |
+| 4     | Weapons Master     | Retaliate                                        |
+| 5     | Battlefield Reaver | Extra Attack (2 Attacks)                         |
+| 6     | Iron Vanguard      | Frenzy                                           |
+| 7     | Warforged          | Uncapped Attribute Growth                        |
+| 8     | Linebreaker        | Smell Blood                                      |
+| 9     | Unyielding         | Extra Attack (3 Attacks)                         |
+| 10    | Warlord            | Uncapped Attribute Growth                        |
+
+**Improved Critical:** All of your attacks score a critical hit on a roll of 19-20.
+
+**Lithe Movement:** While wearing Light armor, you roll initiative with advantage.
+
+**Dual Wield:** You may attack with two melee weapons, provided the off-hand weapon is lighter than your main hand. When you attack with your main hand, you may make an additional attack with your off-hand as a bonus action.
+
+**Weapon Specialization:** Choose a single weapon type. When attacking with this weapon, you gain +1 to hit and +2 to damage.
+
+**Uncapped Attribute Growth:** You can permanently increase two attributes by 1 point each, or increase one attribute by 2 points.
+
+**Retaliate:** When you are hit by a melee attack, you may immediately make a melee attack against the attacker, provided you are wielding a melee weapon and the target is within your reach. This effect can only occur once per turn.
+
+**Extra Attack (2 Attacks):** When you take the Attack action, you may attack twice.
+
+**Frenzy:** You may enter a frenzied state. While frenzied, your melee attacks are made with advantage, and attack rolls against you are also made with advantage. Additionally, your melee attacks deal +2 damage.
+
+This state lasts until the end of combat. Once you enter Frenzy, you cannot voluntarily end it until combat ends.
+
+**Smell Blood:** You deal an additional damage die on all hits against targets below 50% of their maximum hit points.
+
+**Extra Attack (3 Attacks):** When you take the Attack action, you may attack three times.
+
+\page
 
 Shadowman (or Shadowlady if the character is female)
 

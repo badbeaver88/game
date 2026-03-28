@@ -4,14 +4,12 @@ Extracted from `umberhold/CURRENT.md`.
 
 ## Summary
 `CURRENT.md` names **7 classes**.
-At this point:
-- **Shadowman** has a real 1-10 progression table and feature breakdown
-- **Warden** now also has a detailed level progression and feature pass
-- **Hedge Wizard** now also has a detailed level progression and feature pass
-- **Crusader** now also has a detailed level progression and feature pass
-- **Friar** now also has a detailed level progression and feature pass
-- **Troubadour** now also has a detailed level progression and feature pass
-- the remaining gaps are mostly in unfinished class authoring for Man-at-Arms and later rules clarifications
+At this point, all 7 classes now have authored level progressions and feature passes.
+
+The remaining work is mostly:
+- starting gear identity
+- spell list expansion where relevant
+- edge-case rules clarification
 
 ---
 
@@ -20,7 +18,7 @@ At this point:
 | Class | Primary Attributes | Level 10 Title | Current State in `CURRENT.md` |
 |---|---|---|---|
 | Shadowman | AGI / LCK | Dread-Shade | **Detailed** |
-| Man-at-Arms | STR / CON | Warlord | Summary only |
+| Man-at-Arms | STR / CON | Warlord | **Detailed** |
 | Warden | AGI / PIE | Nature-Wraith | **Detailed** |
 | Hedge Wizard | INT | Black Archon | **Detailed** |
 | Friar | PIE | Saint of the Last Rite | **Detailed** |
@@ -39,6 +37,14 @@ Defined in meaningful detail:
 - stealth attack pattern
 - poison harvesting identity
 - several named class features
+
+### Man-at-Arms
+Defined in meaningful detail:
+- full level 1-10 title table
+- martial front-rank identity using **STR / CON**
+- crit-focused and weapon-specialist role
+- retaliation and frenzy features
+- sustained finishing pressure against wounded targets
 
 ### Warden
 Defined in meaningful detail:
@@ -80,31 +86,31 @@ Defined in meaningful detail:
 - full approved song list
 - bonus-action songcasting and late-game spell-song interaction
 
-### Other Incomplete Classes
-These classes still exist mostly at the summary level:
-- Man-at-Arms
+### Remaining Gaps
+No classes remain at the summary-only stage.
 
-For those classes, current data is still mainly:
-- class name
-- broad role
-- primary stats
-- level 10 title
-- rough caster type where applicable
+What remains is mostly:
+- starting gear identity
+- spell-list expansion for caster classes
+- edge-case combat and feature clarification
 
 ---
 
 ## What Still Needs To Be Authored
 
 ## Man-at-Arms
-Needs:
-- levels 1-10 title table
-- level-by-level features
-- weapon/armor identity
-- tank mechanics
-- defensive actions / taunt / guard rules if any
-- initiative and survivability profile
-- class progression text
+Current status:
+- full levels 1-10 title table authored
+- class features authored
+- martial identity established
+- weapon specialization and crit-focused role established
+- retaliation and frenzy mechanics established
+
+Still needs:
 - starting gear identity
+- clarification on **Frenzy** activation timing and any usage limits
+- clarification on exact interaction between **Dual Wield**, **Extra Attack**, and **Smell Blood** in multi-attack turns
+- clarification on whether **Weapon Specialization** can ever be changed later
 
 ## Warden
 Current status:
@@ -218,7 +224,7 @@ Still needs:
 
 ### Global class work still needed
 - [ ] Remove public-facing 5E parenthetical labels from class names/descriptions
-- [ ] Create full level 1-10 tables for 1 unfinished class
+- [ ] Create full level 1-10 tables for 0 unfinished classes
 - [ ] Define starting proficiencies for every class
 - [ ] Define HP progression / hit-die style per class
 - [ ] Define starting weapons and armor per class
@@ -231,6 +237,9 @@ Still needs:
 ---
 
 ## Recommended Authoring Order
-1. Man-at-Arms
+All currently named classes now have authored class files.
 
-That order supports the first playable party archetypes fastest.
+Further work should focus on:
+1. starting gear identity
+2. spell list expansion
+3. rules clarification passes

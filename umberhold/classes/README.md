@@ -8,6 +8,7 @@ This folder contains individual class entries for Umberhold.
 
 | Class | Status | Notes |
 |---|---|---|
+| [Man-at-Arms](./man-at-arms.md) | Detailed | Front-rank martial bruiser with weapon mastery, retaliation, and finishing pressure |
 | [Shadowman](./shadowman.md) | Detailed | Stealth striker, trap specialist, and poison harvester |
 | [Warden](./warden.md) | Detailed | Hunter-scout half caster using Agility and Piety |
 | [Hedge Wizard](./hedge-wizard.md) | Detailed | Full caster using Intellect, elemental mastery, and anti-magic defenses |
