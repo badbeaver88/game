@@ -12,6 +12,7 @@ This folder contains individual item entries for Umberhold.
 | [Bone Collar](./bone-collar.md) | Collar / Trade Good | No | TBD | Rare drop from **Wulf** |
 | [Polished Finger Bone](./polished-finger-bone.md) | Curio / Trade Good | No | TBD | Rare drop from **Boggart Boneboiler** |
 | [Gemstone Reference](./gemstones.md) | Loot Reference | No | — | Standard gemstone values for treasure tables |
+| [Lesser Magical Items](./lesser-magical-items.md) | Tier Reference | Yes | Varies | Approved **Lesser** magical item table |
 
 ---
 
@@ -19,4 +20,4 @@ This folder contains individual item entries for Umberhold.
 
 - The broader item table is tracked in `umberhold/item-list.md`.
 - Settlement stock, hurled-item rules, and free starting gear are tracked in `umberhold/mundane-equipment-canon.md`.
-- This folder is intended for one-file-per-item authoring.
+- This folder is primarily intended for one-file-per-item authoring, though grouped reference tables may also live here when useful.
