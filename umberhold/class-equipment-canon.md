@@ -5,6 +5,7 @@ This document captures the current approved rules for:
 - armor and shield restrictions
 - weapon proficiencies
 - non-proficient weapon use
+- free class starting equipment
 
 It does **not** modify `MASTER.md`.
 
@@ -71,7 +72,19 @@ If a class uses a weapon it is not proficient with:
 
 ---
 
-## 6. Approved Rules Captured Here
+## 6. Free Starting Equipment
+
+At character creation, the following classes begin with free gear:
+
+- **Friar** — **Holy Symbol of Solace**
+- **Shadowman** — **Thieves' Tools**
+- **Troubadour** — **one mundane instrument of choice** from the approved instrument list
+
+These items are granted in addition to any other character-creation systems that may later be approved.
+
+---
+
+## 7. Approved Rules Captured Here
 
 This document locks in the following:
 - each class has a defined hit die per level
@@ -84,10 +97,13 @@ This document locks in the following:
 - any class may equip any weapon
 - weapon proficiency only affects whether Proficiency Bonus is added to attack rolls
 - non-proficient weapon attacks do not gain Proficiency Bonus
+- Friars start with a **Holy Symbol of Solace**
+- Shadowmen start with **Thieves' Tools**
+- Troubadours start with **one mundane instrument of choice**
 
 ---
 
-## 7. Still Open for Later Canonization
+## 8. Still Open for Later Canonization
 
 The following are still open and may need later clarification:
 - whether first-level characters still begin with maximum hit points from their class hit die
@@ -98,7 +114,7 @@ The following are still open and may need later clarification:
 
 ---
 
-## 8. Implementation Note
+## 9. Implementation Note
 
 This file is a standalone approved rules sheet.
 It does **not** modify `MASTER.md`.

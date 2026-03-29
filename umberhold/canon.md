@@ -530,10 +530,24 @@ The current gemstone reference is maintained in:
 
 ---
 
-## 23. Class Hit Dice and Equipment Rules
+## 23. Mundane and Class Equipment Rules
 
-The current approved class hit-die and equipment rules are maintained in:
+The current approved mundane equipment, settlement stock, and free starting gear rules are maintained in:
+- `umberhold/mundane-equipment-canon.md`
+
+The current approved class hit-die and equipment restriction rules are maintained in:
 - `umberhold/class-equipment-canon.md`
+
+### Current Mundane Equipment Rules
+- mundane settlement stock is divided between equipment shops and temples
+- food and arrows are not tracked
+- certain items may be hurled with `d20 + Agility Bonus vs AC` at range 3
+- holy water deals `2d6` holy damage to undead only
+- flasks of oil deal `2d4` fire damage on hit and apply Burning for `1d4` fire damage at the start of the target's next turn
+- Friars start with a Holy Symbol of Solace
+- Shadowmen start with Thieves' Tools
+- Troubadours start with one mundane instrument of choice
+- magnifying glasses grant `+2` to detect traps while carried and do not need to be equipped
 
 ### Current Class Equipment Rules
 - each class has a defined hit die per level
@@ -559,6 +573,7 @@ The current approved weapon table is maintained in:
 - weapon entries include range values from 1-3
 - Quarterstaff is part of the approved weapon table
 - finesse weapons may use Strength or Agility, whichever is higher
+- arrows are not tracked as inventory ammunition
 
 ---
 
@@ -576,6 +591,7 @@ The following are currently approved canon:
 - reactions do not exist
 - Defend imposes disadvantage on incoming attacks
 - weapon swapping uses the full main action
+- hurled combat items use **`d20 + Agility Bonus vs AC`** and normally have **range 3**
 - Troubadours may begin or maintain Songs with a **bonus action** when granted by class features
 - extra attacks cannot be redirected if the original target dies
 
@@ -612,7 +628,8 @@ The following are currently approved canon:
 - the current cantrip and 1st-level spell list is tracked in `umberhold/spells-cantrips-1st.md`
 
 ### Condition Rules
-- the current approved condition list is Beguiled, Blinded, Frightened, Paralyzed, Poisoned, Silenced, Slept, and Stunned
+- the current approved condition list is Beguiled, Bleeding, Blinded, Burning, Frightened, Paralyzed, Poisoned, Silenced, Slept, and Stunned
+- Burning and Bleeding are source-defined damage-over-time conditions that currently default to resolving at the start of the target's next turn
 - detailed condition behavior is tracked in `umberhold/conditions-canon.md`
 
 ### Monster Stat Block Rules
@@ -645,6 +662,17 @@ The following are currently approved canon:
 - Gold Crown is worth 10 Silver Rooks
 - Platinum Stag is worth 25 Gold Crowns
 
+### Mundane Equipment Rules
+- the current mundane equipment sheet is tracked in `umberhold/mundane-equipment-canon.md`
+- mundane settlement stock is divided between equipment shops and temples
+- food and arrows are not tracked
+- holy water deals `2d6` holy damage to undead only
+- flasks of oil deal `2d4` fire damage on hit and apply Burning for `1d4` fire damage at the start of the target's next turn
+- Friars start with a **Holy Symbol of Solace**
+- Shadowmen start with **Thieves' Tools**
+- Troubadours start with **one mundane instrument of choice**
+- magnifying glasses grant `+2` to detect traps while carried and do not require equipping
+
 ### Class Equipment Rules
 - the current class hit-die and equipment rules are tracked in `umberhold/class-equipment-canon.md`
 - each class has a defined hit die per level
@@ -661,6 +689,7 @@ The following are currently approved canon:
 - weapon entries include range values from 1-3
 - Quarterstaff is part of the approved weapon table
 - finesse weapons may use Strength or Agility, whichever is higher
+- arrows are not tracked as inventory ammunition
 
 ---
 
@@ -701,6 +730,7 @@ The following are still open and should be resolved in future canon passes:
 - whether Stunned should prevent all actions instead of only applying attack/save penalties
 - whether Frightened affects spell targeting or only attacks
 - whether Blinded affects all targeted spell use
+- whether multiple Burning or Bleeding applications stack, refresh, or overwrite one another
 - whether bosses have default immunities to specific control conditions
 - how cleansing/removal rules are distributed across items, spells, and services
 - exact timing for condition expiration when not stated explicitly by a spell or ability
@@ -733,7 +763,7 @@ The following are still open and should be resolved in future canon passes:
 - whether some relic or class effects can temporarily bypass armor restrictions
 
 ### Weapon Open Questions
-- whether ammunition is abstracted or fully tracked for bows, slings, and crossbows
+- whether sling stones and crossbow bolts are abstracted like arrows or tracked separately
 - whether crossbows have reload-specific handling beyond normal attack use
 - whether thrown weapons will exist as a distinct category later
 - whether weapon categories should be formalized for class features and item effects
@@ -831,7 +861,7 @@ These follow the rules that:
 - handheld light sources must be equipped in **main hand** or **off-hand**
 - only the **strongest** active light source applies
 - active light overrides dungeon darkness and outdoor night darkness
-- hooded lanterns provide **3 tiles** of illumination and burn **4 hours** per oil vial
+- hooded lanterns provide **3 tiles** of illumination and burn **4 hours** per flask of oil
 - torches provide **3 tiles** of illumination and burn **1 hour**
 
 The standalone reference for this system is:
@@ -852,6 +882,7 @@ This consolidated file is currently based on:
 - `umberhold/experience-canon.md`
 - `umberhold/currency-canon.md`
 - `umberhold/items/gemstones.md`
+- `umberhold/mundane-equipment-canon.md`
 - `umberhold/class-equipment-canon.md`
 - `umberhold/weapon-statistics-canon.md`
 - `umberhold/time-canon.md`

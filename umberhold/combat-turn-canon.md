@@ -116,6 +116,15 @@ A combatant may use an item from their inventory, such as:
 
 Item target and effect rules depend on the item being used.
 
+#### Hurled Combat Items
+Some items may be used as **hurled combat items**, such as **Holy Water** or a **Flask of Oil**.
+
+When a hurled item requires an attack roll:
+- roll **`d20 + Agility Bonus`**
+- compare the result against the target's **AC**
+- the hurled attack has **range 3** unless the item says otherwise
+- on a hit, resolve the item's listed effect
+
 ---
 
 ### 5.4 Defend
@@ -202,6 +211,7 @@ This document locks in the following:
 - reactions do not exist
 - Defend imposes disadvantage on incoming attacks
 - weapon swapping uses the full main action
+- hurled combat items use **`d20 + Agility Bonus vs AC`** and normally have **range 3**
 - Troubadours may begin or maintain Songs with a **bonus action** when granted by class features
 - extra attacks cannot be redirected if the original target dies
 

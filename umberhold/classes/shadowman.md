@@ -13,6 +13,9 @@ The **Shadowman** is a swift killer, skulking scout, and trap-breaker who thrive
 - **Weapon Proficiencies:** All single-handed melee weapons, shortbow, hand crossbow
 - **Special Role:** Lockpicker, trap specialist, stealth striker, poison harvester
 
+### Starting Gear
+- begins play with **Thieves' Tools**
+
 ---
 
 ## Level Progression
@@ -133,7 +136,8 @@ Rules:
 ---
 
 ### Dirty Fighting
-When you hit, the target takes one additional die of damage—matching the damage die you rolled—at the start of the enemy's next turn as **bleeding** damage.
+When you hit, you apply **Bleeding**.
+At the start of the target's next turn, it takes one additional die of damage matching the damage die you rolled.
 
 ---
 

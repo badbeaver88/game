@@ -98,14 +98,14 @@ The approved **Light** spell functions as a party light source in first-person e
 
 ## 5. Hooded Lantern
 
-A hooded lantern burns for **4 hours** on **one vial of oil**.
+A hooded lantern burns for **4 hours** on **one flask of oil**.
 
 Under the shared time system, this equals **2,400 time steps**.
 
 ### Fuel Use
 When a lantern is lit:
 - oil is first taken automatically from the carrying character's inventory
-- if the carrier has no oil, one vial is taken from a **random other party member**
+- if the carrier has no oil, one flask is taken from a **random other party member**
 - if the party has no oil, display:
 
 > **You have no oil to fill the lantern.**

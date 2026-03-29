@@ -49,13 +49,14 @@ This document locks in the following:
 - weapon entries include a combat range from 1-3
 - Quarterstaff is part of the approved weapon table
 - finesse weapons may use Strength or Agility, whichever is higher
+- arrows are not tracked as inventory ammunition
 
 ---
 
 ## Still Open for Later Canonization
 
 The following are still open and may need later clarification:
-- whether ammunition is abstracted or fully tracked for bows, slings, and crossbows
+- whether sling stones and crossbow bolts are abstracted like arrows or tracked separately
 - whether crossbows have reload-specific handling beyond normal attack use
 - whether thrown weapons will exist as a distinct category later
 - whether weapon categories should be formalized for class features and item effects

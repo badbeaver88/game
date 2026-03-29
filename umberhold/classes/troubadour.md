@@ -14,6 +14,14 @@ The **Troubadour** is a silver-tongued support caster who shapes battle through 
 - **Spellcasting:** Half caster using **Personality**
 - **Special Role:** Rear-rank support caster, song-based buffer/debuffer, morale manipulator, party sustain specialist
 
+### Starting Gear
+- begins play with **one mundane instrument of choice**:
+  - **Flute**
+  - **Lute**
+  - **Horn**
+  - **Drums**
+  - **Pipes**
+
 ---
 
 ## Level Progression

@@ -14,6 +14,9 @@ The **Friar** is a full divine caster who crushes the unclean with relic-bearing
 - **Spellcasting:** Full caster using **Piety**
 - **Special Role:** Full divine caster, undead controller, healer, quarterstaff battle-priest
 
+### Starting Gear
+- begins play with a **Holy Symbol of Solace**
+
 ---
 
 ## Level Progression

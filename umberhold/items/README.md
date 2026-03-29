@@ -18,4 +18,5 @@ This folder contains individual item entries for Umberhold.
 ## Notes
 
 - The broader item table is tracked in `umberhold/item-list.md`.
+- Settlement stock, hurled-item rules, and free starting gear are tracked in `umberhold/mundane-equipment-canon.md`.
 - This folder is intended for one-file-per-item authoring.
