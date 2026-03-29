@@ -13,6 +13,7 @@ This folder contains individual monster entries for Umberhold.
 | [Boggart Bruiser](./boggart-bruiser.md) | 2 | Small | Humanoid | Armored boggart enforcer with a serrated shortsword, shield, and gallstone sling |
 | [Boggart Gasser](./boggart-gasser.md) | 2 | Small | Humanoid | Choking boggart bomb-thrower that lobs poisonous gas vials and may carry a **Rotgas Vial** |
 | [Boggart Rotwife](./boggart-rotwife.md) | 2 | Small | Humanoid | Filthy boggart crone that spits venom and croons a sleep-inducing **Rotwife’s Lullaby** |
+| [Gloamshadow](./gloamshadow.md) | 2 | Medium | Undead | Wavering undead shade with a freezing touch that drains **Strength** and can kill the helpless |
 | [Marrow Muncher](./marrow-muncher.md) | 3 | Large | Giant | Reeking brute that smashes foes with an oversized club and hurls skulls from its grisly belt |
 | [Rotwing](./rotwing.md) | 2 | Small | Monstrosity | Bat-winged blood parasite that causes **Bleeding** and spreads **Veinrot** |
 | [Wulf](./wulf.md) | 1 | Small | Beast | Mangy pack beast with a diseased bite and a rare **Bone Collar** drop |
