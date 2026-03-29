@@ -408,6 +408,7 @@ This includes the currently approved entries such as:
 - Feather Fall
 - Identify
 - Judgment of Solace
+- Light
 - Litany of Solace
 - Mocking Words
 - Sleep
@@ -804,7 +805,41 @@ Implementation/data references:
 
 ---
 
-## 28. Source Sheets
+## 28. First-Person Seeing Distance and Light
+
+In first-person exploration:
+- the party sees up to **3 tiles ahead** above ground during daylight-facing phases
+- the party sees up to **2 tiles ahead** above ground at night
+
+Dungeons and other adventuring locations define whether they are **lit** or **unlit**.
+A lit location provides ambient visibility.
+An unlit location is completely dark unless the party uses an active light source.
+
+### Darkness Rules
+In complete darkness:
+- the party may still move
+- they cannot see ahead
+- if they walk into a solid wall, display **"Ouch."** and play an impact cue
+
+### Approved Light Sources
+The current approved exploration light sources are:
+- **Light** spell
+- **Hooded Lantern**
+- **Torch**
+
+These follow the rules that:
+- handheld light sources must be equipped in **main hand** or **off-hand**
+- only the **strongest** active light source applies
+- active light overrides dungeon darkness and outdoor night darkness
+- hooded lanterns provide **3 tiles** of illumination and burn **4 hours** per oil vial
+- torches provide **3 tiles** of illumination and burn **1 hour**
+
+The standalone reference for this system is:
+- `umberhold/light-vision-canon.md`
+
+---
+
+## 29. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`
@@ -820,5 +855,6 @@ This consolidated file is currently based on:
 - `umberhold/class-equipment-canon.md`
 - `umberhold/weapon-statistics-canon.md`
 - `umberhold/time-canon.md`
+- `umberhold/light-vision-canon.md`
 
 These may still be kept as narrower reference sheets if useful.

@@ -126,6 +126,27 @@ Suggested marker:
 - [x] **Approve** **inns/taverns** remaining open at all hours.
 - [x] **Approve** spell durations, status effects, and world interactions all using this same underlying time model.
 
+## 2.6 First-Person Visibility and Light
+- [x] **Approve** above-ground first-person visibility as **3 tiles ahead** during daylight-facing phases.
+- [x] **Approve** above-ground first-person visibility as **2 tiles ahead** during night phases.
+- [x] **Approve** dungeon/interior lighting being authored per adventuring location as **lit** or **unlit**.
+- [x] **Approve** unlit locations allowing movement but **no seeing ahead** without an active light source.
+- [x] **Approve** walking into a solid wall in darkness showing the message **"Ouch."** and playing an impact cue.
+- [x] **Approve** the current core exploration light sources as:
+  - Light spell
+  - Hooded Lantern
+  - Torch
+- [x] **Approve** handheld light sources needing to be equipped in the **main hand** or **off-hand** to function.
+- [x] **Approve** only the **strongest** active light source applying when multiple are active.
+- [x] **Approve** active light sources overriding dungeon darkness and outdoor night darkness with their full range.
+- [x] **Approve** the **Hooded Lantern** providing **3 tiles** of illumination and burning **4 hours** per oil vial.
+- [x] **Approve** hooded lantern fuel being consumed automatically from the carrier first, then from a **random other party member** if needed.
+- [x] **Approve** the no-oil lantern message as **"You have no oil to fill the lantern."**
+- [x] **Approve** the lantern-expired message as **"Your lantern has gone out."**
+- [x] **Approve** the **Torch** providing **3 tiles** of illumination and burning **1 hour**.
+- [x] **Approve** torches showing a subtle flicker of shifting shadows within the lit radius.
+- [x] **Approve** the torch-expired message as **"Your torch has gone out."**
+
 ---
 
 # 3. Combat System Changes

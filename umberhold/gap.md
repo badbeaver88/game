@@ -310,7 +310,6 @@ The design says **1st-person 3D**, but not:
 - billboard enemies
 - fixed camera depth budget
 - how interactables are represented
-- how far ahead the player can see
 
 ### Gap
 The rendering approach strongly affects:

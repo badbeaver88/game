@@ -468,6 +468,7 @@ Enemies do not simply rush forward; they maintain their tactical advantage based
 | **Saves** | **Inn Only** | Manual saves at settlements (inns) only; high-stakes trekking. |
 | **Encounters** | **Hybrid** | Random battles are infinite; Set-Pieces are unique. |
 | **Time** | **Discrete Action Clock** | Time advances only when the player acts; day phases gate durations and shop access. |
+| **Vision** | **Phase & Light Driven** | Above ground the party sees 3 tiles by day and 2 at night; unlit dungeons require an active light source. |
 
 ---
 
@@ -478,9 +479,15 @@ Enemies do not simply rush forward; they maintain their tactical advantage based
 * **Availability:** Most shops operate during **First Light** through **Fading Light**. **Inns** and **taverns** remain open at all hours.
 * **Timed Systems:** Spell durations, status effects, and world interactions all use this same underlying clock.
 
+### **VII. First-Person Sight & Light**
+* **Outdoor Visibility:** Above ground, the party sees up to **3 tiles ahead** during daylight-facing phases and **2 tiles ahead** at night.
+* **Dungeon Darkness:** Each adventuring location is authored as **lit** or **unlit**. In unlit locations the party may still move, but they cannot see ahead without an active light source.
+* **Collision Feedback:** If the party walks into a solid wall while in darkness, the game displays **"Ouch."** and plays an impact cue.
+* **Light Sources:** The **Light** spell, **hooded lantern**, and **torch** each provide **3 tiles of illumination**. Handheld light sources must be equipped in the **main hand** or **off-hand**, and only the strongest active light source applies.
+
 ---
 
-### **VII. Character System (Reminder)**
+### **VIII. Character System (Reminder)**
 * **HP:** Current/Max. 0 HP = Death (Shadow/Skull portrait).
 * **Classes:** Spellcasters (Slots as per 5E).
 * **Inventory:** Limited by **Encumbrance**. Items are permanent and tradable via **Click-and-Drag**.
@@ -1413,7 +1420,7 @@ Spellcasters are either full casters or half casters, as in 5E, but with two maj
 
 | Name              | Classes  | Level   | Range | Target                                                     | Duration        | Effect                                                                                                                                                                                 |
 | ----------------- | -------- | ------- | ----- | ---------------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Light             | HW, T    | 1st     | Party | Party                                                      | Until dispelled | Provides 3 squares of illumination in darkness. **ICON: BURNING SUN**                                                                                                                      |
+| Light             | HW, T    | 1st     | Party | Party                                                      | Until dispelled | Provides **3 tiles of illumination** in exploration and overrides natural darkness while active. **ICON: BURNING SUN**                                                                                                                      |
 | Mocking Words     | T        | Cantrip | 3     | One enemy                                                  | Instant         | WIS save or take 1d8 psychic damage and suffer disadvantage on the next attack.                                                                                                        |
 | Cure Light Wounds | F, W, C  | 1st     | 1     | One ally                                                   | Instant         | Heals 1d8 + Casting Bonus hit points.                                                                                                                                                  |
 | Feather Fall      | HW       | 1st     | Party | Party                                                      | Until dispelled         | Immune to falling damage. **ICON: FEATHER**                                                                                                                                                |

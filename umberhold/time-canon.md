@@ -129,6 +129,8 @@ Internally, all time-tracked systems should resolve against the same **6-second 
 
 Examples:
 - a **4-hour** effect lasts **2,400** time steps
+- a **hooded lantern** lasts **4 hours = 2,400** time steps
+- a **torch** lasts **1 hour = 600** time steps
 - an **8-hour Rest** lasts **4,800** time steps
 - a **3-hour day phase** lasts **1,800** time steps
 
