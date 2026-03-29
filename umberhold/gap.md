@@ -546,15 +546,19 @@ A full class lineup exists, but only Shadowman receives detailed level progressi
 
 ---
 
-## 5.3 Vocation system lacks integration rules
-Vocations are evocative, but their interaction layer is undefined.
+## 5.3 Vocation system now has canon boons, but implementation details remain
+Vocations are now defined as passive character-creation backgrounds with always-on Boons and hidden exact mechanics.
 
-### Missing decisions
-- Is vocation purely passive?
+### Canon decisions now set
+- vocation is chosen at character creation
+- the Boon is passive, always active, and cannot be changed
+- players see a flavor hint, not the exact rules text, during character creation
+- no vocation-specific dialogue or quest branching exists in the vertical slice
+
+### Remaining integration questions
 - Can two systems grant overlapping immunities?
-- Does vocation affect dialogue?
-- Can vocation unlock quests or NPC reactions?
 - Is vocation visible in UI after creation?
+- How, if at all, should hidden Boons be surfaced later in play?
 - Are vocations balanced against each other or mostly flavor?
 
 ---

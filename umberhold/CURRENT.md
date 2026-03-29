@@ -783,26 +783,172 @@ If the player chooses to keep the character, the final two choices are Class and
 \page
 ##### Vocations
 
-Vocations are character backgrounds, and one is chosen at character creation.  
+A vocation is a background chosen at character creation. It grants a passive **Boon** that is always active and cannot be changed.
 
-| Vocation          | Summary                                                  | Starting Boon (5e Mechanics)                                                                    |
-| ----------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Whipping Boy/Girl | Received the physical lashings earned by noble children. | **Hardened:** 50% chance to turn any critical hit suffered into a normal hit.     |
-| Poison Taster     | Sampled dishes for paranoid lords to detect toxins.      | **Internal Fortitude:** You have Advantage on Saving Throws against being Poisoned. Additionally, poison damage is reduced by 25%.             |
-| Gong Farmer       | Cleared human waste from cesspits beneath the village.   | **Stench-Blind:** You are immune to the Poisoned condition caused by foul odors or gases.       |
-| Sin Eater         | Ritually “consumed” the sins of the dying via bread.     | **Soul-Scarred:** +4 to Wisdom saving throws.                 |
-| Leech Collector   | Waded through marshes using their own legs as bait.      | **Clot-Quick:** When rolling hit points on level-up, a result of 1 is never kept. If a 1 is rolled, reroll the die until a higher result is obtained.    |
-| Rat Catcher       | Hunted vermin in the lightless, infested sewers.         | **Vermin-Sense:** +1 Agility.    |
-| Mudlark           | Scavenged riverbeds at low tide for scrap.               | **Eagle-Eye:** Your eye is keen; you roll Initiative at +4.       |
-| Plague Burier     | Tossed the victims of the “soot-cough” into mass pits.   | **Morbid Touch:** You have Resistance to Necrotic damage.                                       |
-| Knacker           | Rendered old livestock into glue, tallow, and hide.      | **Heavy-Handed:** You gain a +1 bonus to damage rolls with all melee weapons.                 |
-| Toad-Eater        | Ate live toads to prove a charlatan’s “miracle cure.”    | **Iron Gut:** You are resistant to poison damage (resistance means you take half damage).             |
-| Chimney Sweep     | Scoured soot from tight, lightless, scorching flues.     | **Limber:** +4 to Dexterity saving throws.                    |
-| Gibbet-Cleaner    | Scrubbed the remains of criminals from iron cages.       | **Death-Calloused:** You have Advantage on Saving Throws against being Frightened.  |
+**Hidden Boons**
+Each vocation has:
+- a **player-facing description** (flavor hint)
+- a **hidden mechanical effect** (exact rules handled by the game)
 
+Players are not shown the exact mechanics at character creation, though they may be able to infer or guess what the Boon does from its description. The exact effect is never explicitly revealed.
 
+::
 
+###### Whipping Boy / Girl
 
+**What the Job Was**  
+A servant child raised alongside a noble heir, educated just enough to mirror them—but existing for one purpose: to be beaten in their place. When the noble erred, you were dragged forward and punished publicly, your suffering standing in for theirs.
+
+**Boon (What the Player Knows)**  
+You have learned to endure punishment that would break others.
+
+**Boon (Hidden Mechanics)**  
+When you are hit by a critical hit, roll a d3. On a 1, the hit becomes a normal hit instead.
+
+::
+
+###### Poison Taster
+
+**What the Job Was**  
+A disposable servant forced to eat and drink before their master, proving each meal safe. You learned to recognize bitterness, numbness, and the slow tightening of your throat—often while others watched to see if you would live.
+
+**Boon (What the Player Knows)**  
+Your body has grown accustomed to toxins.
+
+**Boon (Hidden Mechanics)**  
+You have Advantage on saves against poison.  
+All poison damage you take is reduced by 25% (rounded down).
+
+::
+
+###### Gong Farmer
+
+**What the Job Was**  
+A night laborer who climbed into reeking pits of human waste, shoveling and hauling it out before it overflowed into the streets. The air alone could kill an untrained man; you learned to breathe it until it no longer mattered.
+
+**Boon (What the Player Knows)**  
+Foul air does not affect you as it once did.
+
+**Boon (Hidden Mechanics)**  
+You cannot gain the Poisoned condition from gases.
+
+::
+
+###### Sin Eater
+
+**What the Job Was**  
+An outcast summoned to the dead, paid to consume bread and salt placed on a corpse, taking their sins into yourself. Feared, shunned, and never thanked—you carried what others refused to face.
+
+**Boon (What the Player Knows)**  
+Unseen forces do not always take hold of you.
+
+**Boon (Hidden Mechanics)**  
+Whenever you are targeted by a spell that requires a saving throw, roll a d10. On a 1, the spell has no effect on you.
+
+::
+
+###### Leech Collector
+
+**What the Job Was**  
+A marsh worker who stood motionless in black water while leeches fastened to your flesh. You let them drink their fill before pulling them free, trading your blood for coin.
+
+**Boon (What the Player Knows)**  
+Your body no longer fears the loss of blood.
+
+**Boon (Hidden Mechanics)**  
+You are immune to bleeding effects.
+
+::
+
+###### Rat Catcher
+
+**What the Job Was**  
+A hunter of vermin in the tightest, filthiest parts of the city—where rats grew bold and disease spread quickly. You crushed, trapped, and grabbed them by hand, often getting bitten for your trouble.
+
+**Boon (What the Player Knows)**  
+You are quicker than most, especially in tight spaces.
+
+**Boon (Hidden Mechanics)**  
+You gain +1 Agility.
+
+::
+
+###### Mudlark
+
+**What the Job Was**  
+A scavenger who combed freezing riverbanks and muck for anything worth selling—coins, scrap, bones. You fought others for scraps and learned to spot value in filth before anyone else could.
+
+**Boon (What the Player Knows)**  
+You rarely miss what others overlook.
+
+**Boon (Hidden Mechanics)**  
+You have Advantage on all Perception checks.
+
+::
+
+###### Plague Burier
+
+**What the Job Was**  
+A corpse-handler during outbreaks, tasked with clearing the dead as quickly as possible. You stacked bodies, dug shallow pits, and covered them before the sickness could spread further.
+
+**Boon (What the Player Knows)**  
+Disease has lost its hold on you.
+
+**Boon (Hidden Mechanics)**  
+You are immune to disease.
+
+\page
+
+###### Knacker
+
+**What the Job Was**  
+A breaker of dead animals—cutting down bloated, diseased carcasses and stripping them for anything usable. You learned where to cut, how to separate flesh, and how little a body is worth once life leaves it.
+
+**Boon (What the Player Knows)**  
+You know how to strike to do real harm.
+
+**Boon (Hidden Mechanics)**  
+You deal +1 damage to all melee attacks.
+
+::
+
+###### Toad-Eater
+
+**What the Job Was**  
+A street performer and fraud who swallowed foul substances—sometimes live animals, sometimes real toxins—to convince crowds of false cures. The act paid poorly, and sometimes it went wrong.
+
+**Boon (What the Player Knows)**  
+You can endure toxins that would sicken others.
+
+**Boon (Hidden Mechanics)**  
+You have Advantage on saves against poison.  
+All poison damage you take is reduced by 25% (rounded down).
+
+::
+
+###### Chimney Sweep
+
+**What the Job Was**  
+A small-bodied worker forced into narrow chimneys, climbing through choking soot to scrape them clean. Many suffocated, slipped, or became stuck where no one could reach them.
+
+**Boon (What the Player Knows)**  
+You move easily through tight and dangerous spaces.
+
+**Boon (Hidden Mechanics)**  
+You gain +4 to Agility saving throws.
+
+::
+
+###### Gibbet-Cleaner
+
+**What the Job Was**  
+A laborer who tended execution sites, handling bodies left to rot in public cages. You cleared what fell away, reset what remained, and worked among the stench of slow decay.
+
+**Boon (What the Player Knows)**  
+You are difficult to unsettle, even in the face of horror.
+
+**Boon (Hidden Mechanics)**  
+You have Advantage on saves against Fear effects.
 
 
 \page
@@ -841,7 +987,6 @@ When you bring a body to the Chantry, Gidney’s dialogue will reflect these odd
 | :--- | :--- | :--- |
 | **Recovery** | **Resurrection** | $20\% - \text{CON}\%$ (Min 1%). |
 | **Cost** | **Gold Payment** | $500\text{gp} \times \text{Character Level}$. |
-| **Vocation Bonus** | **Gibbet-Cleaner** | Grants **Advantage** on the first Death Save before Gidney is even needed. |
 | **Consequence** | **Permanent Loss** | If the roll fails, the character is gone forever. Reverting requires loading an **Inn Save**. |
 
 Would you like me to create a **Resurrection Table** showing the exact failure percentages for every Constitution score from 3 to 20?
