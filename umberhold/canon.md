@@ -797,6 +797,11 @@ Most standard shops operate during daylight-facing phases:
 The standalone reference for this system is:
 - `umberhold/time-canon.md`
 
+Implementation/data references:
+- `umberhold/time-data-schema.md`
+- `umberhold/schemas/time/`
+- `umberhold/examples/time/`
+
 ---
 
 ## 28. Source Sheets

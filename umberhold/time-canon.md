@@ -134,6 +134,14 @@ Examples:
 
 Settlement services should be authorable with explicit allowed day phases rather than bespoke per-scene logic.
 
+Implementation references:
+- `umberhold/time-data-schema.md`
+- `umberhold/schemas/time/world-clock-state.schema.json`
+- `umberhold/schemas/time/day-phases.schema.json`
+- `umberhold/schemas/time/service-schedules.schema.json`
+- `umberhold/schemas/time/timed-effects.schema.json`
+- `umberhold/examples/time/`
+
 ---
 
 ## 8. Status

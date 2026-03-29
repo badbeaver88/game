@@ -316,6 +316,71 @@ Separate **random** and **fixed** encounters.
 }
 ```
 
+### 6.5 World clock state schema
+Use a single absolute 6-second step counter for runtime state.
+
+```json
+{
+  "absolute_step": 3725,
+  "cached_day_number": 1,
+  "cached_step_of_day": 3725,
+  "cached_phase_id": "first_light"
+}
+```
+
+### 6.6 Day phase schema
+Define the phase table externally so UI and logic share the same source.
+
+```json
+{
+  "step_seconds": 6,
+  "steps_per_hour": 600,
+  "steps_per_phase": 1800,
+  "steps_per_day": 14400,
+  "phases": [
+    { "id": "dead_of_night", "name": "Dead of Night", "order": 0, "start_step": 0, "end_step_exclusive": 1800 },
+    { "id": "black_hours", "name": "Black Hours", "order": 1, "start_step": 1800, "end_step_exclusive": 3600 }
+  ]
+}
+```
+
+### 6.7 Service schedule schema
+Gate shops and services by canonical day phases.
+
+```json
+{
+  "id": "iron_shovel_shop",
+  "location_id": "iron_shovel_and_scutage",
+  "service_id": "gear_shop",
+  "service_type": "shop",
+  "schedule_mode": "phase_window",
+  "open_phases": ["first_light", "high_morning", "sun_at_zenith", "fading_light"]
+}
+```
+
+### 6.8 Timed effect schema
+Track authored duration behavior separately from runtime world clock state.
+
+```json
+{
+  "id": "feather_fall_party",
+  "source_type": "spell",
+  "source_id": "feather_fall",
+  "effect_type": "party_buff",
+  "duration": {
+    "mode": "fixed_steps",
+    "steps": 2400
+  }
+}
+```
+
+Reference files:
+- `umberhold/time-data-schema.md`
+- `umberhold/schemas/time/world-clock-state.schema.json`
+- `umberhold/schemas/time/day-phases.schema.json`
+- `umberhold/schemas/time/service-schedules.schema.json`
+- `umberhold/schemas/time/timed-effects.schema.json`
+
 ---
 
 ## 7. Exploration System Plan
