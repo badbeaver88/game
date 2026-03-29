@@ -350,7 +350,7 @@ The difficulty in **Umberhold** is driven by tactical combat and resource manage
 * **Monster Strength:** The main push against the player comes from progressively more powerful enemies. As you move into new regions (from the muddy South toward the icy North), monster stats, rank abilities, and slot sizes increase.
 * **Gearing & Leveling:** Difficulty scales such that players **must** level up (on the $5\times$ XP curve) and find superior equipment to survive the next area, dungeon, or section of the game.
 * **No Puzzles:** There are no time-wasting or annoying puzzles to solve. The challenge is strictly found in combat strategy and party progression.
-* **No Time Pressure:** Players can take as long as they need to explore a $26 \times 26$ grid or decide on a move in combat; there are no ticking clocks.
+* **No Time Pressure:** Players can take as long as they need to decide on exploration or combat actions; time advances only when they actually act, not while they are thinking or in menus.
 
 ---
 
@@ -467,10 +467,20 @@ Enemies do not simply rush forward; they maintain their tactical advantage based
 | **Scaling** | **Soft-Lock** | Survival is dependent on Level (1–10) and Gear. |
 | **Saves** | **Inn Only** | Manual saves at settlements (inns) only; high-stakes trekking. |
 | **Encounters** | **Hybrid** | Random battles are infinite; Set-Pieces are unique. |
+| **Time** | **Discrete Action Clock** | Time advances only when the player acts; day phases gate durations and shop access. |
 
 ---
 
-### **VI. Character System (Reminder)**
+### **VI. Time & Daily Schedule**
+* **Discrete Time:** One successful grid move or one full combat round advances world time by **6 seconds**. **600** such steps equal **1 in-game hour**.
+* **No Passive Simulation:** If the player stops acting, time stops. The world remains static until the next action.
+* **Day Phases:** The HUD shows only the current 3-hour phase below the minimap: **Dead of Night**, **Black Hours**, **First Light**, **High Morning**, **Sun at Zenith**, **Fading Light**, **Gloaming**, **Nightfall**.
+* **Availability:** Most shops operate during **First Light** through **Fading Light**. **Inns** and **taverns** remain open at all hours.
+* **Timed Systems:** Spell durations, status effects, and world interactions all use this same underlying clock.
+
+---
+
+### **VII. Character System (Reminder)**
 * **HP:** Current/Max. 0 HP = Death (Shadow/Skull portrait).
 * **Classes:** Spellcasters (Slots as per 5E).
 * **Inventory:** Limited by **Encumbrance**. Items are permanent and tradable via **Click-and-Drag**.

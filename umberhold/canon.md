@@ -740,7 +740,66 @@ The following are still open and should be resolved in future canon passes:
 
 ---
 
-## 27. Source Sheets
+## 27. Time System and Daily Schedule
+
+Umberhold uses a **discrete, action-driven time system**.
+
+### Core Rule
+One time step equals **6 seconds** of in-game time.
+
+The following currently consume one 6-second step:
+- one **successful grid movement** into a new tile
+- one **full combat round** in which all combatants act
+
+This uses **round** as the combat timekeeping unit, not an individual combatant turn.
+
+### No Passive Time
+Time advances only when the player performs an action with a defined time cost.
+
+If the player stops acting, the world remains static.
+
+This means there is **no real-time pressure** and no passive world simulation running in the background.
+
+### Time of Day Presentation
+The game tracks time internally, but does **not** display exact hours to the player.
+
+Instead, the UI shows only the **current phase of the day** below the minimap.
+
+### Day Phases
+Each day is divided into **8 phases**, each lasting **3 hours**:
+1. **Dead of Night** (12am-3am)
+2. **Black Hours** (3am-6am)
+3. **First Light** (6am-9am)
+4. **High Morning** (9am-12pm)
+5. **Sun at Zenith** (12pm-3pm)
+6. **Fading Light** (3pm-6pm)
+7. **Gloaming** (6pm-9pm)
+8. **Nightfall** (9pm-12am)
+
+Only the **phase name** is shown to the player.
+
+### Timed Systems
+This same underlying clock governs:
+- spell durations
+- status effects
+- world interactions
+- service availability
+
+### Shop Hours
+Most standard shops operate during daylight-facing phases:
+- **First Light**
+- **High Morning**
+- **Sun at Zenith**
+- **Fading Light**
+
+**Inns** and **taverns** remain open at all hours.
+
+The standalone reference for this system is:
+- `umberhold/time-canon.md`
+
+---
+
+## 28. Source Sheets
 
 This consolidated file is currently based on:
 - `umberhold/combat-turn-canon.md`
@@ -755,5 +814,6 @@ This consolidated file is currently based on:
 - `umberhold/items/gemstones.md`
 - `umberhold/class-equipment-canon.md`
 - `umberhold/weapon-statistics-canon.md`
+- `umberhold/time-canon.md`
 
 These may still be kept as narrower reference sheets if useful.

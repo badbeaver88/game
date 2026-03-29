@@ -107,6 +107,25 @@ Suggested marker:
 - [x] **Approve** visible facing direction and current coordinate in the HUD.
 - [x] **Approve** basic accessibility options for turn speed and camera comfort.
 
+## 2.5 Time System
+- [x] **Approve** a **discrete 6-second world time step** as the core unit for timed systems.
+- [x] **Approve** one **successful movement into a new tile** consuming **6 seconds**.
+- [x] **Approve** one **full combat round** (all combatants act) consuming **6 seconds**.
+- [x] **Approve** **no passive time**; the world remains static until the player acts.
+- [x] **Approve** time of day being shown only as an **8-phase day cycle** below the minimap, not as an exact clock.
+- [x] **Approve** the day phases as:
+  - Dead of Night
+  - Black Hours
+  - First Light
+  - High Morning
+  - Sun at Zenith
+  - Fading Light
+  - Gloaming
+  - Nightfall
+- [x] **Approve** most shops operating during **First Light** through **Fading Light**.
+- [x] **Approve** **inns/taverns** remaining open at all hours.
+- [x] **Approve** spell durations, status effects, and world interactions all using this same underlying time model.
+
 ---
 
 # 3. Combat System Changes

@@ -230,6 +230,7 @@ Use JSON, YAML, or similar external files for:
 - NPC dialogue
 - quests
 - shop inventories
+- day phases and shop schedules
 - narrative flags and conditions
 
 This is essential because Umberhold is content-heavy.
