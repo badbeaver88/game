@@ -26,7 +26,7 @@
 | **Damage Resistances** | None |
 | **Damage Immunities** | Poison |
 | **Condition Immunities** | Poisoned |
-| **Attacks** | **Poison Needle:** +5 to hit, range 1, 1 piercing damage; the target must make a **Constitution save** or take **2d4 poison damage**, or half damage on a success. Combat text: *Poppet of Pins darts forward, jabbing a rusted needle into (insert target)!* |
+| **Attacks** | **Poison Needle:** +5 to hit, range 1, 1 piercing damage; the target must make a **DC 12 Constitution save** or take **2d4 poison damage**, or half damage on a success. Combat text: *Poppet of Pins darts forward, jabbing a rusted needle into (insert target)!* |
 | **Treasure Type** | 10% chance to contain two random 50 gp gemstones (set as eyes) |
 | **Comments** | “A faint stitching sound...”, “snip... stitch... snip...”, “A soft, childlike giggle”, “Needles twitch eagerly”, “Threads tighten as it strikes” |
 | **Experience** | 50 |
