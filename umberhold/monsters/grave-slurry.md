@@ -33,6 +33,14 @@
 
 ---
 
+## Traits
+
+| Trait | Effect |
+|---|---|
+| None | None |
+
+---
+
 ## Notes
 
 ### Item Destruction Note
