@@ -16,7 +16,7 @@ It does **not** modify `MASTER.md`.
 | Description | Describes the creature in detail, including appearance, odor, demeanor, behavior, and other sensory notes |
 | Level | 1-20 |
 | Size | Small, Medium, Large, Huge, or Gigantic |
-| Type | Beast, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Insect, Monstrosity, Ooze, Plant, or Undead |
+| Type | Beast, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Insect, Monstrosity, Ooze, Plant, or Undead |
 | Alignment | Good, Neutral, or Evil |
 | AC | Base 10 when unarmored, modified by Agility, armor, and other effects |
 | Hit Points | Determined by size and level |
@@ -74,6 +74,7 @@ Under Umberhold's current combat system, size maps to enemy rank occupancy as fo
 
 The current approved monster types are:
 - Beast
+- Construct
 - Dragon
 - Elemental
 - Fey
@@ -228,7 +229,7 @@ This document locks in the following:
 - Large occupies 2 combat slots
 - Huge occupies 3 combat slots
 - Gigantic occupies 4 combat slots
-- the current monster type list is Beast, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Insect, Monstrosity, Ooze, Plant, and Undead
+- the current monster type list is Beast, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Insect, Monstrosity, Ooze, Plant, and Undead
 - the current alignment values are Good, Neutral, and Evil
 - unarmored AC starts at 10
 - hit point dice scale by size category

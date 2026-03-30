@@ -20,7 +20,7 @@ It does **not** modify `MASTER.md`.
   - Large = 2
   - Huge = 3
   - Gigantic = 4
-- **Type:** Beast / Dragon / Elemental / Fey / Fiend / Giant / Humanoid / Insect / Monstrosity / Ooze / Plant / Undead
+- **Type:** Beast / Construct / Dragon / Elemental / Fey / Fiend / Giant / Humanoid / Insect / Monstrosity / Ooze / Plant / Undead
 - **Alignment:** Good / Neutral / Evil
 - **Lore Notes:** 
 

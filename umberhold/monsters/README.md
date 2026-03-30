@@ -14,6 +14,7 @@ This folder contains individual monster entries for Umberhold.
 | [Boggart Gasser](./boggart-gasser.md) | 2 | Small | Humanoid | Choking boggart bomb-thrower that lobs poisonous gas vials and may carry a **Rotgas Vial** |
 | [Boggart Rotwife](./boggart-rotwife.md) | 2 | Small | Humanoid | Filthy boggart crone that spits venom and croons a sleep-inducing **Rotwife’s Lullaby** |
 | [Chest Mimic](./chest-mimic.md) | 3 | Medium | Monstrosity | False treasure chest predator with a paralyzing bite and a chance to contain **Gloves of the Black Hand** |
+| [Gleaming Halberd](./gleaming-halberd.md) | 1 | Medium | Construct | Hovering animated halberd with a shrill tongue, hardened steel body, and a long-reaching **Halberd Strike** |
 | [Gloamshadow](./gloamshadow.md) | 2 | Medium | Undead | Wavering undead shade with a freezing touch that drains **Strength** and can kill the helpless |
 | [Grave Slurry](./grave-slurry.md) | 2 | Medium | Undead, Ooze | Heaving corpse-sludge that lashes with acid and threatens **MINOR ITEM DESTRUCTION** |
 | [Griselda Rotmother](./griselda-rotmother.md) | 4 | Large | Humanoid | Bloated boggart manor boss with a foul bile belch, reinforcements, and the **Boss Creature** trait |
