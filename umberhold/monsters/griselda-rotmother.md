@@ -19,7 +19,7 @@
 | **Piety** | 12 (+1) |
 | **Personality** | 14 (+2) |
 | **Luck** | 10 (+0) |
-| **Proficiency Bonus** | +2 |
+| **Proficiency Bonus** | +3 |
 | **Saving Throw Proficiencies** | None listed |
 | **Skill Proficiencies** | None listed |
 | **Damage Vulnerabilities** | None |
