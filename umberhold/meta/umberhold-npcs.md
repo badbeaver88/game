@@ -2,6 +2,10 @@
 
 Extracted from `umberhold/CURRENT.md`.
 
+> Full authored follow-up now lives in:
+> - `umberhold/umberhold-village-hub.md`
+> - `umberhold/umberhold-npc-dialogue.md`
+
 ## Summary
 `CURRENT.md` defines **5 core service NPCs** in Umberhold.
 They are excellent anchors for the town loop, but currently exist mostly as:

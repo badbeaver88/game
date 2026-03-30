@@ -628,6 +628,7 @@ Players understand why they are exploring, not just what they are killing.
 - inventory/equipment UI
 - spell UI
 - shop UI
+- journal UI
 - graveyard screen
 
 ### Explore HUD
@@ -637,6 +638,7 @@ Players understand why they are exploring, not just what they are killing.
 - party status
 - active buffs
 - contextual interaction prompt
+- journal book icon
 
 ### Combat HUD
 - initiative strip

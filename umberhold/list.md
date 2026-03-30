@@ -359,6 +359,7 @@ QUEST ITEMS - quest items are necessary for completion of the game. When the par
   - party status
   - active buffs
   - interact prompt when relevant
+  - journal book icon
 
 ## 7.3 Input Philosophy
 - [x] **Approve** keyboard-first controls with mouse-assisted targeting.
