@@ -18,6 +18,7 @@ This folder contains individual monster entries for Umberhold.
 | [Grave Slurry](./grave-slurry.md) | 2 | Medium | Undead, Ooze | Heaving corpse-sludge that lashes with acid and threatens **MINOR ITEM DESTRUCTION** |
 | [Marrow Muncher](./marrow-muncher.md) | 3 | Large | Giant | Reeking brute that smashes foes with an oversized club and hurls skulls from its grisly belt |
 | [Rotwing](./rotwing.md) | 2 | Small | Monstrosity | Bat-winged blood parasite that causes **Bleeding** and spreads **Veinrot** |
+| [Trow](./trow.md) | 4 | Large | Giant | Hulking troll-like brute with **Regeneration**, **Cringing Fury**, and a savage claw-and-bite multiattack |
 | [Wulf](./wulf.md) | 1 | Small | Beast | Mangy pack beast with a diseased bite and a rare **Bone Collar** drop |
 
 ---

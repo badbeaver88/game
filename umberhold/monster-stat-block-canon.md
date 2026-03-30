@@ -35,6 +35,7 @@ It does **not** modify `MASTER.md`.
 | Damage Immunities | List of damage immunities |
 | Condition Immunities | List of condition immunities |
 | Attacks | List of attacks, including to-hit, damage, damage type, and special effects |
+| Traits | Optional passive, reactive, or always-on monster abilities, usually presented in a separate trait section or table |
 | Treasure Type | Treasure category from A-Z, based on treasure tables |
 | Comments | Optional creature comments, including a 5% chance at the start of its turn to speak a random humorous line appropriate to its creature type |
 | Experience | XP awarded to the party for slaying the monster |
@@ -189,7 +190,16 @@ Every monster attack must have a **range value from 1-3**.
 
 ---
 
-## 13. Treasure, Comments, and Experience
+## 13. Traits, Treasure, Comments, and Experience
+
+### Traits
+Each monster may include a **Traits** section.
+
+This is used for passive, reactive, or always-on abilities such as:
+- regeneration
+- aura effects
+- triggered behaviors
+- special weaknesses or compulsions
 
 ### Treasure Type
 Each monster may include a **Treasure Type** field from **A-Z**, based on Umberhold's treasure tables.
@@ -228,6 +238,7 @@ This document locks in the following:
 - monster entries include a Description field
 - monster entries include saving throw proficiencies and skill proficiencies
 - monster entries may include damage vulnerabilities, damage resistances, damage immunities, and condition immunities
+- monster entries may include a Traits section for passive, reactive, or always-on abilities
 - monster entries include attacks and XP value
 - monster entries may include Treasure Type and Comments
 

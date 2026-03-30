@@ -120,13 +120,12 @@ It does **not** modify `MASTER.md`.
 ### Condition Immunities
 - 
 
-### Passive Traits
-- 
-- 
+### Traits
 
-### Special Rules
-- 
-- 
+| Trait | Effect |
+|---|---|
+|  |  |
+|  |  |
 
 ---
 
@@ -244,8 +243,11 @@ It does **not** modify `MASTER.md`.
 - Damage Resistances:
 - Damage Immunities:
 - Condition Immunities:
-- Passive Traits:
-- Special Rules:
+
+## Traits
+| Trait | Effect |
+|---|---|
+| [Trait Name] | [Effect] |
 
 ## Spellcasting (Optional)
 - Caster:
