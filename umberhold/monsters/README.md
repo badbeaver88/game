@@ -16,6 +16,7 @@ This folder contains individual monster entries for Umberhold.
 | [Chest Mimic](./chest-mimic.md) | 3 | Medium | Monstrosity | False treasure chest predator with a paralyzing bite and a chance to contain **Gloves of the Black Hand** |
 | [Gloamshadow](./gloamshadow.md) | 2 | Medium | Undead | Wavering undead shade with a freezing touch that drains **Strength** and can kill the helpless |
 | [Grave Slurry](./grave-slurry.md) | 2 | Medium | Undead, Ooze | Heaving corpse-sludge that lashes with acid and threatens **MINOR ITEM DESTRUCTION** |
+| [Griselda Rotmother](./griselda-rotmother.md) | 4 | Large | Humanoid | Bloated boggart manor boss with a foul bile belch, reinforcements, and the **Boss Creature** trait |
 | [Marrow Muncher](./marrow-muncher.md) | 3 | Large | Giant | Reeking brute that smashes foes with an oversized club and hurls skulls from its grisly belt |
 | [Rotwing](./rotwing.md) | 2 | Small | Monstrosity | Bat-winged blood parasite that causes **Bleeding** and spreads **Veinrot** |
 | [Trow](./trow.md) | 4 | Large | Giant | Hulking troll-like brute with **Regeneration**, **Cringing Fury**, and a savage claw-and-bite multiattack |
