@@ -145,7 +145,7 @@ The Journal is separate from the existing **Quest Items** tab.
 ## 4.2 Iron Shovel & Scutage
 
 **NPC:** Oswaldine  
-**Role:** Merchant / identifier
+**Role:** Merchant / identifier / weapon silvering
 
 ### Services
 | Option | Details |
@@ -153,6 +153,10 @@ The Journal is separate from the existing **Quest Items** tab.
 | Buy | Mundane weapons, armor, gear |
 | Sell | 50% value |
 | Identify | 125 gp per item |
+| Silver One-Handed Melee Weapon | 50 gp |
+| Silver Two-Handed Melee Weapon | 100 gp |
+
+Oswaldine does **not** sell pre-silvered weapons. She only silvers melee weapons the party already owns.
 
 ### Identification rules
 | Item Tier | Chance Unidentified |
@@ -167,6 +171,9 @@ The Journal is separate from the existing **Quest Items** tab.
 
 **Identify**  
 > “Magic’s tricky. You want to know what you’re holding, you pay for the knowing.”
+
+**Silver weapons**  
+> “I don’t sell silvered blades. Bring me your weapon, bring me the silvering fee, and I’ll do the work proper.”
 
 **About the well**  
 > “If you’re going down that shaft, buy oil. And if you’re clever, fire.”
@@ -507,6 +514,8 @@ The trolls below the well are dead. Umberhold’s water is safe again, and villa
 - Buy
 - Sell
 - Identify
+- Silver one-handed melee weapon
+- Silver two-handed melee weapon
 - Ask about village
 - Ask about well
 - Ask about graveyard

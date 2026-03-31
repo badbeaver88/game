@@ -46,6 +46,9 @@ Use these lines as conditional dialogue keyed off quest completion flags.
 **Graveyard warning**  
 > “Dead things don’t stay buried east of here. Not lately.”
 
+**Silvering service**  
+> “I don’t sell silvered weapons off the rack. You bring me a one-handed melee weapon and fifty gold, or a two-handed one and a hundred, and I’ll plate it proper.”
+
 ### After The Missing Alchemist
 > “Good. The alchemist’s alive. Means I can stop hearing villagers ask me for cures I don’t stock.”
 

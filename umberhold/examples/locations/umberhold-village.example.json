@@ -63,7 +63,7 @@
       "id": "iron_shovel_and_scutage",
       "name": "Iron Shovel & Scutage",
       "location_type": "service_hub",
-      "summary": "General gear shop and item identification service.",
+      "summary": "General gear shop, item identification service, and weapon silvering service.",
       "npc_ids": ["oswaldine"],
       "services": [
         {
@@ -82,6 +82,20 @@
           "label": "Identify",
           "effect": "identify_item",
           "cost_gp": 125
+        },
+        {
+          "id": "silver_one_handed_melee_weapon",
+          "label": "Silver One-Handed Melee Weapon",
+          "effect": "silver_owned_weapon",
+          "cost_gp": 50,
+          "notes": "Oswaldine does not sell pre-silvered weapons. She silvers a one-handed melee weapon the party already owns."
+        },
+        {
+          "id": "silver_two_handed_melee_weapon",
+          "label": "Silver Two-Handed Melee Weapon",
+          "effect": "silver_owned_weapon",
+          "cost_gp": 100,
+          "notes": "Oswaldine does not sell pre-silvered weapons. She silvers a two-handed melee weapon the party already owns."
         }
       ]
     },
@@ -197,10 +211,11 @@
       "id": "oswaldine",
       "name": "Oswaldine",
       "role": "merchant",
-      "summary": "A hard-faced trader with a sharp tongue and sharper instincts.",
+      "summary": "A hard-faced trader with a sharp tongue, sharper instincts, and the skill to silver a weapon you already own.",
       "dialogue": {
         "default": [
           "Gold talks. If you’ve got it, I’ve got something worth your trouble.",
+          "I don’t sell silvered blades off the rack. Bring me the weapon and the coin, and I’ll do it proper.",
           "If you’re going down that shaft, buy oil. And if you’re clever, fire."
         ],
         "after_missing_alchemist": [
