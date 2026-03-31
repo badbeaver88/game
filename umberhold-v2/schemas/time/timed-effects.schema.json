@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "umberhold/schemas/time/timed-effects.schema.json",
+  "title": "Umberhold Timed Effects",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["effects"],
+  "properties": {
+    "effects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "source_type", "source_id", "effect_type", "duration"],
+        "properties": {
+          "id": {
+            "$ref": "./time-types.schema.json#/$defs/id"
+          },
+          "source_type": {
+            "type": "string",
+            "enum": ["spell", "attack", "item", "condition", "script"]
+          },
+          "source_id": {
+            "$ref": "./time-types.schema.json#/$defs/id"
+          },
+          "effect_type": {
+            "type": "string",
+            "minLength": 1
+          },
+          "duration": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["mode"],
+            "properties": {
+              "mode": {
+                "$ref": "./time-types.schema.json#/$defs/durationMode"
+              },
+              "steps": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "turn_boundary": {
+                "$ref": "./time-types.schema.json#/$defs/turnBoundary"
+              },
+              "turns": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "allOf": [
+              {
+                "if": {
+                  "properties": {
+                    "mode": {
+                      "const": "fixed_steps"
+                    }
+                  }
+                },
+                "then": {
+                  "required": ["steps"]
+                }
+              },
+              {
+                "if": {
+                  "properties": {
+                    "mode": {
+                      "const": "turn_boundary"
+                    }
+                  }
+                },
+                "then": {
+                  "required": ["turn_boundary", "turns"]
+                }
+              }
+            ]
+          },
+          "tick_timing": {
+            "$ref": "./time-types.schema.json#/$defs/tickTiming"
+          },
+          "removal_triggers": {
+            "type": "array",
+            "items": {
+              "$ref": "./time-types.schema.json#/$defs/removalTrigger"
+            },
+            "uniqueItems": true
+          },
+          "stacking_key": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

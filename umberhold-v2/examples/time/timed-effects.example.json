@@ -1,0 +1,103 @@
+{
+  "effects": [
+    {
+      "id": "feather_fall_party",
+      "source_type": "spell",
+      "source_id": "feather_fall",
+      "effect_type": "party_buff",
+      "duration": {
+        "mode": "fixed_steps",
+        "steps": 2400
+      },
+      "tick_timing": "none",
+      "stacking_key": "feather_fall",
+      "notes": "4 hours x 600 steps per hour."
+    },
+    {
+      "id": "zarveths_arcane_cloak_self",
+      "source_type": "spell",
+      "source_id": "zarveths_arcane_cloak",
+      "effect_type": "self_buff",
+      "duration": {
+        "mode": "fixed_steps",
+        "steps": 2400
+      },
+      "tick_timing": "none",
+      "stacking_key": "arcane_cloak"
+    },
+    {
+      "id": "shield_of_solace_buff",
+      "source_type": "spell",
+      "source_id": "shield_of_solace",
+      "effect_type": "ally_buff",
+      "duration": {
+        "mode": "combat"
+      },
+      "tick_timing": "none",
+      "removal_triggers": ["combat_end"],
+      "stacking_key": "shield_of_solace"
+    },
+    {
+      "id": "wardens_mark_debuff",
+      "source_type": "spell",
+      "source_id": "wardens_mark",
+      "effect_type": "mark",
+      "duration": {
+        "mode": "combat"
+      },
+      "tick_timing": "none",
+      "removal_triggers": ["combat_end"],
+      "stacking_key": "wardens_mark"
+    },
+    {
+      "id": "deathknell_frightened",
+      "source_type": "spell",
+      "source_id": "deathknell_of_solace",
+      "effect_type": "condition",
+      "duration": {
+        "mode": "turn_boundary",
+        "turn_boundary": "end_of_target_turn",
+        "turns": 1
+      },
+      "tick_timing": "none",
+      "stacking_key": "frightened"
+    },
+    {
+      "id": "poison_gas_vial_poisoned",
+      "source_type": "attack",
+      "source_id": "boggart_gasser_poison_gas_vial",
+      "effect_type": "condition",
+      "duration": {
+        "mode": "turn_boundary",
+        "turn_boundary": "end_of_target_turn",
+        "turns": 1
+      },
+      "tick_timing": "none",
+      "stacking_key": "poisoned"
+    },
+    {
+      "id": "witchlight_ac_penalty",
+      "source_type": "spell",
+      "source_id": "witchlight",
+      "effect_type": "condition",
+      "duration": {
+        "mode": "until_saved_or_dispelled"
+      },
+      "tick_timing": "end_of_target_turn",
+      "removal_triggers": ["save_success", "dispelled"],
+      "stacking_key": "witchlight"
+    },
+    {
+      "id": "sleep_condition",
+      "source_type": "spell",
+      "source_id": "sleep",
+      "effect_type": "condition",
+      "duration": {
+        "mode": "until_saved_or_dispelled"
+      },
+      "tick_timing": "end_of_target_turn",
+      "removal_triggers": ["save_success", "take_damage", "dispelled"],
+      "stacking_key": "sleep"
+    }
+  ]
+}

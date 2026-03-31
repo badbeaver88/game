@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "umberhold/schemas/time/day-phases.schema.json",
+  "title": "Umberhold Day Phases",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "step_seconds",
+    "steps_per_hour",
+    "steps_per_phase",
+    "steps_per_day",
+    "phases"
+  ],
+  "properties": {
+    "step_seconds": {
+      "type": "integer",
+      "const": 6
+    },
+    "steps_per_hour": {
+      "type": "integer",
+      "const": 600
+    },
+    "steps_per_phase": {
+      "type": "integer",
+      "const": 1800
+    },
+    "steps_per_day": {
+      "type": "integer",
+      "const": 14400
+    },
+    "phases": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "order", "start_step", "end_step_exclusive"],
+        "properties": {
+          "id": {
+            "$ref": "./time-types.schema.json#/$defs/dayPhaseId"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "order": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 7
+          },
+          "start_step": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 14399
+          },
+          "end_step_exclusive": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 14400
+          }
+        }
+      }
+    }
+  }
+}
