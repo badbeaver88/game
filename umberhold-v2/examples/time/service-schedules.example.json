@@ -1,0 +1,55 @@
+{
+  "schedules": [
+    {
+      "id": "umberhold_inn_rest",
+      "location_id": "umberhold_inn",
+      "service_id": "inn_rest",
+      "service_type": "inn",
+      "schedule_mode": "always_open",
+      "notes": "Canonical inn behavior."
+    },
+    {
+      "id": "iron_shovel_shop",
+      "location_id": "iron_shovel_and_scutage",
+      "service_id": "gear_shop",
+      "service_type": "shop",
+      "schedule_mode": "phase_window",
+      "open_phases": [
+        "first_light",
+        "high_morning",
+        "sun_at_zenith",
+        "fading_light"
+      ],
+      "closed_message": "Oswaldine keeps daylight hours. Return when the village is awake.",
+      "notes": "Canonical standard shop behavior."
+    },
+    {
+      "id": "iron_shovel_identify",
+      "location_id": "iron_shovel_and_scutage",
+      "service_id": "identify_items",
+      "service_type": "shop",
+      "schedule_mode": "phase_window",
+      "open_phases": [
+        "first_light",
+        "high_morning",
+        "sun_at_zenith",
+        "fading_light"
+      ],
+      "closed_message": "Identification is unavailable after hours."
+    },
+    {
+      "id": "alchemists_mortar_shop",
+      "location_id": "alchemists_mortar",
+      "service_id": "alchemy_shop",
+      "service_type": "shop",
+      "schedule_mode": "phase_window",
+      "open_phases": [
+        "first_light",
+        "high_morning",
+        "sun_at_zenith",
+        "fading_light"
+      ],
+      "closed_message": "The Mortar is shuttered until daylight."
+    }
+  ]
+}

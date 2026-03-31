@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "umberhold/schemas/time/time-types.schema.json",
+  "title": "Umberhold Time Shared Types",
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "dayPhaseId": {
+      "type": "string",
+      "enum": [
+        "dead_of_night",
+        "black_hours",
+        "first_light",
+        "high_morning",
+        "sun_at_zenith",
+        "fading_light",
+        "gloaming",
+        "nightfall"
+      ]
+    },
+    "serviceType": {
+      "type": "string",
+      "enum": [
+        "shop",
+        "inn",
+        "tavern",
+        "chantry",
+        "quest_board",
+        "other"
+      ]
+    },
+    "durationMode": {
+      "type": "string",
+      "enum": [
+        "fixed_steps",
+        "combat",
+        "turn_boundary",
+        "until_saved_or_dispelled",
+        "until_dispelled",
+        "permanent"
+      ]
+    },
+    "turnBoundary": {
+      "type": "string",
+      "enum": [
+        "start_of_source_turn",
+        "end_of_source_turn",
+        "start_of_target_turn",
+        "end_of_target_turn",
+        "start_of_round",
+        "end_of_round"
+      ]
+    },
+    "tickTiming": {
+      "type": "string",
+      "enum": [
+        "none",
+        "start_of_source_turn",
+        "end_of_source_turn",
+        "start_of_target_turn",
+        "end_of_target_turn",
+        "start_of_round",
+        "end_of_round"
+      ]
+    },
+    "removalTrigger": {
+      "type": "string",
+      "enum": [
+        "save_success",
+        "take_damage",
+        "combat_end",
+        "dispelled",
+        "scripted_removal",
+        "source_removed"
+      ]
+    }
+  }
+}
