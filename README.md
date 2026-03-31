@@ -2,4 +2,3 @@
 
 ![background image](https://i.imgur.com/IsfUnFR.jpg)
 
-Fuck ya!
