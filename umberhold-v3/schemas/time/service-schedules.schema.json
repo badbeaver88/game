@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "umberhold/schemas/time/service-schedules.schema.json",
+  "title": "Umberhold Service Schedules",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schedules"],
+  "properties": {
+    "schedules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "location_id",
+          "service_id",
+          "service_type",
+          "schedule_mode"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "./time-types.schema.json#/$defs/id"
+          },
+          "location_id": {
+            "$ref": "./time-types.schema.json#/$defs/id"
+          },
+          "service_id": {
+            "$ref": "./time-types.schema.json#/$defs/id"
+          },
+          "service_type": {
+            "$ref": "./time-types.schema.json#/$defs/serviceType"
+          },
+          "schedule_mode": {
+            "type": "string",
+            "enum": ["always_open", "phase_window"]
+          },
+          "open_phases": {
+            "type": "array",
+            "items": {
+              "$ref": "./time-types.schema.json#/$defs/dayPhaseId"
+            },
+            "uniqueItems": true
+          },
+          "closed_message": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "schedule_mode": {
+                  "const": "phase_window"
+                }
+              }
+            },
+            "then": {
+              "required": ["open_phases"],
+              "properties": {
+                "open_phases": {
+                  "minItems": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
