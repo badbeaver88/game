@@ -19,6 +19,7 @@ It does **not** modify `MASTER.md`.
 - for now, only **Trap Tier A** and **Trap Tier B** are authored here
 - entries in each trap table are ordered from **least** to **most lethal** for easier curation
 - curses inflicted by chest traps last until dispelled
+- when a character is cursed by a chest trap, a **black skull** briefly appears on the player's screen as the status indicator
 - if a trap transforms into a monster encounter, the treasure is recovered normally after the creature is defeated
 
 ---
@@ -37,40 +38,39 @@ It does **not** modify `MASTER.md`.
 
 ## 3. Trap Tier A
 
-These are cruel but mostly early-game chest hazards. They are meant to wound, panic, separate, or punish greed without making every trap an automatic death sentence.
+These are cruel but mostly early-game chest hazards. Unless a trap explicitly says otherwise, **Trap Tier A** saving throws use **DC 10**.
 
 | # | Trap Name | Target | Effect |
 |---:|---|---|---|
-| 1 | **Curse of Fragile Tools** | Character opening | A black locksmith's sigil flashes across the opener's hands. **DC 10 Piety save** or be cursed with **Curse of Fragile Tools**. |
-| 2 | **Curse of the Noisy Stomach** | Character opening | A sour green rune sinks into the gut and answers stealth with humiliating noise. **DC 10 Piety save** or be cursed with **Curse of the Noisy Stomach**. |
-| 3 | **Boneboiler's Greeting** | Character opening | A hidden bladder of hot grease bursts across the face and hands. **+2 to hit** against the character opening. On a hit, the target takes **2d4 fire** damage and becomes **Blinded** until the **end of its next turn**. |
-| 4 | **Curse of Clumsiness** | Character opening | A greasy charm brands the fingertips and turns charged magic fickle. **DC 11 Piety save** or be cursed with **Curse of Clumsiness**. |
-| 5 | **Hook in the Velvet** | Character opening | A spring-hook punches through the wrist and tears free. **+3 to hit** against the character opening. On a hit, the target takes **1d6 piercing** damage and gains **Bleeding**, taking **1d4 piercing** damage at the start of its next turn. |
-| 6 | **Thornburst Hinge** | Whole party | Blackened barbs and root-thorns explode outward from the chest seams. Each party member must make a **DC 11 Agility save** or take **2d4 piercing** damage. If the save fails by **5 or more**, that character also gains **Bleeding** for **1d4 piercing** damage at the start of their next turn. On a success, take half damage. |
-| 7 | **Rotwing Nest** | Character opening | A starving rotwing bursts from a false coin layer and makes a **Proboscis** attack: **+4 to hit** against the character opening. On a hit, the target takes **1d4 + 2 piercing** damage and gains **Bleeding**, taking **1d4 piercing** damage at the start of its next turn. If the hit lands, the target must then make a **DC 10 Constitution save** or contract **Veinrot** for **1 hour**. While affected by **Veinrot**, the target takes **50% more damage** from **Bleeding** effects. |
-| 8 | **Gloamshadow Seal** | Character opening | A hand of cold dusk closes over the heart. **+3 to hit** against the character opening. On a hit, the target takes **1d6 cold** damage and loses **1d2 Strength** for **1 hour**. If this reduces the target's **Strength to 0**, the target dies. |
-| 9 | **Curse of Ill Fortune** | Character opening | A dead coin stamped with Umbraxis' grin spins once and vanishes. **DC 11 Piety save** or be cursed with **Curse of Ill Fortune**. |
-| 10 | **Hungry Lid** | Character opening, then whole party | The chest splits along wet seams and becomes a **Chest Mimic**. The opener is immediately targeted by its first bite: **+5 to hit**, **1d10 + 3 piercing** damage, and the target must make a **DC 13 Constitution save** or become **Paralyzed**. After that strike, combat begins. The treasure is recovered if the mimic is slain. |
+| 1 | **Curse of Fragile Tools** | Character opening | The target is cursed with **Curse of Fragile Tools**. |
+| 2 | **Curse of the Noisy Stomach** | Character opening | The target is cursed with **Curse of the Noisy Stomach**. |
+| 3 | **Boneboiler's Greeting** | Character opening | Hot grease sprays from the chest. **Ranged Weapon Attack:** **+2 to hit** against the triggering creature. **Hit:** **2d4 fire** damage, and the target is **Blinded** for **1 minute**. |
+| 4 | **Curse of Clumsiness** | Character opening | The target is cursed with **Curse of Clumsiness**. |
+| 5 | **Hook in the Velvet** | Character opening | A spring-hook lashes out. **Melee Weapon Attack:** **+3 to hit** against the triggering creature. **Hit:** **1d6 piercing** damage, and the target gains **Bleeding**, taking **1d4 piercing** damage at the start of its next turn. |
+| 6 | **Rotwing Nest** | Character opening | A rotwing bursts forth. **Melee Weapon Attack:** **+4 to hit** against the triggering creature. **Hit:** **1d4 + 2 piercing** damage, and the target gains **Bleeding**, taking **1d4 piercing** damage at the start of its next turn. The target must then succeed on a **DC 10 Constitution save** or contract **Veinrot** for **1 hour**. While affected, the target takes **50% more damage** from **Bleeding**. The rotwing flies away after the attack. |
+| 7 | **Gloamshadow Seal** | Character opening | A shadowy hand strikes. **Melee Weapon Attack:** **+3 to hit** against the triggering creature. **Hit:** **1d6 cold** damage, and the target's **Strength** score is reduced by **1d2** for **1 hour**. If this reduces the target's **Strength** to **0**, the target dies. |
+| 8 | **Curse of Ill Fortune** | Character opening | The target is cursed with **Curse of Ill Fortune**. |
+| 9 | **Hungry Lid** | Character opening, then whole party | The chest is a mimic. The triggering creature is targeted by its first attack. **Melee Weapon Attack:** **+5 to hit**. **Hit:** **1d10 + 3 piercing** damage, and the target must succeed on a **DC 13 Constitution save** or become **Paralyzed**. Combat begins. The treasure can be recovered if the mimic is slain. |
+| 10 | **Thornburst Hinge** | Whole party | Barbs erupt from the chest. Each creature in range must make a **DC 10 Agility save**, taking **2d4 piercing** damage on a failed save, or half as much on a success. If a creature fails the save by **5 or more**, it also gains **Bleeding**, taking **1d4 piercing** damage at the start of its next turn. |
 
 ---
 
 ## 4. Trap Tier B
 
-These traps are meant for stronger parties and nastier places. They lean harder into burst damage, permanent pressure, and effects that can turn a successful expedition into a crawl back to safety.
+These traps are meant for stronger parties and nastier places. Unless a trap explicitly says otherwise, **Trap Tier B** saving throws use **DC 12**.
 
 | # | Trap Name | Target | Effect |
 |---:|---|---|---|
-| 1 | **Poppet's Kiss** | Character opening | A spring-loaded needle jabs with doll-like precision. **+5 to hit** against the character opening. On a hit, the target takes **1 piercing** damage, then must make a **DC 12 Constitution save** or take **2d4 poison** damage. On a success, the poison damage is halved. |
-| 2 | **Curse of the Leper** | Character opening | A chalk-white handprint blooms across the skin. **DC 12 Piety save** or be cursed with **Curse of the Leper**. |
-| 3 | **Rotgas Reliquary** | Whole party | A buried censer cracks open and floods the space with embalmed poison fog. Each party member must make a **DC 11 Constitution save** or take **1d6 poison** damage and become **Poisoned**. If the save fails by **5 or more**, that character is also **Blinded** for **1 minute**. On a success, take half damage and avoid the conditions. |
-| 4 | **Curse of Palsy** | Character opening | Dead nerves writhe beneath the hand and weapon-arm. **DC 12 Piety save** or be cursed with **Curse of Palsy**. |
-| 5 | **The Long Walk Home** | Whole party | The chest gives a single, hateful click. The floor, walls, and air fold like rotten cloth, and the party is hurled back to the **entrance or start** of the current dungeon. **No save.** All **non-magical light sources** currently burning are extinguished. |
-| 6 | **Curse of Black Wounds** | Character opening | A black seam opens across old scars and fresh cuts alike. **DC 13 Piety save** or be cursed with **Curse of Black Wounds**. |
-| 7 | **Gloamshadow Hand** | Character opening | A black, freezing grasp reaches out from inside the coffer and makes a **Weakening Touch** attack: **+3 to hit** against the character opening. On a hit, the target takes **1d6 cold** damage and loses **1d3 Strength** for **1 hour**. If this reduces the target's **Strength to 0**, the target dies. |
-| 8 | **Rotmother's Belch Jar** | Whole party | A sealed crock of bile, grease, and half-digested filth detonates across the party. Each party member must make a **DC 12 Agility save** or take **2d6 acid** damage. On a success, take half damage. |
-| 9 | **Thorn-Coffin Mechanism** | Whole party | The chest blossoms into a cage of iron roots and inward-pointing thorns. Each party member must make a **DC 12 Agility save** or take **2d4 + 2 piercing** damage. If the save fails by **5 or more**, that character also gains **Bleeding** for **1d4 piercing** damage at the start of their next turn. On a success, take half damage. |
-| 10 | **Umbraxis' Black Benediction** | Whole party | The chest erupts in a devouring flare of black-violet radiance. Each party member must make a **DC 13 Piety save** or take **3d8 unholy** damage and become **Blinded** for **1 minute**. On a success, take half damage and avoid the blindness. |
-
+| 1 | **Poppet's Kiss** | Character opening | You hear a child's eerie laugh. **Melee Weapon Attack:** **+5 to hit**. **Hit:** **1 piercing** damage, and the target must make a **DC 12 Constitution save** or take **2d4 poison** damage, or half as much on a success. |
+| 2 | **Curse of the Leper** | Character opening | The triggering creature is cursed with **Curse of the Leper**. |
+| 3 | **Rotgas** | Whole party | Each creature makes a **DC 12 Constitution save**, taking **1d6 poison** damage on a failed save, or half as much on a success. On a failure, the creature is **Poisoned**. If the save fails by **5 or more**, the creature is also **Blinded** for **1 minute**. |
+| 4 | **Curse of Palsy** | Character opening | The triggering creature is cursed with **Curse of Palsy**. |
+| 5 | **Translocation** | Whole party | The party is transported to the **dungeon entrance**. **No save.** Chest contents are lost; **quest items** are recovered. |
+| 6 | **Curse of Black Wounds** | Character opening | The triggering creature is cursed with **Curse of Black Wounds**. |
+| 7 | **Taxman** | Character opening | The triggering creature loses **all coins** it is carrying. |
+| 8 | **Rotmother's Belch** | Whole party | Each creature makes a **DC 12 Agility save**, taking **2d6 acid** damage on a failed save, or half as much on a success. |
+| 9 | **Stormlash** | Character opening | The triggering creature must make a **DC 12 Agility save** or take **4d6 lightning** damage, or half as much on a success. If the save fails by **5 or more**, the target is also **Paralyzed** for **1 minute**. |
+| 10 | **Nullified** | Whole party | All spells affecting creatures and objects in the area are **dispelled**. |
 ---
 
 ## 5. Chest Trap Curse Reference
@@ -89,19 +89,21 @@ Curses from these trap tables last until dispelled.
 
 These curses can be ended by any effect that removes curses, including **Remove Curse**.
 
+When a character is cursed by one of these traps, a **black skull** briefly appears on the player's screen as the status indicator.
+
 ---
 
 ## 6. Authoring Notes
 
 The following trap entries deliberately draw on already-authored Umberhold material, including:
 - chest-trap curses and existing **Remove Curse** support
-- **Umbraxis** curse and judgment motifs
+- hostile **Umbraxis** curse flavor for malignant trap effects
 - **Thornburst**
-- **Boggart Boneboiler** **Meat Hook** and **Hurl Hot Grease**
+- **Boggart Boneboiler** hot grease
 - **Boggart Gasser** rotgas
 - **Poppet of Pins** poison needle
 - **Rotwing** bleeding and **Veinrot**
-- **Gloamshadow** **Weakening Touch**
+- **Gloamshadow** Strength-drain touch
 - **Chest Mimic**
 - **Griselda Rotmother** bile belch
 - entries modeled directly on monster attacks now use matching attack-roll profiles where appropriate
