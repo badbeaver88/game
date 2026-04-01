@@ -15,6 +15,7 @@ This folder contains individual monster entries for Umberhold.
 | [Boggart Rotwife](./boggart-rotwife.md) | 2 | Small | Humanoid | Filthy boggart crone that spits venom and croons a sleep-inducing **Rotwife’s Lullaby** |
 | [Barrow Wight](./barrow-wight.md) | 5 | Medium | Undead | Noble tomb-undead with a healing-blocking **Grave Touch** and dread-inducing **Grave Stare** |
 | [Chest Mimic](./chest-mimic.md) | 3 | Medium | Monstrosity | False treasure chest predator with a paralyzing bite and a chance to contain **Gloves of the Black Hand** |
+| [Coffin Mimic](./coffin-mimic.md) | 6 | Large | Monstrosity | Hulking sarcophagus mimic with crushing multiattack, blinding grave dust, and a chance to contain a **Bonepick Key** |
 | [Gleaming Halberd](./gleaming-halberd.md) | 1 | Medium | Construct | Hovering animated halberd with a shrill tongue, hardened steel body, and a long-reaching **Halberd Strike** |
 | [Gloamshadow](./gloamshadow.md) | 2 | Medium | Undead | Wavering undead shade with a freezing touch that drains **Strength** and can kill the helpless |
 | [Grave Slurry](./grave-slurry.md) | 2 | Medium | Undead, Ooze | Heaving corpse-sludge that lashes with acid and threatens **MINOR ITEM DESTRUCTION** |
