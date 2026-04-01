@@ -24,3 +24,4 @@ Design documents and rules for the Umberhold project.
 | `schemas/` | Machine-readable data schemas |
 | `spells/` | Spell definitions and class spell lists |
 | `templates/` | Templates for authoring new content |
+| `tools/` | Authoring utilities and integrated third-party tooling |
