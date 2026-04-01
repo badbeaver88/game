@@ -23,6 +23,7 @@ This folder contains individual monster entries for Umberhold.
 | [Marrow Muncher](./marrow-muncher.md) | 3 | Large | Giant | Reeking brute that smashes foes with an oversized club and hurls skulls from its grisly belt |
 | [Poppet of Pins](./poppet-of-pins.md) | 2 | Small | Construct | Hovering stitched doll construct with poisoned needle jabs and gemstone eyes |
 | [Rotwing](./rotwing.md) | 2 | Small | Monstrosity | Bat-winged blood parasite that causes **Bleeding** and spreads **Veinrot** |
+| [Spiderwight](./spiderwight.md) | 6 | Large | Undead | Arachnid corpse-horror with a venomous **Sting**, crawling **Graveflame**, and a chance to contain a **Gravebreaker Mace** |
 | [Trow](./trow.md) | 4 | Large | Giant | Hulking troll-like brute with **Regeneration**, **Cringing Fury**, and a savage claw-and-bite multiattack |
 | [Widowgrin](./widowgrin.md) | 4 | Medium | Monstrosity | Human-faced spider horror with venomous sting, binding webs, and the **Harvestable** trait |
 | [Wulf](./wulf.md) | 1 | Small | Beast | Mangy pack beast with a diseased bite and a rare **Bone Collar** drop |
