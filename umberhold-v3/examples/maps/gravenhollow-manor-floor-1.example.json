@@ -1,0 +1,2640 @@
+{
+  "id": "gravenhollow_manor_floor_1",
+  "name": "Gravenhollow Manor - Floor 1",
+  "region_id": "umberhold",
+  "parent_location_id": "gravenhollow_manor",
+  "map_type": "dungeon",
+  "floor": 0,
+  "theme_id": "gravenhollow_manor",
+  "grid": {
+    "width": 26,
+    "height": 26,
+    "coordinate_format": "A1-Z26",
+    "origin": "top_left",
+    "x_axis": "A_to_Z",
+    "y_axis": "1_to_26"
+  },
+  "defaults": {
+    "texture_id": "manor_stone_01",
+    "floor_texture_id": "manor_floor_flagstone_01",
+    "wall_texture_id": "manor_wall_stone_01",
+    "ceiling_texture_id": "manor_ceiling_timber_01",
+    "ceiling_height": 3,
+    "random_encounter_table": "manor_floor_1_random",
+    "tags": [
+      "interior",
+      "manor"
+    ]
+  },
+  "entry_points": [
+    {
+      "id": "front_door_entry",
+      "coord": "E8",
+      "facing": "north",
+      "notes": "Arrival from the manor exterior."
+    },
+    {
+      "id": "from_crypt_stairs",
+      "coord": "N9",
+      "facing": "north",
+      "notes": "Arrival from the crypt stair below."
+    }
+  ],
+  "tiles": {
+    "A1": {
+      "is_wall": true
+    },
+    "A2": {
+      "is_wall": true
+    },
+    "A3": {
+      "is_wall": true
+    },
+    "A4": {
+      "is_wall": true
+    },
+    "A5": {
+      "is_wall": true
+    },
+    "A6": {
+      "is_wall": true
+    },
+    "A7": {
+      "is_wall": true
+    },
+    "A8": {
+      "is_wall": true
+    },
+    "A9": {
+      "is_wall": true
+    },
+    "A10": {
+      "is_wall": true
+    },
+    "A11": {
+      "is_wall": true
+    },
+    "A12": {
+      "is_wall": true
+    },
+    "A13": {
+      "is_wall": true
+    },
+    "A14": {
+      "is_wall": true
+    },
+    "A15": {
+      "is_wall": true
+    },
+    "A16": {
+      "is_wall": true
+    },
+    "A17": {
+      "is_wall": true
+    },
+    "A18": {
+      "is_wall": true
+    },
+    "A19": {
+      "is_wall": true
+    },
+    "A20": {
+      "is_wall": true
+    },
+    "A21": {
+      "is_wall": true
+    },
+    "A22": {
+      "is_wall": true
+    },
+    "A23": {
+      "is_wall": true
+    },
+    "A24": {
+      "is_wall": true
+    },
+    "A25": {
+      "is_wall": true
+    },
+    "A26": {
+      "is_wall": true
+    },
+    "B1": {
+      "is_wall": true
+    },
+    "B2": {
+      "is_wall": true
+    },
+    "B3": {
+      "is_wall": true
+    },
+    "B4": {
+      "is_wall": true
+    },
+    "B5": {
+      "is_wall": true
+    },
+    "B6": {
+      "is_wall": true
+    },
+    "B7": {
+      "is_wall": true
+    },
+    "B8": {
+      "is_wall": true
+    },
+    "B9": {
+      "is_wall": true
+    },
+    "B10": {
+      "is_wall": true
+    },
+    "B11": {
+      "is_wall": true
+    },
+    "B12": {
+      "is_wall": true
+    },
+    "B13": {
+      "is_wall": true
+    },
+    "B14": {
+      "is_wall": true
+    },
+    "B15": {
+      "is_wall": true
+    },
+    "B16": {
+      "is_wall": true
+    },
+    "B17": {
+      "is_wall": true
+    },
+    "B18": {
+      "is_wall": true
+    },
+    "B19": {
+      "is_wall": true
+    },
+    "B20": {
+      "is_wall": true
+    },
+    "B21": {
+      "is_wall": true
+    },
+    "B22": {
+      "is_wall": true
+    },
+    "B23": {
+      "is_wall": true
+    },
+    "B24": {
+      "is_wall": true
+    },
+    "B25": {
+      "is_wall": true
+    },
+    "B26": {
+      "is_wall": true
+    },
+    "C1": {
+      "is_wall": true
+    },
+    "C2": {
+      "is_wall": true
+    },
+    "C3": {
+      "is_wall": true
+    },
+    "C4": {
+      "is_wall": true
+    },
+    "C5": {
+      "is_wall": true
+    },
+    "C6": {
+      "is_wall": true
+    },
+    "C7": {
+      "is_wall": true
+    },
+    "C8": {
+      "is_wall": true
+    },
+    "C9": {
+      "is_wall": true
+    },
+    "C10": {
+      "is_wall": true
+    },
+    "C11": {
+      "is_wall": true
+    },
+    "C12": {
+      "is_wall": true
+    },
+    "C13": {
+      "is_wall": true
+    },
+    "C14": {
+      "is_wall": true
+    },
+    "C15": {
+      "is_wall": true
+    },
+    "C16": {
+      "is_wall": true
+    },
+    "C17": {
+      "is_wall": true
+    },
+    "C18": {
+      "is_wall": true
+    },
+    "C19": {
+      "is_wall": true
+    },
+    "C20": {
+      "is_wall": true
+    },
+    "C21": {
+      "is_wall": true
+    },
+    "C22": {
+      "is_wall": true
+    },
+    "C23": {
+      "is_wall": true
+    },
+    "C24": {
+      "is_wall": true
+    },
+    "C25": {
+      "is_wall": true
+    },
+    "C26": {
+      "is_wall": true
+    },
+    "D1": {
+      "is_wall": true
+    },
+    "D2": {
+      "is_wall": true
+    },
+    "D3": {
+      "is_wall": true
+    },
+    "D4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "D5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "D6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "D7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "D8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "D9": {
+      "is_wall": true
+    },
+    "D10": {
+      "is_wall": true
+    },
+    "D11": {
+      "is_wall": true
+    },
+    "D12": {
+      "is_wall": true
+    },
+    "D13": {
+      "is_wall": true
+    },
+    "D14": {
+      "is_wall": true
+    },
+    "D15": {
+      "is_wall": true
+    },
+    "D16": {
+      "is_wall": true
+    },
+    "D17": {
+      "is_wall": true
+    },
+    "D18": {
+      "is_wall": true
+    },
+    "D19": {
+      "is_wall": true
+    },
+    "D20": {
+      "is_wall": true
+    },
+    "D21": {
+      "is_wall": true
+    },
+    "D22": {
+      "is_wall": true
+    },
+    "D23": {
+      "is_wall": true
+    },
+    "D24": {
+      "is_wall": true
+    },
+    "D25": {
+      "is_wall": true
+    },
+    "D26": {
+      "is_wall": true
+    },
+    "E1": {
+      "is_wall": true
+    },
+    "E2": {
+      "is_wall": true
+    },
+    "E3": {
+      "is_wall": true
+    },
+    "E4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "E5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "E6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "E7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "E8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor",
+        "safe_entry"
+      ],
+      "encounter_table": null,
+      "step_trigger_ids": [
+        "manor_entry_intro"
+      ]
+    },
+    "E9": {
+      "is_wall": true
+    },
+    "E10": {
+      "is_wall": true
+    },
+    "E11": {
+      "is_wall": true
+    },
+    "E12": {
+      "is_wall": true
+    },
+    "E13": {
+      "is_wall": true
+    },
+    "E14": {
+      "is_wall": true
+    },
+    "E15": {
+      "is_wall": true
+    },
+    "E16": {
+      "is_wall": true
+    },
+    "E17": {
+      "is_wall": true
+    },
+    "E18": {
+      "is_wall": true
+    },
+    "E19": {
+      "is_wall": true
+    },
+    "E20": {
+      "is_wall": true
+    },
+    "E21": {
+      "is_wall": true
+    },
+    "E22": {
+      "is_wall": true
+    },
+    "E23": {
+      "is_wall": true
+    },
+    "E24": {
+      "is_wall": true
+    },
+    "E25": {
+      "is_wall": true
+    },
+    "E26": {
+      "is_wall": true
+    },
+    "F1": {
+      "is_wall": true
+    },
+    "F2": {
+      "is_wall": true
+    },
+    "F3": {
+      "is_wall": true
+    },
+    "F4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "F5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "F6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "F7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "F8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor",
+        "safe_entry"
+      ],
+      "encounter_table": null
+    },
+    "F9": {
+      "is_wall": true
+    },
+    "F10": {
+      "is_wall": true
+    },
+    "F11": {
+      "is_wall": true
+    },
+    "F12": {
+      "is_wall": true
+    },
+    "F13": {
+      "is_wall": true
+    },
+    "F14": {
+      "is_wall": true
+    },
+    "F15": {
+      "is_wall": true
+    },
+    "F16": {
+      "is_wall": true
+    },
+    "F17": {
+      "is_wall": true
+    },
+    "F18": {
+      "is_wall": true
+    },
+    "F19": {
+      "is_wall": true
+    },
+    "F20": {
+      "is_wall": true
+    },
+    "F21": {
+      "is_wall": true
+    },
+    "F22": {
+      "is_wall": true
+    },
+    "F23": {
+      "is_wall": true
+    },
+    "F24": {
+      "is_wall": true
+    },
+    "F25": {
+      "is_wall": true
+    },
+    "F26": {
+      "is_wall": true
+    },
+    "G1": {
+      "is_wall": true
+    },
+    "G2": {
+      "is_wall": true
+    },
+    "G3": {
+      "is_wall": true
+    },
+    "G4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "G5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "G6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "G7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "G8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor",
+        "safe_entry"
+      ],
+      "encounter_table": null
+    },
+    "G9": {
+      "is_wall": true
+    },
+    "G10": {
+      "is_wall": true
+    },
+    "G11": {
+      "is_wall": true
+    },
+    "G12": {
+      "is_wall": true
+    },
+    "G13": {
+      "is_wall": true
+    },
+    "G14": {
+      "is_wall": true
+    },
+    "G15": {
+      "is_wall": true
+    },
+    "G16": {
+      "is_wall": true
+    },
+    "G17": {
+      "is_wall": true
+    },
+    "G18": {
+      "is_wall": true
+    },
+    "G19": {
+      "is_wall": true
+    },
+    "G20": {
+      "is_wall": true
+    },
+    "G21": {
+      "is_wall": true
+    },
+    "G22": {
+      "is_wall": true
+    },
+    "G23": {
+      "is_wall": true
+    },
+    "G24": {
+      "is_wall": true
+    },
+    "G25": {
+      "is_wall": true
+    },
+    "G26": {
+      "is_wall": true
+    },
+    "H1": {
+      "is_wall": true
+    },
+    "H2": {
+      "is_wall": true
+    },
+    "H3": {
+      "is_wall": true
+    },
+    "H4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "H5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "H6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "H7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "H8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "H9": {
+      "is_wall": true
+    },
+    "H10": {
+      "is_wall": true
+    },
+    "H11": {
+      "is_wall": true
+    },
+    "H12": {
+      "is_wall": true
+    },
+    "H13": {
+      "is_wall": true
+    },
+    "H14": {
+      "is_wall": true
+    },
+    "H15": {
+      "is_wall": true
+    },
+    "H16": {
+      "is_wall": true
+    },
+    "H17": {
+      "is_wall": true
+    },
+    "H18": {
+      "is_wall": true
+    },
+    "H19": {
+      "is_wall": true
+    },
+    "H20": {
+      "is_wall": true
+    },
+    "H21": {
+      "is_wall": true
+    },
+    "H22": {
+      "is_wall": true
+    },
+    "H23": {
+      "is_wall": true
+    },
+    "H24": {
+      "is_wall": true
+    },
+    "H25": {
+      "is_wall": true
+    },
+    "H26": {
+      "is_wall": true
+    },
+    "I1": {
+      "is_wall": true
+    },
+    "I2": {
+      "is_wall": true
+    },
+    "I3": {
+      "is_wall": true
+    },
+    "I4": {
+      "is_wall": true
+    },
+    "I5": {
+      "is_wall": true
+    },
+    "I6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "I7": {
+      "is_wall": true
+    },
+    "I8": {
+      "is_wall": true
+    },
+    "I9": {
+      "is_wall": true
+    },
+    "I10": {
+      "is_wall": true
+    },
+    "I11": {
+      "is_wall": true
+    },
+    "I12": {
+      "is_wall": true
+    },
+    "I13": {
+      "is_wall": true
+    },
+    "I14": {
+      "is_wall": true
+    },
+    "I15": {
+      "is_wall": true
+    },
+    "I16": {
+      "is_wall": true
+    },
+    "I17": {
+      "is_wall": true
+    },
+    "I18": {
+      "is_wall": true
+    },
+    "I19": {
+      "is_wall": true
+    },
+    "I20": {
+      "is_wall": true
+    },
+    "I21": {
+      "is_wall": true
+    },
+    "I22": {
+      "is_wall": true
+    },
+    "I23": {
+      "is_wall": true
+    },
+    "I24": {
+      "is_wall": true
+    },
+    "I25": {
+      "is_wall": true
+    },
+    "I26": {
+      "is_wall": true
+    },
+    "J1": {
+      "is_wall": true
+    },
+    "J2": {
+      "is_wall": true
+    },
+    "J3": {
+      "is_wall": true
+    },
+    "J4": {
+      "is_wall": true
+    },
+    "J5": {
+      "is_wall": true
+    },
+    "J6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "J7": {
+      "is_wall": true
+    },
+    "J8": {
+      "is_wall": true
+    },
+    "J9": {
+      "is_wall": true
+    },
+    "J10": {
+      "is_wall": true
+    },
+    "J11": {
+      "is_wall": true
+    },
+    "J12": {
+      "is_wall": true
+    },
+    "J13": {
+      "is_wall": true
+    },
+    "J14": {
+      "is_wall": true
+    },
+    "J15": {
+      "is_wall": true
+    },
+    "J16": {
+      "is_wall": true
+    },
+    "J17": {
+      "is_wall": true
+    },
+    "J18": {
+      "is_wall": true
+    },
+    "J19": {
+      "is_wall": true
+    },
+    "J20": {
+      "is_wall": true
+    },
+    "J21": {
+      "is_wall": true
+    },
+    "J22": {
+      "is_wall": true
+    },
+    "J23": {
+      "is_wall": true
+    },
+    "J24": {
+      "is_wall": true
+    },
+    "J25": {
+      "is_wall": true
+    },
+    "J26": {
+      "is_wall": true
+    },
+    "K1": {
+      "is_wall": true
+    },
+    "K2": {
+      "is_wall": true
+    },
+    "K3": {
+      "is_wall": true
+    },
+    "K4": {
+      "is_wall": true
+    },
+    "K5": {
+      "is_wall": true
+    },
+    "K6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "K7": {
+      "is_wall": true
+    },
+    "K8": {
+      "is_wall": true
+    },
+    "K9": {
+      "is_wall": true
+    },
+    "K10": {
+      "is_wall": true
+    },
+    "K11": {
+      "is_wall": true
+    },
+    "K12": {
+      "is_wall": true
+    },
+    "K13": {
+      "is_wall": true
+    },
+    "K14": {
+      "is_wall": true
+    },
+    "K15": {
+      "is_wall": true
+    },
+    "K16": {
+      "is_wall": true
+    },
+    "K17": {
+      "is_wall": true
+    },
+    "K18": {
+      "is_wall": true
+    },
+    "K19": {
+      "is_wall": true
+    },
+    "K20": {
+      "is_wall": true
+    },
+    "K21": {
+      "is_wall": true
+    },
+    "K22": {
+      "is_wall": true
+    },
+    "K23": {
+      "is_wall": true
+    },
+    "K24": {
+      "is_wall": true
+    },
+    "K25": {
+      "is_wall": true
+    },
+    "K26": {
+      "is_wall": true
+    },
+    "L1": {
+      "is_wall": true
+    },
+    "L2": {
+      "is_wall": true
+    },
+    "L3": {
+      "is_wall": true
+    },
+    "L4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "L5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "L6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "L7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "L8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "L9": {
+      "is_wall": true
+    },
+    "L10": {
+      "is_wall": true
+    },
+    "L11": {
+      "is_wall": true
+    },
+    "L12": {
+      "is_wall": true
+    },
+    "L13": {
+      "is_wall": true
+    },
+    "L14": {
+      "is_wall": true
+    },
+    "L15": {
+      "is_wall": true
+    },
+    "L16": {
+      "is_wall": true
+    },
+    "L17": {
+      "is_wall": true
+    },
+    "L18": {
+      "is_wall": true
+    },
+    "L19": {
+      "is_wall": true
+    },
+    "L20": {
+      "is_wall": true
+    },
+    "L21": {
+      "is_wall": true
+    },
+    "L22": {
+      "is_wall": true
+    },
+    "L23": {
+      "is_wall": true
+    },
+    "L24": {
+      "is_wall": true
+    },
+    "L25": {
+      "is_wall": true
+    },
+    "L26": {
+      "is_wall": true
+    },
+    "M1": {
+      "is_wall": true
+    },
+    "M2": {
+      "is_wall": true
+    },
+    "M3": {
+      "is_wall": true
+    },
+    "M4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "M5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "M6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "M7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "M8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "M9": {
+      "is_wall": true
+    },
+    "M10": {
+      "is_wall": true
+    },
+    "M11": {
+      "is_wall": true
+    },
+    "M12": {
+      "is_wall": true
+    },
+    "M13": {
+      "is_wall": true
+    },
+    "M14": {
+      "is_wall": true
+    },
+    "M15": {
+      "is_wall": true
+    },
+    "M16": {
+      "is_wall": true
+    },
+    "M17": {
+      "is_wall": true
+    },
+    "M18": {
+      "is_wall": true
+    },
+    "M19": {
+      "is_wall": true
+    },
+    "M20": {
+      "is_wall": true
+    },
+    "M21": {
+      "is_wall": true
+    },
+    "M22": {
+      "is_wall": true
+    },
+    "M23": {
+      "is_wall": true
+    },
+    "M24": {
+      "is_wall": true
+    },
+    "M25": {
+      "is_wall": true
+    },
+    "M26": {
+      "is_wall": true
+    },
+    "N1": {
+      "is_wall": true
+    },
+    "N2": {
+      "is_wall": true
+    },
+    "N3": {
+      "is_wall": true
+    },
+    "N4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "N5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random",
+      "interact_id": "loot_chest_01"
+    },
+    "N6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "N7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "N8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "N9": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random",
+      "interact_id": "stairs_to_crypt_level_2"
+    },
+    "N10": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "N11": {
+      "is_wall": true
+    },
+    "N12": {
+      "is_wall": true
+    },
+    "N13": {
+      "is_wall": true
+    },
+    "N14": {
+      "is_wall": true
+    },
+    "N15": {
+      "is_wall": true
+    },
+    "N16": {
+      "is_wall": true
+    },
+    "N17": {
+      "is_wall": true
+    },
+    "N18": {
+      "is_wall": true
+    },
+    "N19": {
+      "is_wall": true
+    },
+    "N20": {
+      "is_wall": true
+    },
+    "N21": {
+      "is_wall": true
+    },
+    "N22": {
+      "is_wall": true
+    },
+    "N23": {
+      "is_wall": true
+    },
+    "N24": {
+      "is_wall": true
+    },
+    "N25": {
+      "is_wall": true
+    },
+    "N26": {
+      "is_wall": true
+    },
+    "O1": {
+      "is_wall": true
+    },
+    "O2": {
+      "is_wall": true
+    },
+    "O3": {
+      "is_wall": true
+    },
+    "O4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "O5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "O6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "O7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "O8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "O9": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "O10": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "O11": {
+      "is_wall": true
+    },
+    "O12": {
+      "is_wall": true
+    },
+    "O13": {
+      "is_wall": true
+    },
+    "O14": {
+      "is_wall": true
+    },
+    "O15": {
+      "is_wall": true
+    },
+    "O16": {
+      "is_wall": true
+    },
+    "O17": {
+      "is_wall": true
+    },
+    "O18": {
+      "is_wall": true
+    },
+    "O19": {
+      "is_wall": true
+    },
+    "O20": {
+      "is_wall": true
+    },
+    "O21": {
+      "is_wall": true
+    },
+    "O22": {
+      "is_wall": true
+    },
+    "O23": {
+      "is_wall": true
+    },
+    "O24": {
+      "is_wall": true
+    },
+    "O25": {
+      "is_wall": true
+    },
+    "O26": {
+      "is_wall": true
+    },
+    "P1": {
+      "is_wall": true
+    },
+    "P2": {
+      "is_wall": true
+    },
+    "P3": {
+      "is_wall": true
+    },
+    "P4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "P5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "P6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "P7": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "P8": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "P9": {
+      "is_wall": true
+    },
+    "P10": {
+      "is_wall": true
+    },
+    "P11": {
+      "is_wall": true
+    },
+    "P12": {
+      "is_wall": true
+    },
+    "P13": {
+      "is_wall": true
+    },
+    "P14": {
+      "is_wall": true
+    },
+    "P15": {
+      "is_wall": true
+    },
+    "P16": {
+      "is_wall": true
+    },
+    "P17": {
+      "is_wall": true
+    },
+    "P18": {
+      "is_wall": true
+    },
+    "P19": {
+      "is_wall": true
+    },
+    "P20": {
+      "is_wall": true
+    },
+    "P21": {
+      "is_wall": true
+    },
+    "P22": {
+      "is_wall": true
+    },
+    "P23": {
+      "is_wall": true
+    },
+    "P24": {
+      "is_wall": true
+    },
+    "P25": {
+      "is_wall": true
+    },
+    "P26": {
+      "is_wall": true
+    },
+    "Q1": {
+      "is_wall": true
+    },
+    "Q2": {
+      "is_wall": true
+    },
+    "Q3": {
+      "is_wall": true
+    },
+    "Q4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "Q5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random",
+      "step_trigger_ids": [
+        "secret_room_reveal"
+      ],
+      "automap_hidden": true
+    },
+    "Q6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "Q7": {
+      "is_wall": true
+    },
+    "Q8": {
+      "is_wall": true
+    },
+    "Q9": {
+      "is_wall": true
+    },
+    "Q10": {
+      "is_wall": true
+    },
+    "Q11": {
+      "is_wall": true
+    },
+    "Q12": {
+      "is_wall": true
+    },
+    "Q13": {
+      "is_wall": true
+    },
+    "Q14": {
+      "is_wall": true
+    },
+    "Q15": {
+      "is_wall": true
+    },
+    "Q16": {
+      "is_wall": true
+    },
+    "Q17": {
+      "is_wall": true
+    },
+    "Q18": {
+      "is_wall": true
+    },
+    "Q19": {
+      "is_wall": true
+    },
+    "Q20": {
+      "is_wall": true
+    },
+    "Q21": {
+      "is_wall": true
+    },
+    "Q22": {
+      "is_wall": true
+    },
+    "Q23": {
+      "is_wall": true
+    },
+    "Q24": {
+      "is_wall": true
+    },
+    "Q25": {
+      "is_wall": true
+    },
+    "Q26": {
+      "is_wall": true
+    },
+    "R1": {
+      "is_wall": true
+    },
+    "R2": {
+      "is_wall": true
+    },
+    "R3": {
+      "is_wall": true
+    },
+    "R4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "R5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "R6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "R7": {
+      "is_wall": true
+    },
+    "R8": {
+      "is_wall": true
+    },
+    "R9": {
+      "is_wall": true
+    },
+    "R10": {
+      "is_wall": true
+    },
+    "R11": {
+      "is_wall": true
+    },
+    "R12": {
+      "is_wall": true
+    },
+    "R13": {
+      "is_wall": true
+    },
+    "R14": {
+      "is_wall": true
+    },
+    "R15": {
+      "is_wall": true
+    },
+    "R16": {
+      "is_wall": true
+    },
+    "R17": {
+      "is_wall": true
+    },
+    "R18": {
+      "is_wall": true
+    },
+    "R19": {
+      "is_wall": true
+    },
+    "R20": {
+      "is_wall": true
+    },
+    "R21": {
+      "is_wall": true
+    },
+    "R22": {
+      "is_wall": true
+    },
+    "R23": {
+      "is_wall": true
+    },
+    "R24": {
+      "is_wall": true
+    },
+    "R25": {
+      "is_wall": true
+    },
+    "R26": {
+      "is_wall": true
+    },
+    "S1": {
+      "is_wall": true
+    },
+    "S2": {
+      "is_wall": true
+    },
+    "S3": {
+      "is_wall": true
+    },
+    "S4": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "S5": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "S6": {
+      "is_wall": false,
+      "height": 0,
+      "tags": [
+        "interior",
+        "dungeon",
+        "manor"
+      ],
+      "encounter_table": "manor_floor_1_random"
+    },
+    "S7": {
+      "is_wall": true
+    },
+    "S8": {
+      "is_wall": true
+    },
+    "S9": {
+      "is_wall": true
+    },
+    "S10": {
+      "is_wall": true
+    },
+    "S11": {
+      "is_wall": true
+    },
+    "S12": {
+      "is_wall": true
+    },
+    "S13": {
+      "is_wall": true
+    },
+    "S14": {
+      "is_wall": true
+    },
+    "S15": {
+      "is_wall": true
+    },
+    "S16": {
+      "is_wall": true
+    },
+    "S17": {
+      "is_wall": true
+    },
+    "S18": {
+      "is_wall": true
+    },
+    "S19": {
+      "is_wall": true
+    },
+    "S20": {
+      "is_wall": true
+    },
+    "S21": {
+      "is_wall": true
+    },
+    "S22": {
+      "is_wall": true
+    },
+    "S23": {
+      "is_wall": true
+    },
+    "S24": {
+      "is_wall": true
+    },
+    "S25": {
+      "is_wall": true
+    },
+    "S26": {
+      "is_wall": true
+    },
+    "T1": {
+      "is_wall": true
+    },
+    "T2": {
+      "is_wall": true
+    },
+    "T3": {
+      "is_wall": true
+    },
+    "T4": {
+      "is_wall": true
+    },
+    "T5": {
+      "is_wall": true
+    },
+    "T6": {
+      "is_wall": true
+    },
+    "T7": {
+      "is_wall": true
+    },
+    "T8": {
+      "is_wall": true
+    },
+    "T9": {
+      "is_wall": true
+    },
+    "T10": {
+      "is_wall": true
+    },
+    "T11": {
+      "is_wall": true
+    },
+    "T12": {
+      "is_wall": true
+    },
+    "T13": {
+      "is_wall": true
+    },
+    "T14": {
+      "is_wall": true
+    },
+    "T15": {
+      "is_wall": true
+    },
+    "T16": {
+      "is_wall": true
+    },
+    "T17": {
+      "is_wall": true
+    },
+    "T18": {
+      "is_wall": true
+    },
+    "T19": {
+      "is_wall": true
+    },
+    "T20": {
+      "is_wall": true
+    },
+    "T21": {
+      "is_wall": true
+    },
+    "T22": {
+      "is_wall": true
+    },
+    "T23": {
+      "is_wall": true
+    },
+    "T24": {
+      "is_wall": true
+    },
+    "T25": {
+      "is_wall": true
+    },
+    "T26": {
+      "is_wall": true
+    },
+    "U1": {
+      "is_wall": true
+    },
+    "U2": {
+      "is_wall": true
+    },
+    "U3": {
+      "is_wall": true
+    },
+    "U4": {
+      "is_wall": true
+    },
+    "U5": {
+      "is_wall": true
+    },
+    "U6": {
+      "is_wall": true
+    },
+    "U7": {
+      "is_wall": true
+    },
+    "U8": {
+      "is_wall": true
+    },
+    "U9": {
+      "is_wall": true
+    },
+    "U10": {
+      "is_wall": true
+    },
+    "U11": {
+      "is_wall": true
+    },
+    "U12": {
+      "is_wall": true
+    },
+    "U13": {
+      "is_wall": true
+    },
+    "U14": {
+      "is_wall": true
+    },
+    "U15": {
+      "is_wall": true
+    },
+    "U16": {
+      "is_wall": true
+    },
+    "U17": {
+      "is_wall": true
+    },
+    "U18": {
+      "is_wall": true
+    },
+    "U19": {
+      "is_wall": true
+    },
+    "U20": {
+      "is_wall": true
+    },
+    "U21": {
+      "is_wall": true
+    },
+    "U22": {
+      "is_wall": true
+    },
+    "U23": {
+      "is_wall": true
+    },
+    "U24": {
+      "is_wall": true
+    },
+    "U25": {
+      "is_wall": true
+    },
+    "U26": {
+      "is_wall": true
+    },
+    "V1": {
+      "is_wall": true
+    },
+    "V2": {
+      "is_wall": true
+    },
+    "V3": {
+      "is_wall": true
+    },
+    "V4": {
+      "is_wall": true
+    },
+    "V5": {
+      "is_wall": true
+    },
+    "V6": {
+      "is_wall": true
+    },
+    "V7": {
+      "is_wall": true
+    },
+    "V8": {
+      "is_wall": true
+    },
+    "V9": {
+      "is_wall": true
+    },
+    "V10": {
+      "is_wall": true
+    },
+    "V11": {
+      "is_wall": true
+    },
+    "V12": {
+      "is_wall": true
+    },
+    "V13": {
+      "is_wall": true
+    },
+    "V14": {
+      "is_wall": true
+    },
+    "V15": {
+      "is_wall": true
+    },
+    "V16": {
+      "is_wall": true
+    },
+    "V17": {
+      "is_wall": true
+    },
+    "V18": {
+      "is_wall": true
+    },
+    "V19": {
+      "is_wall": true
+    },
+    "V20": {
+      "is_wall": true
+    },
+    "V21": {
+      "is_wall": true
+    },
+    "V22": {
+      "is_wall": true
+    },
+    "V23": {
+      "is_wall": true
+    },
+    "V24": {
+      "is_wall": true
+    },
+    "V25": {
+      "is_wall": true
+    },
+    "V26": {
+      "is_wall": true
+    },
+    "W1": {
+      "is_wall": true
+    },
+    "W2": {
+      "is_wall": true
+    },
+    "W3": {
+      "is_wall": true
+    },
+    "W4": {
+      "is_wall": true
+    },
+    "W5": {
+      "is_wall": true
+    },
+    "W6": {
+      "is_wall": true
+    },
+    "W7": {
+      "is_wall": true
+    },
+    "W8": {
+      "is_wall": true
+    },
+    "W9": {
+      "is_wall": true
+    },
+    "W10": {
+      "is_wall": true
+    },
+    "W11": {
+      "is_wall": true
+    },
+    "W12": {
+      "is_wall": true
+    },
+    "W13": {
+      "is_wall": true
+    },
+    "W14": {
+      "is_wall": true
+    },
+    "W15": {
+      "is_wall": true
+    },
+    "W16": {
+      "is_wall": true
+    },
+    "W17": {
+      "is_wall": true
+    },
+    "W18": {
+      "is_wall": true
+    },
+    "W19": {
+      "is_wall": true
+    },
+    "W20": {
+      "is_wall": true
+    },
+    "W21": {
+      "is_wall": true
+    },
+    "W22": {
+      "is_wall": true
+    },
+    "W23": {
+      "is_wall": true
+    },
+    "W24": {
+      "is_wall": true
+    },
+    "W25": {
+      "is_wall": true
+    },
+    "W26": {
+      "is_wall": true
+    },
+    "X1": {
+      "is_wall": true
+    },
+    "X2": {
+      "is_wall": true
+    },
+    "X3": {
+      "is_wall": true
+    },
+    "X4": {
+      "is_wall": true
+    },
+    "X5": {
+      "is_wall": true
+    },
+    "X6": {
+      "is_wall": true
+    },
+    "X7": {
+      "is_wall": true
+    },
+    "X8": {
+      "is_wall": true
+    },
+    "X9": {
+      "is_wall": true
+    },
+    "X10": {
+      "is_wall": true
+    },
+    "X11": {
+      "is_wall": true
+    },
+    "X12": {
+      "is_wall": true
+    },
+    "X13": {
+      "is_wall": true
+    },
+    "X14": {
+      "is_wall": true
+    },
+    "X15": {
+      "is_wall": true
+    },
+    "X16": {
+      "is_wall": true
+    },
+    "X17": {
+      "is_wall": true
+    },
+    "X18": {
+      "is_wall": true
+    },
+    "X19": {
+      "is_wall": true
+    },
+    "X20": {
+      "is_wall": true
+    },
+    "X21": {
+      "is_wall": true
+    },
+    "X22": {
+      "is_wall": true
+    },
+    "X23": {
+      "is_wall": true
+    },
+    "X24": {
+      "is_wall": true
+    },
+    "X25": {
+      "is_wall": true
+    },
+    "X26": {
+      "is_wall": true
+    },
+    "Y1": {
+      "is_wall": true
+    },
+    "Y2": {
+      "is_wall": true
+    },
+    "Y3": {
+      "is_wall": true
+    },
+    "Y4": {
+      "is_wall": true
+    },
+    "Y5": {
+      "is_wall": true
+    },
+    "Y6": {
+      "is_wall": true
+    },
+    "Y7": {
+      "is_wall": true
+    },
+    "Y8": {
+      "is_wall": true
+    },
+    "Y9": {
+      "is_wall": true
+    },
+    "Y10": {
+      "is_wall": true
+    },
+    "Y11": {
+      "is_wall": true
+    },
+    "Y12": {
+      "is_wall": true
+    },
+    "Y13": {
+      "is_wall": true
+    },
+    "Y14": {
+      "is_wall": true
+    },
+    "Y15": {
+      "is_wall": true
+    },
+    "Y16": {
+      "is_wall": true
+    },
+    "Y17": {
+      "is_wall": true
+    },
+    "Y18": {
+      "is_wall": true
+    },
+    "Y19": {
+      "is_wall": true
+    },
+    "Y20": {
+      "is_wall": true
+    },
+    "Y21": {
+      "is_wall": true
+    },
+    "Y22": {
+      "is_wall": true
+    },
+    "Y23": {
+      "is_wall": true
+    },
+    "Y24": {
+      "is_wall": true
+    },
+    "Y25": {
+      "is_wall": true
+    },
+    "Y26": {
+      "is_wall": true
+    },
+    "Z1": {
+      "is_wall": true
+    },
+    "Z2": {
+      "is_wall": true
+    },
+    "Z3": {
+      "is_wall": true
+    },
+    "Z4": {
+      "is_wall": true
+    },
+    "Z5": {
+      "is_wall": true
+    },
+    "Z6": {
+      "is_wall": true
+    },
+    "Z7": {
+      "is_wall": true
+    },
+    "Z8": {
+      "is_wall": true
+    },
+    "Z9": {
+      "is_wall": true
+    },
+    "Z10": {
+      "is_wall": true
+    },
+    "Z11": {
+      "is_wall": true
+    },
+    "Z12": {
+      "is_wall": true
+    },
+    "Z13": {
+      "is_wall": true
+    },
+    "Z14": {
+      "is_wall": true
+    },
+    "Z15": {
+      "is_wall": true
+    },
+    "Z16": {
+      "is_wall": true
+    },
+    "Z17": {
+      "is_wall": true
+    },
+    "Z18": {
+      "is_wall": true
+    },
+    "Z19": {
+      "is_wall": true
+    },
+    "Z20": {
+      "is_wall": true
+    },
+    "Z21": {
+      "is_wall": true
+    },
+    "Z22": {
+      "is_wall": true
+    },
+    "Z23": {
+      "is_wall": true
+    },
+    "Z24": {
+      "is_wall": true
+    },
+    "Z25": {
+      "is_wall": true
+    },
+    "Z26": {
+      "is_wall": true
+    }
+  },
+  "edges": [
+    {
+      "id": "foyer_to_hall_door",
+      "at": "H6",
+      "side": "east",
+      "feature": "door",
+      "texture_id": "manor_door_oak_01",
+      "initially_open": false
+    },
+    {
+      "id": "hidden_panel_to_secret_room",
+      "at": "P5",
+      "side": "east",
+      "feature": "secret_door",
+      "texture_id": "manor_wall_stone_01",
+      "interact_id": "search_hidden_panel",
+      "notes": "Concealed seam in the east room wall."
+    }
+  ],
+  "props": [
+    {
+      "id": "foyer_statue",
+      "coord": "F5",
+      "prop_type": "statue",
+      "cosmetic_only": true,
+      "tags": [
+        "set_dressing"
+      ]
+    },
+    {
+      "id": "manor_chest_01",
+      "coord": "N5",
+      "prop_type": "chest",
+      "blocks_movement": false,
+      "interact_id": "loot_chest_01"
+    },
+    {
+      "id": "stairs_down_crypt",
+      "coord": "N9",
+      "prop_type": "stairs_down",
+      "interact_id": "stairs_to_crypt_level_2"
+    }
+  ],
+  "triggers": [
+    {
+      "id": "manor_entry_intro",
+      "trigger_type": "on_enter",
+      "event_id": "evt_gravenhollow_entry",
+      "fire_policy": "once_per_campaign",
+      "suppress_random_encounters": true
+    },
+    {
+      "id": "secret_room_reveal",
+      "trigger_type": "on_step",
+      "event_id": "evt_secret_chapel_found",
+      "fire_policy": "once_per_save",
+      "required_flags_all": [
+        "hidden_panel_opened"
+      ]
+    }
+  ],
+  "transits": [
+    {
+      "id": "exit_to_manor_exterior",
+      "coord": "E8",
+      "travel_mode": "world_exit",
+      "destination_map_id": "umberhold_surface",
+      "destination_entry_point_id": "gravenhollow_front_door",
+      "label": "Leave the manor"
+    },
+    {
+      "id": "stairs_to_crypt_floor_2",
+      "coord": "N9",
+      "travel_mode": "stairs_down",
+      "destination_map_id": "gravenhollow_crypt_floor_2",
+      "destination_entry_point_id": "from_floor_1",
+      "label": "Descend to the crypt"
+    }
+  ],
+  "encounter_policy": {
+    "default_table_id": "manor_floor_1_random",
+    "safe_coords": [
+      "E8",
+      "F8",
+      "G8"
+    ],
+    "suppress_on_trigger_tiles": true,
+    "notes": "Entry foyer suppresses random encounters to give the party a safe first beat."
+  },
+  "notes": [
+    "Example schema file for a small Gravenhollow Manor floor.",
+    "Most coordinates are solid walls; a validator or importer can later add reachability checks."
+  ]
+}
