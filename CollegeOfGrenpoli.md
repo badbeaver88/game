@@ -1403,3 +1403,752 @@ Gran parte del material aquí se centra en la diplomacia—cómo obtener ventaja
      Use --rotation to set rotation angle in degrees. -->
 
 
+
+{{pageNumber,auto}}
+
+
+
+
+### Un Custodio Arcano
+
+
+{{imageMaskEdge8,--offset:-34%,--rotation:-12
+  ![](https://i.imgur.com/FhfGgZn.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+
+\page
+
+{{pageNumber,auto}}
+
+
+#### 8. Ala administrativa
+
+La niebla gris ahumada está fuera del alcance de los estudiantes. Si un héroe entra en ella, siente un leve dolor de cabeza que empeora cuanto más tiempo permanece dentro. Si Clatrix está cerca, su voz plana resuena en sus mentes:
+
+
+
+{{descriptive
+"Acceso restringido. Por favor, aléjate."
+}}
+
+:
+
+#### 9. Las Bóvedas Prohibidas
+
+La niebla negra como tinta conduce a una biblioteca restringida, vedada a los estudiantes—por ahora. Al igual que la biblioteca de estudiantes, es mucho mayor y se extiende a lo largo de cuatro niveles, cada nivel más profundo albergando conocimiento más sensible. Sombríos custodios arcanos flotan por los salones, dejando tras de sí estelas de humo al moverse. Los estudiantes que impresionen a Sylzara, o la sobornen con al menos 2 Soul Coins, pueden obtener acceso, pero solo bajo su supervisión. Esta zona puede utilizarse para ampliar tu campaña, especialmente si los héroes están buscando información rara o poderosa.
+
+::
+#### 10. Sala de Pruebas
+
+La niebla violeta gira como un ser vivo, y su movimiento resulta extrañamente consciente. Cuando una criatura entra, la niebla se enrosca a su alrededor—rozándola, tanteándola, casi acariciándola—una experiencia profundamente inquietante.  Si la puntuación de progreso de un estudiante es 50 o superior, una tenue voz resuena en su mente, distante y susurrante:  
+
+{{descriptive
+“Sí . . . tienes potencial . . .”  
+}}
+
+
+Si su puntuación está por debajo de 50, el tono cambia a uno de decepción: 
+
+{{descriptive
+“Cuánta habilidad . . . desperdiciada . . .”
+}}
+
+
+
+Cuando los héroes entren en la cámara, lee o parafrasea lo siguiente:
+
+{{descriptive
+Veis una cámara hexagonal más allá de la niebla violeta arremolinada. Bancos de piedra escalonados rodean una zona hundida en el centro, donde un círculo de 10 pies de ancho hecho de baldosas de obsidiana rodea un pedestal negro. Sobre el pedestal descansa una esfera de cristal de aproximadamente un pie de ancho, normalmente cubierta por un paño rojo oscuro. En lo alto, un techo abovedado se arquea a 30 pies sobre vuestras cabezas, refulgiendo con miles de diminutas teselas multicolores—una impresionante fusión de arte y diseño arcano.
+}}
+
+
+La esfera es una *Crystal Ball of Projection*, vinculada a la cúpula superior. Sylzara está sintonizada con la esfera y usa la palabra de mando en Infernal *'Thraz'ul'* (que significa *revelar*)—pronunciada solo telepáticamente.
+
+La esfera permite a Sylzara escudriñar como acción cualquier localización situada en un radio de 100 millas, y puede mantener la visión con concentración. La imagen se proyecta sobre el techo para que todos en la sala puedan verla. Si toca a una criatura voluntaria mientras está escudriñando, la imagen de esa criatura aparece en el lugar. Puede moverse y hablar, pero no tocar ni afectar nada de allí. La criatura controla su propia imagen.
+
+Esta cámara se utiliza para poner a prueba a los estudiantes enviando sus proyecciones a escenarios del mundo real, obligándolos a aplicar Insight, Persuasion o Intimidation en encuentros simulados con PNJ más allá del colegio.
+
+**Nota.** La esfera no funciona si se retira de la Sala de Pruebas.
+
+
+::
+
+
+
+
+##### PNJ de la Tongueclade
+
+
+Aquí tienes algunos PNJ de ejemplo para poblar la tongueclade de tus héroes—un grupo de seis estudiantes que estudian, viven y son puestos a prueba juntos. Estos PNJ pueden servir como rivales, aliados o contrapuntos. Siéntete libre de reemplazarlos por creaciones propias o reutilizar personajes que los jugadores hayan conocido antes en la campaña.
+
+
+**Nota.** Las criaturas con lanzamiento de conjuros innato todavía pueden usar esas habilidades dentro de los salones del colegio.
+
+:
+- **Viremon Dathraen** es un llamativo **vampire** de porte noble, con una larga capa negra ribeteada en seda rojo sangre, a juego con un chaleco entallado que delata sus gustos aristocráticos. Su cabello oscuro cae en ondas hasta los hombros, enmarcando un rostro pálido que insinúa su linaje no muerto. Sus ojos carmesí no brillan con malicia, sino con confianza y ambición.
+:
+Viremon procede de Waterdeep, en los Forgotten Realms, y habla abiertamente de su pasado. Su comportamiento es encantador y se deleita en la charla ociosa. Sonsacará a los héroes detalles de sus hazañas con una calidez fingida y una curiosidad aparentemente sincera.
+:
+Sin embargo, detrás de los modales cortesanos se oculta una mente calculadora. El verdadero objetivo de Viremon al asistir al colegio es dominar el arte del engaño. Su propósito final es regresar a Waterdeep y manipular al Open Lord desde las sombras, apoderándose de facto de la ciudad. 
+:
+Aunque por lo general tiene buen carácter y una presencia carismática dentro de la tongueclade, Viremon no dudará en apartar a cualquiera que represente una amenaza para sus ambiciones—en silencio, por supuesto.
+
+
+
+
+
+
+
+
+
+
+
+
+\page
+
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+
+### Sala de Pruebas (1 casilla = 5 pies)
+
+
+
+
+
+![](https://i.imgur.com/baB2RGt.png) {width:678px,mix-blend-mode:multiply}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\page
+
+
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+
+### Viremon Dathraen
+
+{{imageMaskEdge8,--offset:-34%,--rotation:-12
+  ![](https://i.imgur.com/EaE2Hlj.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+\page
+
+
+
+{{pageNumber,auto}}
+
+
+- **Morvok el de los Ojos Vacíos** (en la ilustración) es una criatura enorme, de piel azul, parecida a un ogro, con pelo negro, espeso y áspero, y pequeños colmillos que sobresalen de su mandíbula inferior. Vestido con una toga académica mal ajustada y estirada sobre su musculoso cuerpo, Morvok rara vez habla—sus ojos amarillos observan a los héroes con una intensidad callada y amenazadora.
+:
+Un **oni**, Morvok ha llegado al colegio con un solo propósito: perfeccionar su capacidad de Intimidation. Cree que el miedo, no la diplomacia, es el camino más directo hacia el poder. Come solo, agazapado en un rincón del comedor, donde los demás son lo bastante sensatos como para dejarlo en paz. No participa en la charla trivial, y cuando se ve obligado a interactuar, sus respuestas son bruscas y están cargadas de amenazas veladas.
+:
+Morvok dice poco sobre sí mismo, pero cuanto más tiempo pasan los héroes con él, más clara se vuelve su naturaleza. Los observa de cerca, y su mirada se demora un poco demasiado en sus objetos mágicos.
+:
+Durante una comida especialmente tensa, podría murmurar a un héroe con una calma perturbadora:
+:
+{{descriptive
+"Sabes . . . de toda la carne que he probado . . . la de los niños humanos es, con mucha diferencia, la más dulce."
+}}
+
+
+
+
+{{imageMaskEdge4,--offset:4%,--rotation:270
+  ![](https://i.imgur.com/J9zFw5z.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+::
+
+- **Zynira T’sarran** se mueve como una sombra envuelta en sedas—sus túnicas bordadas con hilo de plata susurran con cada paso. Devota **priestess of Lolth** procedente de la ciudad de Menzoberranzan, se comporta con un orgullo frío y regio. Sus ojos parpadean con desdén mientras examina a sus compañeros de la tongueclade.
+:
+Zynira ha venido a Grenpoli para perfeccionar sus habilidades en el engaño, convencida de que la astucia, y no la hoja ni el conjuro, será el mayor servicio que pueda ofrecer a la Reina Araña. Su ambición es infiltrarse y manipular a las casas nobles rivales de Menzoberranzan, todo en nombre de Lolth.
+:
+Si hay un elfo entre los héroes, Zynira reacciona con abierto desprecio. Exige ser reasignada a otra tongueclade—una petición que formula en voz alta delante de toda la camarilla. Mistress Sylzara, imperturbable, rechaza la solicitud con una sonrisa entendida, obligando a Zynira a quedarse.
+:
+Al principio se mantiene apartada, evitando toda interacción con los elfos de la superficie. Con el tiempo, podría relacionarse con los demás héroes—especialmente con los no elfos—si ve valor en ello. Y cuando habla, sus palabras son suaves y su interés parece sincero… o lo bastante parecido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\page
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+
+### Pruebas
+
+
+Las pruebas tienen lugar al final de cada semana en la Sala de Pruebas (Área 10). Todos los estudiantes, sin importar su tongueclade, deben asistir. La sala suele albergar entre 20 y 30 criaturas de distintas razas durante estas sesiones, por lo que se trata de una experiencia compartida por todo el alumnado, no solo por los héroes y su camarilla.
+
+Durante la semana previa a una prueba, los estudiantes pueden explorar libremente el colegio—excepto las zonas restringidas—y elegir entre:
+
+- Participar en cualquier actividad de tiempo libre que les interese.  
+- Compartir comidas y socializar con PNJ de su tongueclade o de otras.  
+- Explorar la ciudad de Grenpoli (consulta las secciones anteriores o amplíalas según convenga).  
+- Estudiar en la Biblioteca de las Sutilezas (Área 7).  
+- Intentar acceder a las Bóvedas Prohibidas (Área 9).  
+- Visitar el Foso del Rencor (ver más abajo).  
+- Desarrollar rivalidades o enemistades de sangre con PNJ, lo que puede desembocar en duelos uno contra uno en el Foso del Rencor.  
+- Asistir a conferencias en la Cámara de conferencias (Área 6).
+
+
+:
+##### Ritmo
+
+Esta sección proporciona el marco del colegio, pero depende de ti, como Dungeon Master, darle forma y ampliarlo para adaptarlo a tus jugadores. Debido a que la violencia está prohibida mágicamente dentro de Grenpoli y del propio colegio, no se incluyen encuentros de combate estándar. Sin embargo, el Foso del Rencor, fuera de los límites de la ciudad, ofrece un lugar donde resolver conflictos mediante la batalla.  
+
+Si tus jugadores se inquietan sin combate, considera introducir rivalidades o encuentros tensos dentro del colegio que escalen hasta enemistades sangrientas dignas del Foso del Rencor. 
+
+Por otro lado, si a tu grupo le gusta el rol y la exploración, déjalos profundizar en la investigación, las conferencias y la interacción entre personajes, alargando las semanas con un tiempo de inactividad significativo.
+
+
+
+
+::
+
+
+##### Puntuación
+
+Recuerda llevar la cuenta de la puntuación de cada estudiante. Cada estudiante comienza su matrícula con 50 puntos y debe tener al menos 75 puntos al final del curso para aprobar.
+:
+
+| Semana # | Tipo de prueba    | Éxito/Fracaso |
+|--------|--------------|---------------------------|
+| 1      | Persuasion   | +15 / –10                 |
+| 2      | Insight      | +15 / –10                 |
+| 3      | Intimidation | +15 / –10                 |
+| 4      | Finales       | +30 / –20                 |
+
+
+:::::::
+
+
+
+#### Semana uno: Persuasion
+
+
+Cuando el colegio se haya reunido para la primera prueba, lee o parafrasea lo siguiente:
+
+
+
+{{descriptive
+Los bancos de piedra se llenan de estudiantes de todo el colegio, reunidos todos en silencio. En el centro de la sala, Sylzara avanza hasta el estrado de obsidiana. Con un gesto teatral y elegante, aparta el paño rojo oscuro, revelando la reluciente esfera de cristal sujetada por el pedestal infernal.
+
+Su mirada recorre a la multitud antes de posarse sobre ti. "Tú", dice con una leve sonrisa. "Adelante."
+}}
+
+Para añadir dramatismo, elige a uno de los héroes como el primer estudiante en ser examinado. Sylzara permanece en silencio hasta que el héroe elegido da un paso al frente, y entonces se dirige a la sala.
+
+
+{{descriptive
+"Usaré la esfera para mirar a través del reino y luego posaré mi mano sobre tu hombro. Abrirás tu mente a la mía. A través de nuestro vínculo, una proyección de ti aparecerá en el lugar que yo elija. Podrás moverte y hablar libremente, pero recuerda: tu forma es una ilusión. No puedes tocar nada, ni nadie puede tocarte. Si rompes esta ilusión, la prueba terminará con tu fracaso."
+
+La sonrisa de la súcubo se ensancha mientras continúa. "Se te presentará un objetivo. Tu tarea será influir en él—persuadirlo, embaucarlo o manipularlo lo mejor que puedas. Muéstrame tu astucia. ¿Estás preparado?"
+
+}}
+
+Cuando el héroe esté listo para proceder, continúa:
+
+
+{{descriptive
+"Tu objetivo es un chain devil llamado Varthok, actualmente destinado a una prisión más allá de los límites de la ciudad. Es allí donde los condenados esperan la ejecución pública—un espectáculo sombrío. Varthok es tan corrupto como cruel, y como muchos de su clase, está abierto a la persuasión . . . y al soborno.
+
+El prisionero es un azer del Plano Elemental del Fuego, Korrath Ironflare, capturado al intentar robar lingotes infernales. Es culpable—de eso no hay duda—pero su crimen no es asunto tuyo.
+
+Tu tarea consiste en convencer a Varthok de que libere al azer. No lo hará gratis, y el único recurso del que dispones es un soborno de tres Soul Coins. Ni una más. Expón tu caso. Sé astuto. Sé convincente.
+
+¿Estás listo?"
+}}
+
+
+
+
+
+
+
+
+\page
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+### Orbe de Proyección
+
+{{imageMaskEdge8,--offset:-34%,--rotation:-12
+  ![](https://i.imgur.com/m5FpH1z.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+\page
+
+{{pageNumber,auto}}
+Cuando los héroes estén listos para continuar, lee lo siguiente:
+{{descriptive
+Sylzara posa una mano sobre la esfera, sus ojos se cierran lentamente y la sala queda en silencio. En lo alto, la cúpula de teselas titila, los colores se arremolinan antes de asentarse en una escena vívida: un bloque de prisión infernal, con sus muros forrados de piedra chamuscada y braseros tenues y vacilantes.  
+
+Un chain devil pasea tras un rastrillo elevado, haciendo girar con desgana un tramo de cadena barbada. Cambia el peso de un pie a otro con inquietud, como si estuviera aburrido. Más allá del diablo, un corredor sombrío se extiende hacia la oscuridad, con pesadas puertas de hierro alineando las paredes.
+
+}}
+
+Cuando la imagen toma forma sobre el techo abovedado, el héroe elegido queda inmóvil—sin moverse a menos que alguien lo altere físicamente. Su consciencia se desplaza a la ilusión y ahora controla su yo proyectado dentro de la prisión infernal.
+
+Haz que el héroe exponga su caso ante el chain devil. Fomenta un buen roleo, otorgando un bonificador de +2 por una actuación convincente. Sin embargo, no penalices un mal roleo—mantén la tirada neutral si a un jugador le cuesta.
+
+Si el héroe pasó tiempo estudiando en la biblioteca, puedes conceder un bonificador adicional (consulta el Área 7 para más detalles).
+
+Si los héroes abatieron a Gorgathra antes en la aventura, podrían recibir un bonificador o una penalización a las pruebas de Persuasion en función de la actitud del PNJ hacia la dragon turtle.
+
+Al realizar la prueba final de Persuasion, la CD es 16—suponiendo que el héroe ofrezca las tres Soul Coins completas. Ofrecer menos conducirá al fracaso. No reveles la CD exacta a los jugadores.
+:
+
+
+**Ejemplo.** Aquí tienes un ejemplo del tipo de actuación que podría ofrecer nuestro encantador vampiro, Viremon Dathraen. 
+Podrías considerar elegir a Viremon como el primer estudiante en ser examinado, para marcar un estándar elevado para los héroes y establecer el tono de las pruebas futuras.
+
+{{descriptive
+Viremon Dathraen da un paso al frente, su voz tan suave como la seda, teñida de una confianza divertida.
+
+"Ah, amigo mío cubierto de hierro . . . qué lugar tan lúgubre para desperdiciar semejante talento. ¿El azer que retienes? Se susurra sobre su habilidad con la llama y la forja incluso en los círculos altos de Waterdeep. Imagina las hojas que podría forjar, no para un robo mezquino, sino para vuestros señores, para desgarrar carne demoníaca en la Guerra de la Sangre."
+
+Sonríe, mostrando apenas un destello de colmillo. "Y entre nosotros . . . creo que la generosidad nunca debería quedar sin recompensa. Permíteme endulzar esta pequeña misericordia—tres Soul Coins, tuyas para quedártelas. No hace falta mencionárselo a nadie más. Así que . . . ¿tenemos un entendimiento?"
+}}
+
+
+:
+
+
+##### Más pruebas 
+
+Las pruebas continúan hasta que todos los estudiantes han pasado por su turno. Como son demasiadas para describirlas todas en detalle, solo necesitas centrarte en los héroes y quizá en los miembros de su tongueclade. A continuación se ofrecen varios escenarios de ejemplo que puedes usar, o bien crear los tuyos propios. **Cada prueba tiene una CD de 16.**
+
+::
+- **Negociación por Gutterdrake.** 
+
+{{descriptive
+La proyección revela una plaza humeante llena de vendedores a gritos y braseros chisporroteantes. Contra un muro chamuscado, un puesto torcido alberga a un imp grasiento y alado llamado Skeeritch, que aviva las llamas bajo un asador. Los gutterdrakes ensartados chisporrotean, con las colas encogidas y la carne fragante de azufre y especias.  
+
+"¡Una moneda de oro por gutterdrake!" gruñe a los transeúntes.
+}}
+
+
+El estudiante debe acercarse y persuadir a Skeeritch para que le entregue dos gutterdrakes por solo una moneda de oro. Skeeritch es tacaño y arrogante con su cocina: el encanto y la adulación podrían inclinarlo.
+
+Aquí tienes un ejemplo de Viremon Dathraen en acción como muestra de un buen roleo persuasivo:
+
+
+
+
+{{descriptive
+Viremon se acerca al puesto del imp con una zancada elegante, su capa negra barriendo el aire tras él como un susurro de humo. El imp, encorvado y malhumorado, apenas levanta la vista. “Una moneda. Un gutterdrake. Tómalo o alza el vuelo.”
+
+Viremon olfatea el aire y sonríe levemente. “Ah. Gutterdrake asado. Cola crujiente, escamas caramelizadas . . . una sinfonía de mediocridad.” Viremon se inclina hacia él, con voz baja y sedosa.
+“Dos por uno, querido chef. No porque no pueda permitírmelo, sino porque quiero recordar tu sabor… y hablar de él. Imagina las cocinas de Grenpoli resonando con tu nombre . . . susurrado por diablos, cantado por diplomáticos.” Deja caer una sola moneda sobre el mostrador, permitiendo que gire.  
+
+}}
+
+
+
+:
+
+- **Los lemures holgazanes.** 
+
+
+
+{{descriptive
+La escena cambia a un muro medio derrumbado, donde trabajadores lemure devil están reconstruyendo piedra bajo la supervisión de un bearded devil. El bearded devil grita órdenes mientras un par de hell hounds merodea y gruñe cerca. A poca distancia, detrás de una pila de vigas chamuscadas, dos lemure devils se encorvan entre las sombras. Gimen y mascullan tonterías, claramente evitando sus obligaciones. 
+}}
+El estudiante debe convencer a los lemures de volver al trabajo antes de que envíen a la partida de caza tras ellos. 
+
+
+
+
+
+
+
+\page
+
+
+{{pageNumber,auto}}
+
+
+
+
+
+
+Lemures no pueden hablar, pero sí entienden Infernal, y las bandas que lleva cada estudiante les permiten hablar esa lengua con claridad.
+
+Aquí tienes un ejemplo de cómo Morvok el de los Ojos Vacíos podría manejar la situación:
+
+
+
+{{descriptive
+Morvok cruza sus enormes brazos, alzándose sobre los lemures temblorosos. Se pellizca la nariz y hace una mueca exagerada. "Por el hedor de vuestras pieles blandengues, esos sabuesos os encontrarán en minutos", dice con voz espesa y aceitosa. "He visto lo que hacen cuando atrapan a diablos perezosos. La última vez partieron en dos a un spined devil. Tripas por todas partes. Todavía no puedo comer sopa sin pensar en ello."
+
+Se inclina hacia ellos, bajando la voz hasta convertirla en un siseo. "Volved ahora mismo a vuestro puesto, en silencio, y quizá conservéis las extremidades pegadas al cuerpo. Hacedlo por mí, ¿eh? Mi estómago no aguanta otro espectáculo como ese."
+}}
+
+
+
+
+::
+
+#### Semana dos: Insight
+
+
+Al final de la segunda semana, los estudiantes son puestos a prueba en Insight. Como antes, la prueba se celebra en la Sala de Pruebas, con Sylzara en el centro preparando la esfera para cada examen. A continuación tienes algunos escenarios de ejemplo que puedes usar. Debido a que Sylzara está vinculada al estudiante por la magia de la esfera, sabe al instante si este tiene éxito o fracasa en la prueba de Insight.
+::
+
+- **La anciana y sus pasteles malditos.**
+
+{{descriptive
+Veis un carro cubierto por una tela descolorida de retales, y tras él se alza una anciana de piel curtida y ojos lechosos. Sus largos dedos nudosos señalan una bandeja de pasteles humeantes colocados con cuidado sobre una fuente de cerámica agrietada.
+
+“Tengo pasteles frescos de carne de gutterdrake”, croa. “Tiernos, jugosos, con crujido de hueso y una pizca de hierbas—sabores que jamás volveréis a encontrar en este pozo miserable. Diez piezas de oro cada uno, queridos. Con un solo bocado juraréis haber vuelto a la cocina de vuestra madre.”
+}}
+
+La anciana es, en realidad, una **night hag** llamada Grilthra Wormkiss, y sus pasteles son mucho más siniestros de lo que afirma. En lugar de gutterdrake, están hechos con carne grasa de lemure, muy especiada para ocultar la verdad—y mezclada con *torpor poison* (DMG, página 259).
+
+
+{{descriptive
+La anciana se inclina hacia delante, ensanchando su sonrisa hasta revelar dientes amarillos y afilados como agujas. Con una mano terminada en garras, levanta uno de los pasteles humeantes y te lo ofrece. "Vamos, cariño", raspa. "Solo una probadita. El primer bocado es gratis… solo para ti."
+}}
+
+Esto forma parte de la prueba. Si el estudiante olvida que su forma proyectada no puede interactuar físicamente con el entorno e intenta aceptar el pastel, su mano lo atraviesa sin efecto alguno. La ilusión se rompe y el estudiante falla automáticamente la prueba.
+
+:
+Se trata de una prueba de Insight. El estudiante debe ver a través de la mentira de Grilthra haciendo una prueba de Insight enfrentada a su Deception (+7), algo nada fácil.
+
+::
+
+
+- **La sonrisa tras las escamas.** 
+
+
+Una **yuan-ti pureblood** llamada Zhaashka, que se hace pasar por sirvienta en una posada local, es el objetivo de esta prueba. Es seguidora de Dendar, la Serpiente de la Noche, y forma parte de una operación yuan-ti más amplia que recopila información en Grenpoli. Aunque afirma ser una humilde sirvienta, en realidad está localizando objetivos para secuestro e interrogatorio. Zhaashka incluso está considerando matricularse ella misma en el colegio.
+
+La tarea del estudiante consiste en acercarse a Zhaashka bajo la apariencia de un funcionario de la ciudad encargado de documentar a todos los forasteros visitantes. Debe interrogarla y usar su Insight para determinar si está mintiendo.
+
+La yuan-ti tiene un bonificador de Deception de +6. Para equilibrar esta prueba con la anterior (que tenía un bonificador de +7), resta 1 a la tirada final de Insight del estudiante.
+:
+Usa el diálogo siguiente como ayuda:
+
+{{descriptive
+
+"Ahh, sííí . . . fui . . . expulsada por los míos hace mucho. Los pantanos de la Península de Chult no son lugar para quien se atreve a cuestionar la voluntad de la prole. Huí, sííí—hace ya muchos años. Grenpoli . . . es diferente. Aquí no hay derramamiento de sangre. No hay . . . ambición. Solo paz. Un lugar que incluso la Serpiente de la Noche ignoraría."
+
+Junta las manos suavemente, y un suspiro ensayado escapa de sus labios. "No busco problemas. Solo descanso. Un rincón tranquilo del mundo donde servir té y olvidar el siseo de las hojas y la traición."
+
+Te mira, con la expresión serena. "Seguro que lo entiendes . . . ¿verdad?"
+}}
+
+
+
+
+
+\page
+
+
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+### Grilthra Wormkiss
+
+{{imageMaskEdge8,--offset:-34%,--rotation:-12
+  ![](https://i.imgur.com/lK0PGLX.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\page
+
+
+
+{{pageNumber,auto}}
+
+
+
+#### Semana tres: Intimidation
+
+
+:
+- **La prueba de un cobarde.**
+
+
+Un **horned devil** llamado Tharuzak ha buscado refugio en Grenpoli, tras huir de las líneas del frente de la Guerra de la Sangre en Avernus. Actualmente disfruta de un respiro—aunque él lo llamaría *exilio por elección*—en una ciudad donde la violencia está prohibida y las obligaciones se ignoran con mayor facilidad.
+
+Tharuzak es viejo para los estándares diabólicos, con las alas desgarradas y un cuerno mellado. Ha visto a sus legiones masacradas y su mando hecho añicos por demonios incontables veces, y no desea regresar. Ahora se posa sobre un parapeto roto en las afueras de Grenpoli, contemplando el horizonte infernal.
+
+La tarea del estudiante consiste en acercarse a él como enviado de Zariel u otro poder de Avernus. Debe presentarle un ultimátum: regresar a la guerra o sufrir un castigo indecible por su cobardía. Esta es una prueba de pura intimidación—el estudiante debe infundir miedo en una criatura que ha contemplado el propio Infierno.
+Es una prueba difícil, con una CD de Intimidation de 18.
+:
+
+
+Si el estudiante falla, lee: 
+
+{{descriptive
+“Dile a tu ama esto: me he ganado mis cicatrices. No debo nada más a los fuegos de Avernus. La guerra seguirá ardiendo—conmigo o sin mí.” 
+}}
+
+Si el estudiante tiene éxito, lee: 
+
+{{descriptive
+"Entonces . . . ¿hablas en nombre de la Archiduquesa? Y-yo había esperado que su mirada pasara por alto mi existencia. He sangrado por esa guerra, he visto camaradas destrozados por garras demoníacas y devorados por cosas peores . . . pensé que Grenpoli me protegería."
+
+Baja la vista, mirando hacia el horizonte resplandeciente. "Dile—dile a ella que Tharuzak ha oído la llamada. Solo concédeme una noche más de paz y partiré. Tienes mi palabra."
+}}
+
+::
+
+- **A las puertas del diablo.** 
+
+Un gigante **fomorian** ha sido apostado fuera de los límites de la ciudad de Grenpoli para custodiar la tienda de guerra de una temible erinyes devil llamada Vellatrix, una autoproclamada caudilla conocida por su mal genio. El fomorian ha recibido una sola orden clara: nadie debe molestar a Vellatrix mientras se reúne con sus capitanes.
+
+La tarea del estudiante es convencer al fomorian, corto de luces pero profundamente temeroso, de que lleva un mensaje tan urgente que no puede esperar. El desafío es arduo, no porque el fomorian sea listo, sino porque le aterra desobedecer a su ama. La CD para esta prueba de Intimidation es 18.
+:::
+Usa el siguiente diálogo:
+
+
+{{descriptive
+"No, no, no . . . no puedo hacerlo. Ella dijo nadie. ¡Nadie! Ni un susurro siquiera. Está pensando pensamientos de guerra. Si te dejo pasar, me desollará . . . ¡otra vez! Todavía tengo marcas de quemaduras de la última vez. No lo haré, no. A menos que el cielo empiece a sangrar o los Nueve se derrumben."
+
+}}
+
+Si el estudiante falla, lee: 
+
+{{descriptive
+"No vales la pena para que me despellejen vivo por tu culpa. Sigue tu camino. Si tienes algo que decir, dilo después—cuando termine de gritar a sus sabuesos de guerra. O no lo digas. Me da igual. Pero no vas a pasar. Da un paso más y te abriré el cráneo como un melón."
+}}
+
+Si el estudiante tiene éxito, lee: 
+
+{{descriptive
+El fomorian se rasca la cabeza deforme, entrecerrando los ojos mientras te mira. "Mi ama dijo que nadie entraba . . . dijo que me asaría si dejaba pasar a alguien . . ."
+
+Se mueve con inquietud, aferrando con más fuerza su enorme garrote. "Pero tú dices que es urgente . . . muy urgente. Quizá . . . quizá si solo levanto la lona y hablas rápido, no se dará cuenta. No quiero acabar chamuscado, pero tampoco quiero ocultarle un mensaje a un diablo. Adelante entonces . . . .pero si grita, te echaré la culpa a ti."
+}}
+
+
+::
+
+
+#### Preparándose para la semana cuatro
+
+A medida que se acerca la semana final, los jugadores deberían tener una idea general de lo bien que lo están haciendo. Sylzara podría dejar caer pistas sutiles sobre su progreso, y otros estudiantes podrían hacer comentarios—algunos halagadores, otros no—dependiendo de lo que piensen de los héroes. Pasar por la niebla violeta hacia la Sala de Pruebas también puede darles una idea vaga de cómo van.
+
+Durante esta semana, Sylzara podría hablar en privado con uno o más héroes, haciéndoles preguntas sobre Koh Tam, su antiguo amante. Una prueba exitosa de Insight CD 20 revela que siente una curiosidad genuina por sus viajes recientes y su paradero. Si un héroe comparte información útil, ella simplemente asiente y se aleja—pero, sin saberlo, concederá a ese héroe un bonificador de +2 a su tirada final de prueba como recompensa silenciosa.
+
+
+
+
+\page
+{{pageNumber,auto}}
+
+
+#### Semana cuatro: Finales
+
+
+
+Como ya se indicó antes, todas las pruebas de la última semana otorgan el doble de puntos—tanto por éxito como por fracaso. Solo se examina a los estudiantes que aún tienen una posibilidad de alcanzar los 75 puntos. Quienes tengan menos de 55 puntos no son elegibles y solo pueden observar.
+
+Cada estudiante debe escoger ahora una de las tres habilidades troncales de la diplomacia—Insight, Persuasion o Intimidation—en la que especializarse. Si el héroe aprueba el curso, esta se convierte en la habilidad en la que gana competencia. Alternativamente, si el héroe ya es competente en la habilidad elegida, puedes permitirle ganar pericia en ella, de forma similar al rasgo Expertise.
+
+La CD para las pruebas de la semana final es 20—estas recompensas deben ganarse.
+
+Creo que tú, como Dungeon Master, deberías crear estas pruebas finales para adaptarlas individualmente a tus jugadores. Sin embargo, si necesitas inspiración, aquí tienes algunos escenarios de ejemplo para desarrollarlas.
+
+
+
+| Habilidad         | Escenario                                                                                          |
+|---------------|---------------------------------------------------------------------------------------------------|
+| Persuasion    | Convence a Molg el Desabrido (duergar) para que se desprenda de un objeto mágico común por la mitad de su precio.            |
+|               | Convence a Rokash, un comerciante hobgoblin de animales, para que te venda un hellhound por 1.000 gp o una Soul Coin. |
+|               | Convence a Tibbit el Escriba Fiscal (imp) de que estás exento del impuesto de entrada de Grenpoli por una cláusula oscura. |
+| Insight       | Media entre Ziz y Varn (imps), que afirman ambos haber encontrado una Soul Coin—solo uno dice la verdad. |
+|               | Sellinthar (drow) se pudre en una celda por haber estafado supuestamente a un diablo vendiéndole un objeto mágico falso. Determina si está mintiendo, o si el diablo simplemente olvidó la palabra de mando del objeto. |
+|               | Detecta la sutil falsificación en las Soul Coins ofrecidas por Eldaax el Refulgente (rakshasa) en un puesto de la ciudad.    |
+| Intimidation  | Obliga a Barvok (bearded devil) a dejar de dormir en los escalones del Colegio Político.              |
+|               | Enfréntate a Xalasar (incubus), que está acosando a un esclavo kenku. Intimídalo para que retroceda.      |
+|               | Asusta a un trío de spined devils para que se dispersen después de empezar a lanzar estiércol de Stench Kow a los estudiantes fuera del colegio. |
+::::
+
+
+#### Concluyendo la aventura
+
+Tanto si tus héroes han aprobado como si han fracasado, espero que hayan disfrutado del Colegio Político de Grenpoli. 
+
+Antes de abandonar el colegio, Sylzara se acerca a ellos. Lleva una caja de madera y se la entrega a uno de los héroes, quizá al que le dio información sobre Koh Tam. 
+
+
+
+
+{{descriptive
+"Toma, quédate con esto. Dentro hay un loto de pesadilla—una flor rara, petrificada para siempre. Dáselo a Koh, y dile . . . que sí lo echo de menos. Él sabe dónde encontrarme, si así lo desea."
+
+Asiente y empieza a darse la vuelta, pero luego se detiene y lanza una última mirada por encima del hombro. "Ha sido un placer enseñaros. Buena suerte. Y si alguna vez necesitáis un lugar al que llamar hogar en este Infierno, las puertas del colegio seguirán abiertas para vosotros."
+}}
+
+
+{{imageMaskCorner23,--offsetX:48%,--offsetY:-22%,--rotation:0
+  ![](https://i.imgur.com/boYUq6l.png){height:100%}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+
+\page
+
+
+{{pageNumber,auto}}
+
+
+
+
+
+##### Área 5: El Foso del Rencor
+
+
+Como se ha señalado antes, esta arena abierta se encuentra más allá de los límites de la ciudad, donde las leyes de Grenpoli dejan de tener validez. La violencia no solo está permitida aquí, sino que se espera. Conocido como el Foso del Rencor, este lugar opcional ofrece una salida brutal para enemistades y vendettas.  
+
+El foso en sí tiene 100 pies de diámetro y 30 pies de profundidad, con un suelo de piedra resbaladizo de sangre que jamás se limpia. En lo alto, una cúpula de barrotes de metal infernal sella la arena como una jaula monstruosa. El Foso del Rencor está supervisado por un imponente **pit fiend** llamado Dread Marshal Zarkhalos (en la ilustración), que hace cumplir las normas con eficacia despiadada.
+
+Las reglas son sencillas: dos entran, uno sale. Los combates se celebran cada pocos días, a menudo para zanjar enemistades sangrientas que no pueden resolverse dentro de la política de no violencia de Grenpoli. Una vez dentro, no hay restricciones—magia, armas y brutalidad descarnada son completamente válidas. Cualquier intento de interferir en un combate desde el exterior se encuentra con una represalia inmediata por parte de Zarkhalos y sus seis **barbed devil** ejecutores que patrullan la arena.
+
+Los días de combate se anuncian ampliamente por toda Grenpoli y los asentamientos vecinos, atrayendo a multitudes de infernales, mortales y buscadores de emociones por igual. Aunque no hay gradas formales, los espectadores se agrupan en el borde del foso o flotan en el aire por encima, peleando por la mejor vista de la carnicería. La atmósfera es caótica y festiva—brutal y zumbante de energía infernal.
+
+
+
+
+Los héroes pueden venir aquí por varias razones:
+::
+
+| **Motivo**             | **Detalles**                                                                                           |
+|------------------------|------------------------------------------------------------------------------------------------------------|
+| **Saldar cuentas**     | Una enemistad con un estudiante o PNJ ha ido más allá de las palabras. El Foso es el único lugar autorizado para la retribución. |
+| **Luchar como gladiador** | El héroe entra como combatiente remunerado, ganando una Soul Coin por victoria. Los oponentes son criaturas de CR 7–10 para un héroe de nivel 17 (ajusta según sea necesario). |
+| **Apostar**      | Viene aquí a apostar por el resultado de los combates. Zarkhalos exige un 10% de comisión—si te niegas, afronta las consecuencias.    |
+| **Espectar**           | Asiste simplemente para disfrutar del espectáculo. El deporte sangriento es un pasatiempo muy apreciado en Grenpoli.                          |
+| **Acompañar a un luchador**| Apoyar a un aliado en el ruedo—ya sea por moral o para asegurarse de que ningún juego sucio interfiera.                    |
+
+
+
+{{imageMaskEdge4,--offset:4%,--rotation:270
+  ![](https://i.imgur.com/m1WbqJw.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+::::::
+
+¡Feliz aventura!
+:
+Christopher Hamwell.
+
+
+
+
+\page
+
+{{backCover}}
+
+# El Colegio Político de Grenpoli
+
+Tus héroes han venido a aprender el arte diabólico de la diplomacia—a través del encanto, el ingenio o la intimidación. Bienvenido a Grenpoli, la infame ciudad infernal donde la violencia está prohibida, las armas se entregan en las puertas y la política gobierna todo.
+
+Aquí, entre calles asfixiadas por lava y altísimas agujas de obsidiana, el Colegio forma a lo mejor y lo peor de la élite ascendente del Infierno. Estudiantes de todos los planos se matriculan por un único motivo: dominar la manipulación en todas sus formas. Pero detrás de las estrictas normas y las sonrisas corteses, algo se está pudriendo.
+
+¿Un refugio? ¿Un campo de pruebas? ¿O simplemente otra trampa?
+
+La matrícula es elevada. Las pruebas son crueles. Y las lecciones pueden costarte más de lo que imaginabas.
+___
+
+
+
+![background image](https://i.imgur.com/m5FpH1z.png){position:absolute,bottom:0,left:0,height:100%}
+
+
