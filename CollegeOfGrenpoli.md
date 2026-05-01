@@ -475,4 +475,931 @@ Gorgathra, una dragon turtle astuta, ha prosperado durante siglos en el foso vol
 
 
 
+{{pageNumber,auto}}
+
+
+Gorgathra puede zozobrar el esquife emergiendo bajo él o golpeándolo con su ataque de cola. Considera que la CA del esquife es 12 para estas acciones. Cuando intente volcar el bote, tira 1d20; con un resultado de 10 o más, el esquife vuelca y arroja a los héroes al foso. Aunque el agua tóxica del foso no está conectada al Styx y, por tanto, no drena la memoria, sí es dañina. Al final de cada turno sumergida, una criatura debe realizar una tirada de salvación de Constitution CD 12, sufriendo 1d4+1 de daño por veneno y 1d4+1 de daño por ácido, o la mitad del daño con una salvación exitosa.
+
+{{monster,frame
+
+____
+## Gorgathra
+*Dragón gargantuesco, sin alineamiento*
+__
+**Clase de Armadura** :: 20 (armadura natural)
+**Puntos de Golpe**:: 341 (22d20 + 110)
+**Velocidad** :: 20 ft., nadar 40 ft.
+___
+| FUE  | DES | CON | INT | SAB | CAR |
+|------|-----|-----|-----|-----|-----|
+| 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
+___
+**Tiradas de Salvación**:: Des +6, Con +11, Sab +7
+**Resistencias al Daño** :: fuego
+**Inmunidades al Daño** :: ácido, veneno
+**Sentidos** :: visión en la oscuridad 120 ft., Percepción pasiva 11
+**Idiomas** :: Aquan, Draconic
+**Desafío** :: 18 (20.000 PX)
+___
+### Acciones
+***Ataque múltiple.*** Gorgathra realiza tres ataques: uno con su mordisco y dos con sus garras.
+:
+***Mordisco.*** *Ataque de arma cuerpo a cuerpo:* +13 al ataque, alcance 15 ft., un objetivo. *Impacto:* 26 (3d12 + 7) de daño perforante. Si el ataque impacta a una criatura, el objetivo debe superar una tirada de salvación de Dexterity CD 20 o ser tragado por Gorgathra. El objetivo tragado queda cegado y apresado, tiene cobertura total contra ataques y otros efectos fuera de Gorgathra, y recibe 21 (6d6) de daño por ácido al inicio de cada uno de los turnos de Gorgathra. Si Gorgathra recibe 30 puntos de daño o más en un solo turno por parte de la criatura tragada, Gorgathra debe superar una tirada de salvación de Constitution CD 20 al final de ese turno o regurgitar a la criatura, que cae derribada en un espacio a 10 pies o menos de Gorgathra. Si Gorgathra muere, una criatura tragada deja de estar apresada por ella y puede escapar del cadáver usando 20 pies de movimiento, saliendo derribada.
+:
+***Garra.*** *Ataque de arma cuerpo a cuerpo:* +13 al ataque, alcance 10 ft., un objetivo. *Impacto:* 16 (2d8 + 7) de daño cortante.
+:
+***Cola.*** *Ataque de arma cuerpo a cuerpo:* +13 al ataque, alcance 15 ft., un objetivo. *Impacto:* 26 (3d12 + 7) de daño contundente.
+:
+***Aliento de vapor (Recarga 5–6).*** Gorgathra exhala vapor abrasador en un cono de 60 pies. Cada criatura en esa zona debe realizar una tirada de salvación de Constitution CD 18, sufriendo 52 (15d6) de daño de fuego si falla, o la mitad si tiene éxito.
+
+
+
+
+}}
+
+
+
+:
+Pueden derivarse varias posibilidades de este encuentro:
+:
+- **Gorgathra es abatida por los héroes.** En este caso, la noticia se propagará como fuego infernal por toda Grenpoli. Para muchos, Gorgathra era vista como una amenaza, pero para otros era casi una guardiana de la ciudad. Siempre que los héroes se encuentren con un PNJ en la ciudad, tira 1d20 y consulta la tabla siguiente para determinar la reacción del PNJ:
+
+
+
+| **Tirada de d20** | **Reacción del PNJ** | **Efecto en las tiradas de Persuasion** |
+|--------------|------------------|--------------------------------|
+| 1-5          | Le disgustan los héroes; Gorgathra era considerada un emblema de la ciudad. | -4 a todas las pruebas de habilidad de Persuasion. |
+| 6-10         | Le es indiferente la muerte de Gorgathra. | Sin modificador a las tiradas de Persuasion. |
+| 11-20        | Se alegra de que Gorgathra haya sido abatida. | +4 a todas las pruebas de habilidad de Persuasion. |
+
+:::
+- **El esquife es destruido.** Si el esquife se pierde, los gigantes Brundar y Keira exigirán 5.000 monedas de oro como compensación, pagaderas en monedas, gemas o Soul Coins, valorándose cada Soul Coin en aproximadamente 1.000 gp. 
+:
+Si los héroes eluden el pago, Brundar y Keira enviarán un **cryptic envoy** para localizarlos dentro de la ciudad. Este mensajero presentará un ultimátum en una escritura amenazadora:
+
+
+
+{{note
+
+
+Habéis quedado señalados por no saldar vuestras deudas con Brundar y Keira, los maestros del transbordador de Grenpoli. Vuestras acciones nos han costado mucho, y el tiempo de la sutileza ha terminado.
+
+Se os exige por la presente el pago inmediato de la suma de 5.000 piezas de oro. Si decidís ignorar esta advertencia final, sabed que cualquier evasión adicional nos obligará a tomar medidas drásticas. No nos quedará más remedio que soltar a Ssyritha, nuestra asociada de reputación considerable y eficacia implacable, para recuperar lo que legítimamente nos pertenece. Considerad esto una promesa: pagad o afrontad consecuencias mucho peores que las incomodidades de una deuda.
+
+Se espera vuestro rápido cumplimiento.
+
+Kiera.
+}}
+
+- :
+Si los héroes siguen sin cumplir, los gigantes contratarán a Ssyritha, una notoria cobradora de deudas y **spirit naga**, y a su pareja de **horned devils** en un plazo de 72 horas.
+Aunque la violencia está prohibida dentro de Grenpoli, los héroes serán seguidos discretamente. En cuanto crucen más allá de los límites de la ciudad, Ssyritha y sus horned devils los acorralarán y atacarán.
+
+
+
+
+
+\page
+
+
+
+
+{{pageNumber,auto}}
+
+### Gorgathra
+
+{{imageMaskEdge4,--offset:-38%,--rotation:-8
+  ![](https://i.imgur.com/TdaAqEF.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+
+
+
+
+
+
+\page
+
+{{pageNumber,auto}}
+
+
+
+
+**Tesoro.** La guarida de Gorgathra, una caverna sumergida al otro lado de la ciudad, a 200 pies bajo la superficie, es un espacio inmenso de 300 pies de anchura. 
+
+Descubrir esta guarida sin ayuda mágica es extremadamente improbable, a menos que los héroes logren seguir a la tortuga hasta su refugio. Explorar esta caverna por medios mundanos llevaría días; sin embargo, con ayuda de la magia, pueden descubrirse los siguientes objetos:
+
+
+| **Objeto**                  | **Cantidad / Valor**           |
+|---------------------------|-------------------------------|
+| *Circlet of Blasting*       | 1                             |
+| *Pearl of Power*            | 1                             |
+| *Cloak of the Manta Ray*    | 1                             |
+| Soul Coins                | 5                             |
+| Ojos de tigre               | 9 (10 gp cada uno)               |
+| Piedras de sangre               | 6 (50 gp cada una)                |
+| Zafiros negros                 | 2 (1.000 gp cada uno)             |
+| Oro                 | 450             |
+
+::
+
+
+
+
+**Transporte alternativo.** Si los héroes buscan otra forma de transporte para llegar a la ciudad, se les dirige a una colina elevada donde las ruinas derruidas de una antigua fortificación se agazapan entre las sombras. Posadas a lo largo de los muros rotos hay criaturas de alas coriáceas—**pteranodons**—observando con ojos sin parpadeo.
+
+Una **cambion** llamada Virezza dirige aquí un servicio de transporte rival, ofreciendo vuelos sobre el foso a lomos de sus pteranodons entrenados. El coste es de 100 gp por jinete, pagados por adelantado. 
+
+Los clientes deben firmar una exención de responsabilidad que absuelve por completo a Virezza de cualquier responsabilidad en caso de lesión, muerte o cualquier otro percance desafortunado durante el vuelo.
+
+::
+
+{{note
+
+*Aviso de acuerdo – Exención de responsabilidad por transporte aéreo*
+:
+*Sea sabido por todos los pasajeros voluntarios:*  
+
+*Embarcáis en el vuelo a lomos de las bestias aladas bajo el dominio de Virezza por vuestra cuenta y riesgo.*
+
+*No se proporcionará silla de montar. No se ofrecerá garantía alguna. Si sufrís heridas, desmembramiento, incineración, desmoronamiento psicológico, caída desde grandes alturas o cualquier otra consecuencia desafortunada, Virezza no cargará con ninguna responsabilidad.*
+
+*Al poner vuestra marca sobre este pergamino, renunciáis a toda reclamación de compensación, venganza o apelación.*  
+
+*Los cielos de arriba son crueles. Que vuestro agarre sea firme.*
+:
+*Firmad abajo y alzad el vuelo.*
+
+}}
+
+
+Los pteranodons vuelan 100 pies por encima del foso, entrenados para seguir una ruta fija: los jinetes no tienen ningún control. Durante el vuelo, cada héroe tira 1d20. Con un resultado de 1–3, la criatura se sobresalta por una explosión, un relámpago o una visión fugaz de Gorgathra. El pteranodon se sacude bruscamente, y el jinete debe superar una prueba de Athletics o Acrobatics CD 12 para seguir montado.  
+
+Si falla, cae al foso que hay abajo.
+:
+
+
+**La Guardia del Velo.** Cuando los héroes alcanzan la orilla del lado de la ciudad, son recibidos por la Guardia del Velo, protectores de Grenpoli. Al frente de ellos está una drow de dulce sonrisa llamada Velvynya, que tiene las estadísticas de una **assassin**, y dos **displacer fiends** (*Chains of Asmodeus*, página 240), sujetos con correas y collares de plata.  
+
+
+::
+
+{{monster,frame
+## Displacer Fiend
+*Infernal grande, neutral maligno*  
+___
+**Clase de Armadura**:: 16 (armadura natural)  
+**Puntos de Golpe**:: 135 (18d10 + 36)  
+**Velocidad**:: 40 ft.  
+___
+| FUE     | DES     | CON     | INT     | SAB     | CAR     |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 17 (+3) | 19 (+4) | 14 (+2) | 8 (–1)  | 13 (+1) | 10 (+0) |
+___
+**Tiradas de Salvación** :: Fue +7, Des +8  
+**Habilidades**:: Acrobatics +8, Athletics +7, Perception +5, Stealth +12  
+**Resistencias al Daño**:: fuego, veneno  
+**Inmunidades a Condición**:: hechizado, asustado  
+**Sentidos**:: visión en la oscuridad 120 ft., Percepción pasiva 15  
+**Idiomas**:: —  
+**Desafío**:: 9 (5.000 PX)  
+**Bonificador por Competencia**:: +4  
+
+
+___
+:
+***Evasión.*** Si el displacer fiend es sometido a un efecto que le permita hacer una tirada de salvación para recibir solo la mitad del daño, en su lugar no recibe daño si supera la tirada de salvación, y solo la mitad del daño si la falla.
+:
+***Desplazamiento.*** El displacer fiend proyecta una ilusión mágica que hace que parezca estar cerca de su ubicación real, lo que provoca que las tiradas de ataque contra él tengan desventaja. Si es impactado por un ataque, este rasgo se interrumpe hasta el final de su siguiente turno. Este rasgo también se interrumpe mientras el displacer fiend esté incapacitado o tenga una velocidad de 0.
+:
+___
+### Acciones
+
+***Ataque múltiple.*** El displacer fiend realiza tres ataques de Tentáculo. Puede reemplazar uno de los ataques por un ataque de Mordisco.
+:
+***Tentáculo.*** *Ataque de arma cuerpo a cuerpo:* +8 al ataque, alcance 5 ft., un objetivo. *Impacto:* 18 (4d6 + 4) de daño perforante más 7 (2d6) de daño necrótico.
+:
+***Mordisco.*** *Ataque de arma cuerpo a cuerpo:* +8 al ataque, alcance 10 ft., un objetivo. *Impacto:* 23 (3d12 + 4) de daño perforante, y la puntuación de Dexterity del objetivo se reduce en 2 (1d4). El objetivo muere si esto reduce su Dexterity a 0. La reducción dura hasta que el objetivo complete un descanso corto o largo.
+:
+### Acción bonus
+
+***Salto sombrío.*** Mientras esté en luz tenue u oscuridad, el displacer fiend puede teletransportarse hasta 60 pies, siempre que su destino también esté en luz tenue u oscuridad.
+
+
+}}
+\page
+
+
+
+
+
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+{{imageMaskEdge4,--offset:-48%,--rotation:0
+  ![](https://i.imgur.com/fr6Ydm6.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\page
+
+
+{{pageNumber,auto}}
+
+
+
+
+Lee o parafrasea lo siguiente:
+
+
+
+{{descriptive
+Veis a una llamativa mujer drow acercándose desde el borde de la plaza, con una zancada segura y elegante. Lleva un fino abrigo negro ribeteado con hilo de plata, y su cabello blanco está recogido en una larga trenza que atrapa la brisa de la ciudad. Una leve sonrisa juega en sus labios: acogedora, y sin embargo inquietante.
+
+En cada mano sostiene una correa de plata, y al final de cada una avanza una monstruosa criatura felina del tamaño de un caballo de guerra. Sus cuerpos estilizados, negros como el ónice, ondulan con músculos tensos, y sus seis patas las impulsan hacia delante en silenciosa coordinación. Desde sus hombros se agitan un par de largos tentáculos barbados que se crispan con anticipación. Sus rostros son crueles e inteligentes, con ojos violetas brillando mientras examinan a la multitud. Los bordes de sus formas titilan y se difuminan, siempre pareciendo estar medio paso alejadas de donde realmente se encuentran, con posiciones que cambian sutilmente de un modo que a vuestros ojos les cuesta seguir.
+
+Tras ella viene un carruaje negro, tirado por un par de caballos de guerra no muertos cuyas pieles podridas dejan al descubierto el hueso. Su paso es mecánico, con ojos vacíos y bocas abiertas en gruñidos flojos y sin aliento. En el pescante se sientan dos lemures—diablos hinchados y cerosos apenas moldeados con forma humanoide. Permanecen encorvados en silencio, con las riendas sujetas flojamente, como si no fueran conscientes del mundo que los rodea o no les importara.
+
+}}
+
+Es deber de Velvynya despojar a los recién llegados de sus armas: por ley, no se permiten armas dentro de los límites de Grenpoli. Si anteriormente los héroes fueron engañados por los yugoloths del camino para entregar sus armas, la verdad podría golpearlos ahora con cruel claridad.
+
+
+
+
+{{descriptive
+La drow hace una reverencia, con una sonrisa cálida aunque inquietante. "Bienvenidos a Grenpoli, donde reina la diplomacia y la magia garantiza la paz. La violencia está prohibida por decreto infernal… y también las armas." Os rodea con interés despreocupado. "Entregad todo armamento, cualquier cosa que yo considere un arma."
+
+Se detiene, todavía sonriendo. "Si os negáis, os escoltaré de vuelta a través del foso… donde vuestros restos servirán como un magnífico ejemplo de insumisión."
+}}
+:::::::::::::
+##### Desarrollo
+
+- **Registro.** Si los héroes se lo permiten, Velvynya lleva a cabo un registro meticuloso de cada uno, moviéndose con una eficiencia suave y experta. Los inspecciona de arriba abajo, buscando armas ocultas u objetos mágicos que pudieran emplearse como tales. Su actitud sigue siendo calmada, pero sus acciones son minuciosas e invasivas. Deja claro que cualquier intento de ocultar un arma acabará mal para ellos.
+:
+- **Una última comprobación.** Una vez que Velvynya termina de registrar a cada héroe, saca una varita delgada de su bota—una *Wand of Truth* con 10 cargas (véase la descripción más abajo). Apuntando hacia cada uno por turno, invoca su magia para lanzar *Zone of Truth*, preguntando sin pestañear si están ocultando alguna arma.
+
+:
+- **Conflicto.** Si los héroes desafían a Velvynya, ella sonríe y les advierte que están marcados para morir. Nadie en Grenpoli los ayudará, y el colegio les quedará vedado. Desde ese momento, los Guardias del Velo siguen al grupo en silencio—incapaces de atacar dentro de la ciudad, pero esperando hacerlo en cuanto crucen sus fronteras.
+:
+Este resultado no es ideal, ya que corta el acceso al colegio. Como DM, considera dejar pistas sobre las estrictas leyes de Grenpoli—mediante advertencias de PNJ, avisos públicos o conversaciones oídas al pasar—especialmente si sospechas que los héroes podrían desafiar las normas. Pero si escogen la rebeldía, deja que afronten todo el peso de la ley infernal.
+
+
+::
+
+
+#### Wand of Truth  
+*Objeto maravilloso, poco común (requiere sintonización)*
+:
+
+Esta esbelta varita negra está engastada con una sola gema roja en la punta y pulsa tenuemente al sostenerla. Contiene 7 cargas y recupera 1d4 + 2 cargas gastadas cada día al amanecer.
+
+Como acción, puedes gastar 1 carga para lanzar *Zone of Truth* (CD de salvación 15). Si gastas la última carga de la varita, tira 1d20. Con un 1, la varita se desmorona y se convierte en ceniza.
+
+
+
+
+{{imageMaskEdge4,--offset:30%,--rotation:4
+  ![](https://i.imgur.com/5Q8pgmW.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+\page
+
+
+
+##### Área 3: El Crisol
+
+Lee en voz alta cuando los héroes se acerquen al centro de la ciudad:
+
+
+{{descriptive
+Veis el corazón de Grenpoli enmarcado por cuatro arcos colosales de piedra, cada uno elevándose 700 pies hacia el cielo. Estos inmensos portales forman parte de una enorme estructura parecida a una catedral que domina el centro de la ciudad. Ríos de lava atraviesan las calles como venas resplandecientes, llenando el aire de calor y azufre. La ciudad palpita con una energía extraña e inquieta—mitad ruina, mitad ambición—donde el olor de la piedra abrasada y el humo nunca se desvanece.
+}}
+
+
+
+El corazón de Grenpoli, conocido como el Crisol, se accede a través de cuatro arcos colosales de piedra, cada uno elevándose 700 pies hacia un cielo cargado de bruma. Estos portales monumentales forman parte de una inmensa estructura semejante a una catedral que sirve como principal referencia visual de la ciudad. Ríos de lava fluyen por las calles en direcciones norte-sur y este-oeste, brillando con calor infernal y otorgando a la ciudad su característica neblina sulfurosa. 
+
+Las torres más altas de Grenpoli albergan a sus dos supervisores gemelos, conocidos como los Custodios, nombrados directamente por Baalzebul para dirigir la construcción y hacer cumplir las peculiares leyes de la ciudad. A pesar de compartir tarea, no podrían ser más distintos. 
+
+Uno es el Príncipe Kharzithrax, un **azer** de energía y obsesión incontenibles. Maestro del metal y la mampostería, Kharzithrax es conocido por su ritmo frenético—levantando grandes torres solo para demolerlas pocos días después. Su locura solo es comparable a su habilidad, y Baalzebul valora su incesante búsqueda de la perfección, incluso en la ruina.
+
+La segunda custodio es Lady Nharissa, una **erinyes devil** reclusiva que se ha desencantado con el interminable ciclo de ambición y fracaso de la ciudad. Su verdadero interés yace más allá de los muros de la ciudad, en una brutal arena de combate conocida como el Foso del Rencor, un lugar donde no se aplica la prohibición de la violencia propia de la ciudad. Allí supervisa sangrientos espectáculos infernales, lejos de las restricciones de la paz impuesta en Grenpoli (consulta el Área 5 para más detalles).
+
+::
+
+
+
+**Actividades en el Crisol.** Grenpoli se parece a otras ciudades infernales en su forma—pero no en su espíritu. El ambiente es extraño, casi inquietante en su civismo.
+
+- Hay una calma antinatural en el lugar. La violencia está ausente, contenida por una poderosa magia. 
+:
+- Incluso los infernales caminan desarmados, con sus garras y su temperamento enfundados.  
+:
+- Las calles son más silenciosas de lo esperado—las conversaciones en voz baja sustituyen a los gritos habituales.
+:
+- Los lugareños, incluidos los diablos, se comportan con una cortesía inquietante, como si practicaran la diplomacia con cada palabra.  
+:
+- La ciudad rebosa de forasteros: eruditos drow, escribas humanos, negociadores gith, comerciantes gnomos—e incluso algún yuan-ti o elfo deambula de vez en cuando, provocando miradas sorprendidas.  
+:
+- Muchos residentes hablan abiertamente del Colegio Político de los Nueve Infiernos, deseosos de compartir ideas.  
+:
+- Comparado con otras capas del Infierno, los alojamientos son francamente lujosos. Hay agua limpia, la comida es aceptable y las posadas son acogedoras.
+:
+- Algunas posadas atienden específicamente a mortales. La posada El Pergamino Dorado ofrece camitas pequeñas para gnomos y halflings, mientras que la posada El Juramento Verde presume de decoración élfica y plantas recién enmacetadas en algunas de sus habitaciones.  
+::
+**Patrullas de la Guardia del Velo**. Las patrullas de la Guardia del Velo son una visión habitual en Grenpoli. Si se denuncia que alguien lleva o esconde un arma, las patrullas responden con rapidez. 
+::
+
+
+
+
+{{imageMaskCorner23,--offsetX:48%,--offsetY:-46%,--rotation:0
+  ![](https://i.imgur.com/awxUGvs.png){height:100%}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+
+
+\page
+
+{{pageNumber,auto}}
+
+### Colegio Político de los Nueve Infiernos
+
+
+{{imageMaskEdge8,--offset:-34%,--rotation:-12
+  ![](https://i.imgur.com/XtMiAGp.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+\page
+
+{{pageNumber,auto}}
+
+
+##### Área 4: El Colegio Político de los Nueve Infiernos
+
+Cuando los héroes se acerquen, lee lo siguiente:
+
+{{descriptive
+Veis unas enormes fauces demoníacas talladas en el lateral de una gran estructura de obsidiana, con sus dientes dentados goteando lava fundida que sisea al caer sobre la piedra inferior. Flanqueando la boca se elevan pilares imponentes, cada uno esculpido para parecer una biblioteca retorcida cargada con tomos infernales encuadernados en piel desollada y metal. En la base de la boca abierta, un estrecho pasaje conduce al resplandor de un horno más allá: una entrada que no se recorre, sino que se desafía.
+}}
+
+
+
+En cada pilar que flanquea el arco hay un pergamino esculpido en bajorrelieve. El texto grabado titila tenuemente con un encantamiento—aunque está escrito en Infernal, las letras cambian y se reforman en un idioma aleatorio comprendido por cada lector. 
+
+Los pergaminos dicen:
+
+
+
+
+{{note
+*El Colegio Político de los Nueve Infiernos* 
+:
+- :: *La admisión está abierta a todos los que busquen aprendizaje.*  
+:
+- :: *Matrícula por un trimestre: 5 Soul Coins.* 
+:
+- :: *Sin trueque. Sin sustituciones. Sin negociación.* 
+:
+- :: *Tu intención será sopesada.*
+}}
+
+
+
+
+
+
+
+A pesar de su aspecto ígneo, la entrada es inofensiva—el infierno de fuego no es más que una ilusión. Toda criatura que atraviese el arco es teletransportada instantáneamente a un gran atrio columnado dentro del colegio.
+
+
+:
+
+**Advertencia.** Antes de que los héroes entren en el colegio, decide cuál es su objetivo. La mayoría buscará una nueva competencia de habilidad—Insight, Persuasion o Intimidation—ganada al impresionar a sus tutores. Se trata de una recompensa poderosa, así que considera equilibrarla con un coste, como una maldición menor o una pérdida. Cada héroe puede obtener solo una competencia.
+
+Este material proporciona un marco sobre el que el Dungeon Master puede construir. Usa los lugares y PNJ para dar forma a la experiencia y no dudes en añadir tus propias ideas. 
+
+Con la violencia prohibida en Grenpoli, esta es una gran oportunidad para ralentizar el ritmo y explorar el tiempo de inactividad. ¡Solo ten presente que los jugadores centrados en el combate podrían impacientarse!
+
+Usa los mapas de las páginas siguientes.
+
+::::::::
+
+#### 1. Atrio
+
+
+Una vez que los héroes crucen bajo el arco, lee lo siguiente:
+
+
+{{descriptive
+Pasáis bajo el arco, preparándoos para el dolor abrasador de la lava fundida y el siseo de la carne quemada… pero no llega. No hay calor, solo ilusión. Una oleada de vértigo os invade mientras el mundo se retuerce y vuestra visión se nubla. Entonces, tan rápido como empezó, la sensación desaparece.
+
+Emergéis de la niebla roja giratoria a una sala inmensa, sostenida por pilares. El techo se pierde en la sombra muy por encima, y los pilares que os rodean no están tallados con escenas de tormento o sufrimiento, sino con libros abiertos y constelaciones sobre un cielo de medianoche. Es extraño, sí, pero no infernal. No del modo al que ya os habéis acostumbrado.
+
+La piedra oscura como sangre bajo vuestros pies es vidriosa, lisa y está impecablemente limpia. A ambos lados del vasto atrio, nichos espaciados de manera uniforme brillan con brumas de colores—naranja, violeta, verde—cada portal zumbando con una magia silenciosa. Y a través de todo ello, una extraña quietud llena el espacio. No opresiva, sino serena. Un silencio que se siente… reflexivo.
+}}
+
+
+
+**Nichos brumosos.** Hay 8 en total, cada uno con un color y un destino únicos, según la tabla siguiente.
+
+::
+
+{{table
+
+| **Número de arco** | **Color de la niebla** | **Destino**       |
+|------------------|------------------|------------------------|
+| 3                | Carmesí profundo     | Pasillos de dormitorios        |
+| 4                | Naranja pálido      | Cocinas               |
+| 5                | Ámbar dorado     | Comedor            |
+| 6                | Verde esmeralda    | Cámara de conferencias       |
+| 7                | Azul zafiro    | Biblioteca de las Sutilezas  |
+| 8                | Gris ahumado       | Ala administrativa    |
+| 9                | Negro de tinta       | Las Bóvedas Prohibidas   |
+| 10               | Violeta           | Sala de pruebas        |
+
+}}
+::
+Toda criatura que cruce uno de los arcos llenos de niebla es teletransportada instantáneamente al espacio extradimensional correspondiente dentro del colegio—siempre que lleve puestas las *Bands of Admission* (véanse varias páginas más adelante), que se entregan a todos los estudiantes aceptados. Sin estas bandas, la niebla se vuelve peligrosamente tóxica y funciona como un conjuro de *Cloudkill* (CD de conjuro 20), y no se produce ninguna teletransportación.
+
+
+:
+
+**Antimagia.** El colegio está impregnado de un poderoso campo antimagia que impide el uso de conjuros y objetos mágicos dentro de sus salones. Las criaturas con aptitud de lanzamiento de conjuros innata no se ven afectadas. Todo intento de lanzar un conjuro provoca un intenso mareo, náuseas y dolor de cabeza, que duran 1 minuto. Los objetos mágicos simplemente dejan de funcionar mientras permanezcan dentro de los límites del colegio.
+
+
+
+
+\page
+
+
+
+
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+
+### Atrio (Mapa del DM, 1 casilla = 5 pies)
+
+
+
+
+
+![](https://i.imgur.com/0WmfihH.png) {width:678px,mix-blend-mode:multiply}
+
+
+
+
+
+
+
+
+\page
+
+
+
+
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+
+### Atrio (Mapa del jugador, 1 casilla = 5 pies)
+
+
+
+
+
+![](https://i.imgur.com/Bq1IMAx.png) {width:678px,mix-blend-mode:multiply}
+
+
+
+
+\page
+
+
+{{pageNumber,auto}}
+
+
+
+
+#### 2. Clatrix y Sylzara
+
+Mientras los héroes avanzan por el atrio, ven acercarse una extraña criatura: una esfera mecánica con un ojo central y cuatro patas con garras, como un trípode con una extremidad adicional. Se trata de un monodrone renegado llamado Clatrix, un modron que ya no sigue la voluntad de Primus. En lugar de ello, Clatrix sirve ahora a Sylzara, ayudando a mantener el orden dentro del colegio. Aunque es perseguido por otros modrons, Clatrix ha encontrado seguridad en Grenpoli. Usa el bloque de estadísticas de un **monodrone**, pero su alineamiento es neutral verdadero y tiene telepatía hasta 90 pies.
+
+
+
+{{descriptive
+
+Veis una extraña criatura mecánica correteando hacia vosotros—una esfera de latón y hierro equilibrada sobre cuatro patas con garras. Su único ojo, inmóvil y sin parpadear, gira en su cuenca y se fija en vosotros con una precisión inquietante. El chirrido de sus garras al raspar la piedra os pone los dientes de punta.
+
+
+
+
+La construcción se detiene ante vosotros. Entonces, sin mover la boca, una voz apagada y mecánica resuena en vuestras mentes, plana y desprovista de emoción.
+
+"Bienvenidos al Colegio de Grenpoli. Que vuestra estancia sea agradable. La magia no funciona aquí. Los intentos de usarla provocarán enfermedad. Quedáis advertidos. Si habéis venido a matricularos, seguidme. Preparad cinco Soul Coins por individuo. Gracias."
+
+El constructo pivota rígidamente, con las garras chirriando sobre la piedra lacada mientras se interna en el salón.
+
+
+}}
+
+
+{{imageMaskEdge4,--offset:2%,--rotation:270
+  ![](https://i.imgur.com/vlwgvMI.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+::
+
+**Mistress Sylzara.** Lee o parafrasea lo siguiente cuando los héroes se acerquen al extremo más alejado del atrio:
+
+
+{{descriptive
+En el extremo opuesto del atrio hay un amplio escritorio de madera oscura y pulida, cubierto de tomos abiertos y montones de pergaminos. Detrás se sienta un infernal alado—una súcubo—observándoos con interés. Frente al escritorio hay taburetes, suficientes para todos.
+}}
+
+
+
+
+Se trata de Mistress Sylzara, quien supervisa el colegio y se ocupa de las matrículas. 
+
+
+
+{{descriptive
+"Mi nombre es Mistress Sylzara." La súcubo hace un gesto hacia el constructo que tenéis detrás. “Clatrix, refrigerios, por favor.”
+
+Clatrix avanza traqueteando, y un panel en su costado se abre para revelar una bandeja. Sobre ella hay una jarra de líquido transparente, pequeños vasos y un cuenco con dos tipos de carne—una negra y otra roja.
+
+Sylzara sonríe. “Servíos. El agua está mezclada con suero de la verdad. La carne es lagarto callejero—gutterback, la llamamos. La carne negra está envenenada, mientras que la roja es segura para el consumo. Elegid con cuidado.”
+}}
+
+
+
+
+\page
+
+
+
+
+{{pageNumber,auto}}
+
+### Mistress Sylzara
+
+{{imageMaskEdge8,--offset:-34%,--rotation:-12
+  ![](https://i.imgur.com/gBb6noP.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+\page
+
+
+
+{{pageNumber,auto}}
+
+
+
+
+Una prueba exitosa de Insight revela que Sylzara miente: la carne rojiza está envenenada con *Assassin’s Blood* (DMG, página 258), mientras que la carne negra es segura. El veneno es débil y es poco probable que cause daño real. Se trata de una prueba, pensada para jugar con los héroes y marcar el comienzo de su formación.
+
+Cada estudiante comienza el curso con 50 puntos. Sus acciones durante las cuatro semanas siguientes determinarán si aprueba o suspende. Lleva la cuenta de los puntos de cada héroe, pero no compartas su puntuación con los jugadores. Beber el suero de la verdad, por ejemplo, resta puntos: demuestra mal juicio en un lugar construido sobre el engaño.
+
+:
+
+
+
+
+| **Acción**               | **Puntos** |
+|--------------------------|------------|
+| Beber el suero de la verdad    | -5         |
+| Rechazar beber el suero de la verdad    | +5         |
+| Comer la carne roja     | -10        |
+| Comer la carne negra       | +10        |
+
+
+
+:
+
+
+
+Una vez concluida la prueba de degustación, Sylzara explica cómo funciona el colegio.
+::
+
+**Koh Tam.** Si los héroes mencionan a Koh Tam, Sylzara se tensa visiblemente antes de decir:
+
+
+
+{{descriptive
+"No habléis más de ese. Ya os he advertido."
+}}
+
+
+:
+
+
+**Coste de la matrícula**. La inscripción en el Colegio Político de los Nueve Infiernos requiere un pago de 5 Soul Coins por estudiante, que cubre un trimestre completo de 4 semanas. Esta tarifa no es negociable y debe pagarse íntegramente antes de que comience la formación. El colegio no acepta alternativas.
+
+
+{{descriptive
+"Habéis venido a aprender, y aquí el conocimiento tiene un precio", dice con suavidad. "Cinco Soul Coins. Ni más ni menos. Si no podéis pagar, no podéis quedaros."
+
+}}
+
+
+:
+
+
+**Bands of Admission.** Cada estudiante recibe un par de brazales de muñeca conocidos como *Bands of Admission*. Estos objetos mágicos están específicamente sintonizados con el colegio y no se ven afectados por el campo antimagia que cubre sus salones. Mientras se llevan puestos, las bandas permiten al usuario comprender y hablar Infernal, y otorgan acceso a los arcos de teletransporte dentro del colegio. Solo funcionan dentro del colegio. 
+
+Si una criatura se quita sus *Bands of Admission*, la magia de estas deja de funcionar y se convierten en simples brazales corrientes y no mágicos.
+
+:
+
+
+{{descriptive
+Sylzara junta las manos suavemente sobre el escritorio y ofrece la más leve de las sonrisas. "Las *Bands of Admission*", dice mientras desliza un juego hacia vosotros, "deben llevarse puestas en todo momento. Quitáoslas, y vuestro contrato quedará anulado: vuestro acceso terminará." 
+
+Hace un gesto hacia los arcos llenos de niebla arremolinada a vuestra espalda. "Estos permiten el paso entre las distintas alas del colegio. Sin las bandas, son… menos complacientes. Con ellas, sin embargo, podréis pasar libremente. También os otorgarán la capacidad de comprender y hablar Infernal. Una necesidad, dado que esta lengua se usa en la mayoría de las lecciones. Y recordad: una vez colocadas en vuestras muñecas, no se desprenden hasta que vuestra matrícula haya concluido."
+}}
+
+:
+**Pruebas.** Los héroes matriculados en el colegio estudiarán el oscuro arte de la diplomacia infernal, centrándose en Insight, Persuasion e Intimidation. Aunque el tiempo fluye de manera extraña en el Infierno, el curso dura cuatro semanas. Al final de cada semana, el héroe se enfrenta a una prueba que ajusta su puntuación oculta. Para aprobar el curso, se requiere un total de 100 puntos o más—esta puntuación la lleva el DM y no se revela al jugador.
+
+
+:
+
+{{descriptive
+Sylzara se reclina en su silla, entrelazando los dedos mientras sus alas se despliegan suavemente tras ella. "Estáis aquí para ser moldeados, refinados y puestos a prueba. Durante las próximas cuatro semanas, estudiaréis las habilidades más valiosas de todos los Nueve Infiernos—cómo ver a través de una mentira, torcer la verdad y mandar con nada más que una palabra. Insight. Persuasion. Intimidation."  
+
+Sonríe levemente. "Habrá pruebas. Algunas manifiestas. Otras… sutiles. Seréis observados, evaluados, juzgados. Y al final, decidiré si sois dignos de lo que ofrecemos."  
+
+El tono de Sylzara se afila. "No preguntéis por notas ni puntuaciones. Esto no es una academia mortal. O triunfaréis… o no lo haréis."
+}}
+
+
+**Tongueclades.** Los héroes matriculados son asignados a una cohorte, un grupo estrechamente unido de estudiantes conocido como una Tongueclade. Estos grupos viven en el mismo dormitorio, asisten juntos a clase y son puestos a prueba como una unidad. Una Tongueclade típica incluye seis miembros—aunque puedes ajustar esto en función del tamaño del grupo. No todos los miembros serán personajes jugadores; elige PNJ de entre los proporcionados abajo para completar el grupo.
+
+Estos PNJ están pensados para aportar camaradería, rivalidad y, en algunos casos, potenciales enemigos. 
+
+Recuerda: aunque la violencia está prohibida dentro de Grenpoli, muchos ajustes de cuentas se resuelven en el Foso del Rencor, fuera de los límites de la ciudad (consulta el Área 5 para más detalles).
+
+
+
+{{imageMaskEdge7,--offset:44%,--rotation:6
+  ![](https://i.imgur.com/5Q8pgmW.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
+
+
+\page
+
+
+
+
+
+
+#### 3. Pasillos de dormitorios
+
+La niebla carmesí profunda conduce a los dormitorios asignados a una Tongueclade específica. Dentro de cada agrupación hay dos tipos de habitación: estándar (Tipo A) y grande (Tipo B), pensada esta última para acomodar a estudiantes físicamente más corpulentos.
+
+Las *Bands of Admission* de cada estudiante están sintonizadas con un dormitorio concreto. Estos brazales permiten el acceso únicamente al espacio asignado a ese estudiante, impidiendo la entrada no autorizada a los aposentos de otras Tongueclades. Dado que la magia está suprimida dentro de los salones del colegio, sortear estas restricciones dista mucho de ser sencillo y requeriría soluciones creativas—y probablemente contrarias a las normas—a discreción del Dungeon Master.
+
+Las cámaras están escasamente amuebladas, pero resultan apropiadas para la raza y fisiología de su ocupante. Una habitación estándar preparada para un estudiante humanoide podría incluir un catre plegable, un escritorio sencillo con tinta y pergamino, un diario vacío, un armario, un baúl de almacenaje y una jarra de piedra con agua. También se proporciona como retrete una olla de piedra cubierta con cuero de piel de demonio.
+
+Las cámaras para otras razas podrían incluir lo siguiente:
+
+- **Kuo-Toa.** Las paredes están resbaladizas por la condensación y una poza poco profunda de salmuera domina el suelo.
+:
+- **Vampiro.** La cámara contiene un sarcófago de piedra en lugar de una cama.
+:
+- **Drow.** La cámara se mantiene en la oscuridad, con sábanas de seda negra sobre la cama.
+
+:
+
+**Sirvientes.** Cada día, un cuarteto de **lemure devils** apático—llamados ashdrudges—atiende los dormitorios. Limpian, vacían las bacinillas y rellenan las jarras de agua con una eficiencia lenta y apagada. Atados a la voluntad del colegio, no llevan *Bands of Admission* y se desplazan libremente a través de los portales de niebla.
+
+De vez en cuando, un lemure reúne suficiente valor como para robar algo de valor de una habitación, pero por lo general son inofensivos y fáciles de disuadir.
+
+:
+**Puertas.** Las puertas de cada habitación se dejan sin cerrar. Como la violencia está prohibida dentro de la ciudad—y por extensión, del colegio—hay poca necesidad de seguridad.
+
+:
+
+**Iluminación.** La luz proviene de orbes de cristal del tamaño de un melón situados en cada esquina, llenos de diminutos insectos brillantes llamados gloomglimmers, nativos de los pantanos de Minauros. Sus abdómenes emiten un suave resplandor rojo. Viven siete días antes de ser sustituidos por sirvientes lemure.
+
+:
+
+**Aire.** La magia del colegio mantiene un suministro constante de aire respirable en todos sus salones.
+
+:
+**Compartir.** Los estudiantes pueden compartir cámaras si lo desean. Como suele decir Sylzara, *“Lo que ocurre en los dormitorios se queda en los dormitorios.”*
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+{{imageMaskEdge4,--offset:4%,--rotation:270
+  ![](https://i.imgur.com/1XXBBCd.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+\page
+
+
+
+
+
+
+
+
+{{pageNumber,auto}}
+
+
+
+
+### Pasillos de dormitorios (1 casilla = 5 pies)
+
+
+
+
+
+![](https://i.imgur.com/rvKO2f9.png) {width:678px,mix-blend-mode:multiply}
+
+
+
+\page
+
+
+{{pageNumber,auto}}
+
+### Sirviente Ashdrudge (Lemure Devil)
+
+
+{{imageMaskEdge8,--offset:-34%,--rotation:-12
+  ![](https://i.imgur.com/L4f0Zzq.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
+\page
+
+
+{{pageNumber,auto}}
+
+
+
+
+#### 4. Cocinas
+
+La niebla naranja pálida conduce a las cocinas, a las que los estudiantes pueden acceder libremente. Entre las comidas, la comida se deja sobre mesas largas para picar algo. 
+Se ofrece comida adecuada para cualquier raza matriculada en el colegio.
+
+Clatrix advierte a los recién llegados que no interfieran con los ashdrudges que preparan y sirven las comidas.
+ En cualquier momento, aquí pueden encontrarse 1d4+1 ashdrudges, cocinando y limpiando con lentitud. Están supervisados por un lemure especialmente hinchado llamado Grubblegut, que lleva un delantal mugriento y costroso que parece estar más fusionado a su cuerpo que vestido sobre él. 
+
+Las comidas que se sirven son simples y poco destacables, pero al menos no están envenenadas. 
+
+
+
+{{descriptive
+Veis una cámara amplia, de techo bajo, cargada de calor y vapor. Largas mesas de piedra están cubiertas de bandejas de comida sencillas—algunas aún humeantes, otras ya cuajadas. En el extremo más alejado se tambalea un lemure grotescamente hinchado, con la carne caída, moteada y anaranjada. Un delantal inmundo, endurecido por la suciedad y la grasa cocida, se le adhiere al cuerpo como una segunda piel. Está claro que es el cocinero jefe. Murmura para sí con gorgoteos bajos y húmedos, agitando un cucharón hacia otros ashdrudges que arrastran sacos por la cocina o remueven ollas burbujeantes. El aire huele a aceite rancio.
+}}
+
+
+::
+
+
+#### 5. Comedor
+Aquí, una niebla ámbar dorada conduce a un comedor.
+
+{{descriptive
+Veis una vasta sala que se extiende hacia la sombra. Una única mesa de piedra, gigantesca en escala, domina el centro de la cámara. Largos bancos la flanquean a ambos lados, y recorriendo toda su longitud hay un mantel espantoso—pálido y viscoso, cosido con hilo de plata. Una inspección más cercana revela que no es una tela corriente: rostros, ojos y bocas han sido desollados y cosidos juntos en un grotesco tapiz sin costuras.
+
+Sobre la mesa flotan gruesas velas rojas suspendidas en corrientes invisibles, cada una proyectando un radio de luz de 10 pies—el humo raspa la garganta al respirar. 
+
+Desde una niebla ámbar dorada en el nicho del extremo más lejano de la sala, los ashdrudges emergen en silencio, depositando bandejas de comida antes de regresar arrastrando los pies a la bruma.
+}}
+
+Las comidas principales se sirven aquí dos veces al día. El nicho envuelto en niebla al norte conduce a las cocinas.
+
+::::::::::
+
+#### 6. Cámara de conferencias
+Aquí, una niebla verde esmeralda conduce a una cámara de piedra.
+
+{{descriptive
+Veis una cámara circular de piedra fría y desnuda, con los muros elevándose en curva hacia una cúpula oscura sobre vuestras cabezas. La sala es austera, sin adorno ni comodidad—las distracciones no tienen cabida aquí. Bancos de piedra escalonados rodean la sala, elevándose en limpios anillos concéntricos. En el centro se alza un estrado elevado, un círculo perfecto de obsidiana pulida.
+
+
+}}
+
+Esta cámara se utiliza para conferencias y demostraciones.
+
+::
+
+#### 7. Biblioteca de las Sutilezas
+Aquí, una niebla azul zafiro conduce a una biblioteca.
+
+{{descriptive
+Esta amplia sala se extiende hacia la oscuridad, iluminada por los mismos orbes de suave resplandor que se encuentran en los dormitorios. En su centro hay hileras de pupitres y mesas de lectura, mientras que las paredes están bordeadas por nichos y corredores cortos repletos de altísimas estanterías, todas pulcramente cargadas con tomos, pergaminos y volúmenes encuadernados de toda clase. El suelo es de piedra lisa, azul oscura—distinta de la piedra rojiza que se ve en otros lugares del colegio. Aquí reina el silencio y, curiosamente, no hay ni una sola mota de polvo sobre ninguna superficie.
+}}
+
+Cuando una criatura entra en la biblioteca, aparece una mano incorpórea y espectral con guante conocida como un Custodio Arcano—una por cada criatura. La mano flota en silencio cerca, como si aguardara pacientemente instrucciones.
+
+No habla, pero responde con rapidez a peticiones verbales sencillas, deslizándose entre las estanterías para recuperar el tomo deseado y depositándolo suavemente sobre la mesa más cercana. Un ejemplo sería: *"Tráeme un libro sobre vampiros y sus hábitos alimenticios, buena mano mía."*  
+
+:
+La biblioteca alberga una impresionante colección de saber, incluyendo conocimientos de todos los planos—no solo de los Planos Inferiores. Lo que encuentren los héroes queda a discreción del Dungeon Master, pero procura apoyar la curiosidad y el interés de tus jugadores cuando sea posible.
+
+Gran parte del material aquí se centra en la diplomacia—cómo obtener ventaja mediante Insight, Persuasion e Intimidation. Si un héroe decide pasar aquí un tiempo significativo estudiando (como actividad de tiempo libre), obtiene un bonificador de +2 a las pruebas de Insight, Persuasion e Intimidation realizadas durante esa semana. No informes a los jugadores de este bonificador—es algo que ganan en silencio. Este bonificador puede obtenerse una vez por semana si continúan estudiando.
+
+
+
+
+{{imageMaskEdge7,--offset:42%,--rotation:0
+  ![](https://i.imgur.com/w4I56Kb.png){height:100%}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
 
