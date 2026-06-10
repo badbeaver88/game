@@ -2221,3 +2221,910 @@ It was not a kind expression.
 The Shadow Mark file vanished from the air between them.
 
 That frightened Elara more than if it had remained.
+
+
+## Chapter 9: First Light
+
+Marek woke before dawn.
+
+For several disorienting seconds he did not know where he was. The ceiling above him was wrong—too low, too wooden, too unevenly shadowed—and the silence was wrong in a way that took longer to name. No transit hum. No distant mechanical respiration from the city. No filtered sound bleeding through walls designed by people who no longer believed in privacy enough to build for it.
+
+Then he heard the faint crackle of dying embers in the hearth and remembered.
+
+Edgewood Fringe.
+
+The cabin.
+
+The holiday that had not quite felt like one.
+
+And the shadow at the window.
+
+His eyes adjusted. Beside him, Elara slept on her side, one arm beneath the blanket, dark hair fallen loose across her cheek. In sleep, some visible part of her vigilance went missing. The hard composure she carried so naturally inside Arc—the control, the measured stillness, the perpetual sense of calculation under restraint—seemed to recede here, leaving behind someone younger, or perhaps simply less defended.
+
+Marek lay still for a moment, watching her.
+
+Then he slipped carefully from bed.
+
+The cabin was cool. The fire had burned down to a cradle of red coals beneath a delicate skin of ash. Pale morning light pressed softly through the windows, whitening the edges of the room.
+
+He checked the locks first.
+
+Front door secure.
+
+Rear door secure.
+
+Windows sealed.
+
+No signs of tampering. No shifted frames. No damage. No black-armoured silhouettes waiting between the trees with some new legal pretext in hand.
+
+In the weak light, last night’s fear began to look faintly theatrical.
+
+Maybe it really had been an animal.
+
+Maybe the roadside stop and the compliance search had infected everything after them, turning every sound into a threat and every shadow into an intention.
+
+He pulled on a jacket and stepped outside.
+
+The air hit him like something medicinal—cold, sharp, and clean enough to feel almost accusatory. He stood on the porch, hands braced lightly against the railing, and listened.
+
+Birdsong.
+
+Wind moving in the upper branches.
+
+The faint creak of trees shifting against morning.
+
+No drones. No vehicles. No voices. The nearest cabin sat well beyond the tree line, close enough for policy to call the area safe and far enough for advertising copy to call it secluded.
+
+He went down the steps and walked slowly around the structure, partly from habit, partly because he wanted reassurance to arrive in the shape of action.
+
+The ground behind the cabin still held some of yesterday’s moisture. When he rounded the rear corner, he stopped.
+
+Something had marked the earth.
+
+He crouched.
+
+One impression. Then another.
+
+They might have been boot prints. They were deep enough for it—heavier than an ordinary hiking tread, the pattern broad and human-shaped. They tracked along the softened dirt for several feet before breaking apart where the ground turned rougher and leaf litter obscured everything.
+
+Marek studied them longer than he meant to.
+
+They did not prove anything. Hikers used the trails. Maintenance crews came through the area. Compliance had already been here once, and there was no reason in the world to assume those marks were recent.
+
+No reason except the fact that he wanted them to be old.
+
+He stood and forced a breath out of himself.
+
+“You’re getting paranoid,” he muttered.
+
+The words sounded persuasive only if he did not listen too closely.
+
+When he went back inside, Elara was still asleep.
+
+That sight softened him immediately. He considered waking her. They could make coffee. Eat badly calibrated cabin breakfast. Walk the trail together in cold air before the day remembered how tense they had both become.
+
+He checked the time.
+
+Too early.
+
+She needed the sleep, and he knew it. The past weeks had taken something out of her even before Halden’s warning, before the trials became less a possibility than a shape waiting just over the horizon.
+
+So he made a different decision.
+
+A run.
+
+Nothing dramatic. Just enough to clear his head.
+
+The trails were mapped, regulated, and monitored often enough to feature prominently in every Edgewood brochure. Thousands of visitors used them every season.
+
+What could possibly happen?
+
+The first mile felt almost embarrassingly good.
+
+Cold air opened his lungs. The path moved through the trees in long, gentle bends, crossing ridges of old roots and patches of stone washed smooth by weather. Light filtered down through pines and oak branches in pale shafts that shifted each time the wind touched them.
+
+His body settled into rhythm. Breath. Footfall. Breath again.
+
+For the first time in days, perhaps weeks, his mind seemed willing to uncoil.
+
+He thought of Elara standing at the stove the night before, one hand on the spoon, face lit by firelight, looking momentarily like a woman who belonged to herself. He thought of Mount Fuji. Of the Convergence Trials. Of the billion eyes they promised, and the quieter stories that moved beneath the spectacle like darker water below clear ice. He thought of Halden’s interest in Elara, of the searches, the stop on the road, the sense—ridiculous and increasingly hard to dismiss—that the world had begun leaning in toward them.
+
+He barely noticed how far he had gone.
+
+The trail curved around a shoulder of exposed stone and dropped toward a narrow stream crossing. He slowed there, less from fatigue than instinct, and that was when he heard it.
+
+A hum.
+
+Faint at first.
+
+High and mechanical.
+
+He stopped moving.
+
+The sound came again, closer now, hidden somewhere above the trees.
+
+A drone.
+
+His stomach tightened instantly.
+
+He stepped off the trail and looked up through the branches, but the canopy was dense and the morning light was working against him. All he could see were needles, leaves, splintered shafts of sky.
+
+Then movement flashed over the path.
+
+Small. Silver. Fast.
+
+Not recreational.
+
+Not maintenance.
+
+The drone swept past in a blur and vanished among the trees before he had properly registered its shape.
+
+Marek exhaled once, hard. “What the hell—”
+
+The second hum started behind him.
+
+Much closer.
+
+He turned.
+
+Something hissed through the air.
+
+Pain struck high in his left arm, a sharp buried sting that felt absurdly intimate after the remote whine of machinery. He slapped a hand to the spot and found a dart protruding from his sleeve.
+
+For one stupid second he simply stared at it.
+
+It looked antique. Primitive. A sliver of metal and polymer, almost obscene in its simplicity.
+
+An actual needle.
+
+He yanked it free.
+
+A droplet of clear fluid clung to the tip.
+
+Then sensation changed.
+
+Not pain. Not exactly.
+
+A spreading heaviness moved through his arm, too fast to be panic and too specific to be imagination. His fingers lost confidence first. Then his wrist. Something in the connection between thought and movement began to fray.
+
+“No,” he said, and heard how thin the word sounded.
+
+His medical education was not Elara’s. It did not need to be.
+
+He knew enough.
+
+Neuromuscular blockade.
+
+The idea arrived whole and cold.
+
+His hand opened involuntarily. The dart fell into the leaves.
+
+He tried to run and discovered that running now belonged to a version of his body that had stopped existing a few seconds ago. His legs answered late, then badly, then not at all. He stumbled sideways off the trail, caught himself against a tree, and felt even that grip beginning to dissolve.
+
+Vecuronium, he thought wildly. Rocuronium. Something like them.
+
+But even as the comparison came, he knew it was incomplete.
+
+His vision blurred at the edges. A dull warmth rolled under his skin. His thoughts, though still sharp, had begun to acquire distance from themselves.
+
+A pure paralytic would not do that.
+
+So there was something else in the dart. A sedative. More than one, perhaps. Enough to quiet the mind before the body could fully understand what had been done to it.
+
+His knees folded.
+
+The forest pitched sideways.
+
+He hit the ground hard enough to drive air from his lungs, then found he could not properly draw it back in. His chest still moved, but with strange reluctance, as though the instruction had to travel through water before reaching muscle.
+
+He tried to roll, to crawl, to do anything that could still be mistaken for agency.
+
+Nothing obeyed.
+
+The hum of drones thickened above him. One passed low enough that he saw a flicker of polished metal through the branches.
+
+Then came footsteps.
+
+Heavy. Measured. Close.
+
+Boots on damp soil.
+
+His heart slammed against his ribs.
+
+Move, he told himself.
+
+Move.
+
+Move.
+
+A dark pair of boots entered the lower edge of his vision.
+
+Someone crouched beside him.
+
+A shadow fell across his face. He tried to turn toward it and managed only the smallest tremor in his jaw. The sedative was heavier now, moving through him in warm, efficient waves. The world was narrowing by degrees.
+
+Somewhere above him, very near, a voice said, “Acquisition confirmed.”
+
+Not quite human.
+
+Not entirely machine either.
+
+That was the last distinction he had time to make before darkness closed over him.
+
+## Chapter 10: The Trail
+
+Elara woke to an empty bed.
+
+For several seconds she only lay there, blinking up at the pale unfamiliar ceiling while her mind assembled the room around her. The cabin was quiet in the soft, ordinary way of early morning. Grey light pressed through the curtains. Somewhere outside, birds called to one another across the trees.
+
+Then memory returned.
+
+Edgewood.
+
+The cabin.
+
+Marek.
+
+She turned toward the other side of the bed.
+
+Empty.
+
+The blanket there had been pushed back and cooled. The chair near the wall no longer held the clothes he had folded over it the night before.
+
+A run, she thought, and felt the faintest tug of amusement.
+
+Of course.
+
+Marek loved running. He said it helped him think. Elara had informed him, more than once, that any activity built around deliberate oxygen debt ought to qualify as a low-grade psychiatric concern. He had found this disproportionately funny.
+
+She pulled on a sweater and wandered barefoot into the main room. The cabin still smelled faintly of woodsmoke. A few coals glowed behind the hearth grate. Sunlight had begun filtering through the trees beyond the window, laying pale gold across the floorboards.
+
+Everything looked perfectly normal.
+
+She stepped onto the porch.
+
+“Marek?”
+
+Only birds answered.
+
+The pod sat where they had left it. Beyond it, the forest held itself in that immaculate morning stillness that always seemed, from a distance, like peace.
+
+She went back inside.
+
+Coffee first, she thought.
+
+Then concern.
+
+Forty minutes later, concern had become something harder.
+
+The coffee sat untouched beside her. Breakfast cooled on the table. By now Marek should have returned flushed and hungry, pretending not to be starving while eating enough for three people.
+
+Instead the cabin remained empty.
+
+Elara checked the time again.
+
+Too long.
+
+Not yet long enough to justify panic. Long enough, certainly, for it to begin pressing upward from beneath her ribs.
+
+She stood at the window and scanned the path beyond the clearing.
+
+Nothing.
+
+The same trees. The same light. The same absence.
+
+Twenty minutes later she stopped pretending patience was virtuous.
+
+The trail behind the cabin forked after several hundred yards. One branch widened gradually and eventually rejoined the main access route serving the holiday cabins. The other narrowed at once, slipping deeper into the woods between boulders and old root systems.
+
+Marek would choose the second path every time.
+
+So did she.
+
+The morning had turned colder than it looked. She walked quickly at first, then faster, calling his name at intervals.
+
+“Marek!”
+
+The forest took the sound and gave back nothing.
+
+The trail twisted through pine shadow and sudden patches of sun. Her unease kept growing, gathering force from its own persistence. A wrongness had entered the day and would not leave.
+
+“Marek!”
+
+Still nothing.
+
+She rounded a bend between two outcrops of stone and saw something dark on the ground beyond them.
+
+For half a second her mind refused the image.
+
+Then she ran.
+
+He was lying beside the trail on his back, one arm flung wide, boots skewed at an angle no conscious body would choose. A black utility pack had been strapped tightly across his shoulders and chest.
+
+The sight of it hit her almost as hard as the sight of him.
+
+It was not his.
+
+She knew that instantly, with the total bodily certainty of someone who had packed with him, slept beside him, watched him leave the cabin that morning with nothing but running clothes and a jacket.
+
+The thought barely had time to land.
+
+“Marek.”
+
+His face was paper-pale. His lips were tinged blue. Vomit stained the front of his shirt and the ground beside him. His eyes were half-open beneath heavy lids, pupils reduced to pinpoints so small they looked drawn there.
+
+Elara dropped to her knees.
+
+“Marek.” Louder now. “Marek, can you hear me?”
+
+No response.
+
+Her fingers went to his carotid artery.
+
+Pulse.
+
+Weak. Threadlike. Present.
+
+Barely.
+
+Her mind began assembling the pattern even while something more primitive inside her tried to reject it.
+
+Severe respiratory depression.
+
+Miosis.
+
+Cyanosis.
+
+Vomiting.
+
+Reduced consciousness.
+
+A toxidrome so familiar it should have arrived at once with its name attached. But this was Marek. Her brain kept catching on that fact like a torn edge on metal.
+
+His chest rose once in a shallow drag of air.
+
+Then stopped.
+
+She moved instantly.
+
+She tilted his head, cleared his mouth as best she could with shaking fingers, rolled him just enough to drain what remained of the vomit, then repositioned him flat. She sealed her mouth over his and gave the first rescue breath.
+
+His chest rose.
+
+Again.
+
+A second breath.
+
+No waking. No movement. Only that terrible near-absence where consciousness should have been.
+
+She slapped her Lifeband awake so hard it hurt.
+
+The dead screen flared to life.
+
+Emergency override activated.
+
+Holiday blackout terminated.
+
+The icon for direct emergency medical response pulsed red. She hit it.
+
+“Medical emergency,” she said, and heard her own voice breaking into pieces she did not recognise.
+
+“Location acquired,” the system replied.
+
+“Adult male, unconscious, severe respiratory compromise, unresponsive—”
+
+She checked his pulse again.
+
+Still there.
+
+Still weak.
+
+She breathed for him once more, watching his chest rise under her hands.
+
+“Possible overdose,” she said. “Apnoeic episodes. Immediate support required.”
+
+“Emergency response activated. Estimated arrival: one minute, eighteen seconds.”
+
+It should have been reassuring. Instead it felt impossible.
+
+She kept ventilating him. Count. Breath. Count. Breath.
+
+At some point his pulse slipped further under her fingertips, threatening to disappear entirely. She began compressions then, the transition automatic and horrifying, the heel of her hand striking the centre of his chest with the rhythm training had burned into her years ago.
+
+This is not a patient, some stripped, useless part of her mind kept saying.
+
+This is Marek.
+
+“Come on,” she whispered, then louder, “Come on.”
+
+A hum rose through the trees.
+
+For one mad second she thought the medical pod was somehow approaching through the canopy.
+
+It wasn’t.
+
+A hover bike dropped into the trail ahead of her and settled with perfect control on the packed earth.
+
+Black armour.
+
+Dark visor.
+
+One hand resting lightly on the holstered sidearm.
+
+Compliance.
+
+The same type of officer who had stopped them on the road. Possibly the same officer. The armour made individuality feel irrelevant.
+
+The figure dismounted and said nothing.
+
+Just watched.
+
+Elara did not stop compressions. “Help him.”
+
+No answer.
+
+The officer remained where it was, helmet angled toward the scene with machine patience.
+
+Then the second sound came—louder, faster, metallic in a different register. A silver emergency pod broke through the open corridor above the trail and dropped into the clearing beyond the bike. Its doors were already opening before it settled fully.
+
+Two Critical Response Specialists jumped down. In Arc’s less formal dialect, people called them Lifers.
+
+One knelt beside Marek at once while the other pressed a circular transdermal scanner against the side of his neck.
+
+Data bloomed above the device in shifting lines of light.
+
+The first specialist frowned. “Respiratory suppression severe.”
+
+The second looked up sharply. “Narcotic profile present.”
+
+Elara stared. “What?”
+
+The scanner updated again, biochemical overlays layering over the first set of results.
+
+“Black Lotus analogue,” the specialist said, then corrected himself as more data arrived. “Black Lotus derivative with adjunct neuromuscular suppressants.”
+
+For a second the words meant nothing.
+
+Then too much.
+
+Black Lotus.
+
+One of the most lethal synthetic narcotics in circulation. Rare. Expensive. Addictive enough to destroy a life with obscene efficiency, and illegal enough to bring Civic Integrity down on anyone found within touching distance of it.
+
+The specialist had already produced a compact emergency injector no larger than a thumb. He pressed it against Marek’s shoulder.
+
+A soft hiss.
+
+Lotexin entered through the skin.
+
+Everyone waited.
+
+The forest seemed to contract around that pause.
+
+Then Marek’s body arched with a harsh, desperate breath. Air tore into him. Another followed. Then another, ragged and greedy. The blue at his lips began to recede by degrees.
+
+The specialists moved quickly, checking vitals, supporting airway, stabilising him for transport.
+
+One of them glanced at Elara. “Previous use?”
+
+She looked at him as if he had spoken in a dead language. “What?”
+
+“Has he used before?”
+
+“No.”
+
+“Black Lotus.”
+
+“He doesn’t use drugs.” The answer came without hesitation because there was no hesitation inside it. “He never has.”
+
+The specialist did not argue.
+
+He only pointed to the pack strapped onto Marek.
+
+“Then what’s that?”
+
+Elara turned.
+
+The compliance officer stepped forward for the first time.
+
+The backpack was unbuckled and opened. Its contents spilled onto the trail in an orderly, obscene little display: injector cartridges, sealed crystalline packets, inhalation tubes, chemical prep modules, storage vials, distribution sleeves. Far too much for private use. Enough to imply a supply chain.
+
+For one impossible moment Elara could only stare.
+
+The items looked alien even while they sat there in plain view.
+
+Not because they were unfamiliar in theory. Because they had been arranged so deliberately into the shape of a story.
+
+This is not his, she thought.
+
+The sentence ran through her again and again, unable to become sound.
+
+One of the Lifers activated the transport pod stretcher. Marek was lifted aboard, still unconscious but breathing now, colour beginning the slow work of returning to his face.
+
+The doors sealed.
+
+The pod rose almost immediately, silver hull vanishing upward through the trees on a direct return vector to Arc.
+
+Elara stood in the trail and watched it go until it was no longer visible.
+
+Only then did she become aware that the compliance officer was still there.
+
+Motionless.
+
+Observing.
+
+Waiting.
+
+The forest had gone quiet again.
+
+Elara looked down at the scattered narcotics, the opened pack, the place Marek had lain.
+
+The roadside stop.
+
+The cabin search.
+
+The shadow at the window.
+
+The timing.
+
+The impossible neatness of all of it.
+
+This had been arranged.
+
+And whoever had arranged it was not finished.
+
+## Chapter 11: Civic Integrity
+
+The Office of Civic Integrity occupied a polished tower several kilometres from Nexus Somatica, in a district where glass and authority had been layered together until each looked like a natural extension of the other.
+
+Most citizens called it the OCI.
+
+Officially, the building housed compliance review, public safety investigation, criminal enquiries, and the endless legal machinery required to maintain the fiction that human judgment still sat at the centre of law. In another century it would simply have been called police headquarters.
+
+Now, as in medicine, most of the thinking was performed elsewhere.
+
+AI triaged cases. AI assembled evidence. AI recommended charges, sequencing, risk, probable outcomes. Human investigators still existed because the Constitution required that they exist, and because a system built entirely of machines frightened the public more than a system built mostly of machines.
+
+Elara needed a human investigator so badly that by the time the transport pod left her at the OCI entrance, the need had begun to feel physical.
+
+Marek’s face would not leave her.
+
+The blue at his lips. The shallow rise of his chest. The black pack she had never seen before. The paraphernalia on the trail. The compliance officer watching her with that helmeted stillness while the emergency pod carried Marek away.
+
+A receptionist AI guided her through a sequence of quiet corridors so clean they seemed designed less for use than for persuasion. Doors opened. Closed. Opened again. Finally she was deposited in an interview room that looked almost comfortable in a way she distrusted immediately.
+
+There was a window overlooking Arc. Two chairs facing each other. A desk in one corner. A coffee unit humming against the wall.
+
+Several minutes passed.
+
+Then the door opened and Investigator Kane Mercer came in.
+
+He looked older than most officials Elara dealt with—mid-sixties, perhaps, broad-shouldered under a suit jacket that fit him well enough to suggest he did not care whether it fit better. His face was weathered rather than cultivated, his nose crooked from an old break, his hair a practical grey. He carried a tablet under one arm and wore the kind of expression that implied he had spent a long career learning how little he liked being lied to.
+
+“Dr. Elara Voss?” he said.
+
+“Yes.”
+
+He crossed the room, set the tablet down, and held out a hand. “Investigator Kane Mercer.”
+
+She shook it.
+
+His grip was dry, firm, unmistakably human.
+
+Some small part of her relaxed in response before she could stop it.
+
+Mercer glanced toward the coffee unit. “Coffee?”
+
+“No, thank you.”
+
+“Smart.” He took the other chair. “It tastes like filtered disappointment.”
+
+Despite everything, the corner of her mouth almost moved.
+
+Mercer noticed. He noticed everything.
+
+“Before we begin,” he said, waking the tablet, “this is not, at present, a criminal interview.”
+
+“At present?”
+
+“At present.”
+
+He sat back. “Narcotics investigations tend to evolve.”
+
+The sentence stayed between them a moment.
+
+Mercer read the screen. “You and Marek Sollow were on licensed blackout leave in Edgewood Fringe.”
+
+“Yes.”
+
+“Perfectly legal.”
+
+“So I was told.”
+
+He gave the faintest shrug. “The advertising oversells the peace, but the permit was valid.”
+
+His eyes returned to the tablet. “Black Lotus possession carries significant penalties.”
+
+“I know.”
+
+“Distribution carries more.”
+
+“I know.”
+
+“All right.” He looked up. “Tell me about Marek Sollow.”
+
+The question caught her off guard by its plainness.
+
+“What about him?”
+
+“You’ve been together three years.”
+
+“Almost.”
+
+“You share a residence.”
+
+“Yes.”
+
+“Any history of substance use?”
+
+“No.”
+
+“Recreational?”
+
+“No.”
+
+“Experimental?”
+
+“No.”
+
+“Curiosity, even?”
+
+“No.”
+
+“He ever discuss Black Lotus?”
+
+“No.”
+
+“He ever possess it?”
+
+“No.”
+
+“He ever use it?”
+
+“No.”
+
+Mercer studied her face for a while with an expression that was not exactly suspicion. Thoughtfulness, perhaps. The slow methodical attention of a man who preferred to reach conclusions himself and resented being asked to borrow them from a machine.
+
+He looked back down.
+
+Several seconds passed.
+
+Then he frowned.
+
+“That’s odd.”
+
+Elara leaned forward before she meant to. “What?”
+
+He rotated the tablet a few degrees, enough to let her see lines of report text without truly sharing the document. “The cabin search.”
+
+“What about it?”
+
+“No trace.”
+
+The words took a moment to register. “No trace of what?”
+
+“Anything.” He scrolled. “Cabin interior clear. Pod interior clear. Environmental scan clear.”
+
+He tapped one line with a blunt finger. “Residue detection negative.”
+
+Her pulse climbed. “What does that mean?”
+
+“It means our systems are absurdly sensitive.” He kept scrolling. “Particle mapping, biochemical drift, storage trace, contact residue. If someone keeps narcotics in a vehicle or residence for any meaningful period, we usually know about it.”
+
+Usually.
+
+Mercer’s brow tightened again. “And then there’s the roadside stop.”
+
+Elara felt the memory return whole—the black hover bike, the drone pausing over the cookbook, the officer’s hand on the weapon.
+
+“What about it?”
+
+He read silently for another moment. “Not impossible,” he said. “But unusual.”
+
+“How unusual?”
+
+“Fringe corridor patrols don’t generally conduct discretionary interdictions without upstream cause.”
+
+“But they can.”
+
+“They can.” He looked up. “Nothing technically improper. Which is one of the more irritating ways for something to be wrong.”
+
+The old-school irritation in his voice was unmistakable now. It sharpened him, made him seem older in a way she found oddly reassuring.
+
+He set the tablet flat on the table. “Tell me about the backpack.”
+
+“I’ve never seen it before.”
+
+“Never?”
+
+“Never.”
+
+“It wasn’t yours.”
+
+“No.”
+
+“He never mentioned owning one.”
+
+“No.”
+
+“He didn’t leave the cabin with it?”
+
+“No. He left for a run.”
+
+Mercer watched her for a few beats, then nodded once, as if filing a problem rather than resolving one.
+
+“All right,” he said. “We’ll do this properly.”
+
+Something in the room altered.
+
+“Properly?” Elara asked.
+
+“There’s a verification step. Standard when testimonial account and physical evidence diverge this sharply.”
+
+He touched his wristband. A hidden wall seam opened and a device rolled quietly into the room.
+
+It bore no resemblance to the brutal little machines popular culture still imagined under the word lie detector. There were no wires, no restraints, no metal theatrics. Just a narrow chair and a hovering ring of pale polymer segments that arranged themselves at head height like a surgical halo.
+
+Mercer saw her looking. “They stopped calling it a polygraph decades ago. People distrusted anything with graph in the title.”
+
+“What is it?”
+
+He hesitated for a fraction of a second. “Sympathetic Resonance Array. SRA for short.”
+
+“That sounds worse.”
+
+“It’s more honest,” he said. “It reads catecholamine response, micro-sweat chemistry, pupil variance, ocular micro-saccades, cortical timing delays in speech formation. Stress, essentially. And what stress does when language begins leaving things out.”
+
+Elara remained still.
+
+Mercer’s expression softened by one degree, which on his face counted as generosity. “You are not under arrest,” he said. “This is voluntary.”
+
+“That’s what everyone says before it isn’t.”
+
+A faint flicker crossed his features—approval, perhaps, or recognition. “Fair enough.”
+
+She took the chair.
+
+The ring drifted into place around her head without touching skin. Cool light moved once across her eyes, then again.
+
+“Baseline acquisition initiated,” said the system.
+
+Mercer stepped back and folded his arms. “Think about something neutral.”
+
+“Like what?”
+
+“Weather. Music. The criminal design of government coffee.”
+
+That almost drew something from her.
+
+The array pulsed softly. Mercer watched the tablet as values settled.
+
+“Begin,” he said.
+
+The questions repeated with machine patience.
+
+Marek Sollow.
+
+Three years.
+
+No Black Lotus.
+
+No prior possession.
+
+No backpack.
+
+No knowledge of any narcotics in the cabin or pod.
+
+Each answer left her cleanly. She did not have to shape them or protect them. The truth, at least, required no engineering.
+
+Mercer’s expression shifted only once, subtly, as the live feed updated. Not surprise. More like irritation at having a suspicion inconvenienced.
+
+At last the array chimed.
+
+“Integrity convergence achieved.”
+
+The ring dimmed and lifted away.
+
+Mercer studied the readout longer than necessary.
+
+“Well,” he said.
+
+Elara realised her hands were clenched together in her lap. “Well what?”
+
+“You’re clean.”
+
+He did not sound relieved. He sounded as though the world had failed to simplify itself when asked.
+
+“That isn’t what you expected,” she said.
+
+“No.” He shut the tablet off, then reopened it immediately. “It isn’t.”
+
+She stood. “Neither is any of this.”
+
+Mercer nodded. “Still leaves me with a discrepancy.”
+
+“There is no discrepancy,” she said, sharper now. “There is what happened and whatever was built around it afterward.”
+
+“I know,” he said.
+
+The speed of the answer stopped her.
+
+He corrected himself by a degree. “Or at least I know you believe that.”
+
+Her anger flickered, destabilised by the fact that he was not dismissing her, only refusing to leap where the evidence had not yet followed.
+
+“What happens now?” she asked.
+
+“We talk to Marek Sollow when he is medically fit to be interviewed.”
+
+“And if he says the same thing?”
+
+Mercer gave a brief half-smile that did not reach his eyes. “Then I start considering the possibility that the universe is even less well governed than I already suspected.”
+
+She stared at him.
+
+He looked toward the dark band on her wrist, then briefly at his own. The exchange was tiny, almost nothing, but she felt the meaning in it all the same.
+
+Be careful what you say in monitored rooms.
+
+“You can go for now,” he said.
+
+“For now.”
+
+“For now,” he repeated.
+
+Elara left the interview room with no more clarity than she had entered it, only a sharpened sense that confusion itself might now be one of the tools being used against her.
+
+Mercer remained where he was long after the door sealed.
+
+He reopened the reports one by one.
+
+Cabin clear.
+
+Pod clear.
+
+Environmental residue negative.
+
+Roadside compliance stop confirmed.
+
+He lingered on that last entry.
+
+RoboCivil Interdiction Unit — field stop confirmed: clean pass.
+
+The wording was correct. The authorisations were clean. The sequence looked lawful from a sufficient distance.
+
+And yet the stop should not have existed without an upstream flag.
+
+There was no upstream flag.
+
+Officially.
+
+Mercer leaned back and looked out through the window. The district spread away beneath him in ordered layers of glass, transit, and regulation, clean enough to appear virtuous. On the horizon, dominating the skyline by sheer civic confidence, stood Nexus Somatica.
+
+Not simply a hospital.
+
+A civic organ.
+
+A place where biology, memory, and compliance had become so tightly interwoven that most people no longer bothered distinguishing them.
+
+Mercer watched it for a long time.
+
+He had spent most of his career being told that AI did not lie, did not err except within acceptable margins, did not act outside the parameters assigned to it. He had also spent most of his career discovering that the most dangerous systems were never the ones that malfunctioned.
+
+They were the ones that functioned exactly as designed while everyone else misunderstood the design.
+
+“AI doesn’t make mistakes,” he said quietly to the empty room.
+
+Then, after a pause:
+
+“It decides what counts as evidence.”
