@@ -1231,3 +1231,993 @@ Somewhere above her, below her, and all around her, Arc continued its endless wo
 For the first time in years, Elara was no longer certain whether she still lived inside a system designed to save lives.
 
 Or inside one that had learned how to decide which lives were worth saving at all.
+
+## Chapter 5: Edgewood Fringe
+
+They left for Edgewood three days later.
+
+The pod slipped free of Arc’s aerial transit lattice just after sunrise, dropping out of the silver traffic streams that threaded the towers together like surgical sutures pulled through the sky. For a few brief minutes, before the lower atmosphere thickened with haze and distance, New York Arcology looked almost beautiful. The city rose in stacked radiance from the landscape, vast and mathematically serene, its antigravity lanes glowing between structures of glass, composite, and light. Tens of thousands of vehicles moved in perfect coordination.
+
+No collisions. No hesitation. No human error.
+
+The old mortality statistics still appeared occasionally in historical medicine modules—hundreds of thousands dead each year in transport incidents alone, whole surgical disciplines once built around repairing bodies broken by speed and bad judgment. Younger physicians tended to regard the numbers with the same disbelief reserved for plague paintings and battlefield amputations.
+
+Human beings driving themselves had become one of history’s less forgivable habits.
+
+As the pod descended toward the surface road, Arc began to fall away behind them. Steel yielded to elevation. Elevation yielded to trees.
+
+Edgewood Fringe sat beyond the recreational ring, where civic order thinned into protected woodland and then into what official planning documents called ecological heritage buffering. Most people used the older, less obedient word.
+
+Outside.
+
+Marek sat with one arm braced against the window, watching the forest gather around the road. “I always forget how much space there is out here.”
+
+“That’s because you live in a city of forty-three million people,” Elara said.
+
+“Forty-three million, seven hundred thousand.”
+
+She looked at him. “That is somehow worse.”
+
+He smiled. “Precision matters.”
+
+“Not in conversation.”
+
+The pod moved soundlessly beneath them, sensors reading road temperature, wind shear, wildlife movement, soil drift, and a thousand other variables no passenger ever needed to consider. Somewhere behind its polished surfaces, manual controls still existed. Few citizens ever saw them. Fewer still held legal authority to use them.
+
+Marek stretched his legs. “My grandfather used to tell me people bought cars because they liked them.”
+
+Elara turned from the window. “No.”
+
+“He was adamant.”
+
+“He was lying to you for sport.”
+
+“He also claimed people washed them by hand.”
+
+“That is not helping his credibility.”
+
+A laugh escaped him. It did not last long, but it lingered in the cabin after the sound itself was gone.
+
+Elara reached into her bag and drew out a parcel wrapped carefully in soft cloth.
+
+Marek saw it and sat up straighter. “You brought the book.”
+
+“I brought the book.”
+
+She unwrapped it with the care of someone handling both an object and a lineage. The cookbook was old enough to feel nearly illicit: leather cover worn smooth, spine repaired more than once, margins populated by generations of handwriting layered over one another like a family argument conducted across decades. Physical books still existed in Arc, of course. Technical manuals. Legal records. Medical texts manufactured in ceremonial runs for universities and archives.
+
+This was something else.
+
+This had been used.
+
+Marek shook his head in admiration. “One day somebody’s going to report you for possession of dangerous historical material.”
+
+“They can try.”
+
+“You love that thing more than me.”
+
+“I’ve had it longer.”
+
+He accepted the wound with dignity. “Fair.”
+
+When she opened it, the faint scent of paper and age moved through the pod like something smuggled across a border. A note in one narrow margin made her smile before she had even reached the recipe it amended.
+
+More garlic than this. Always more garlic.
+
+Her grandmother’s hand. Firm, slanted, impatient with moderation.
+
+Marek noticed her expression soften. “I like that look.”
+
+“What look?”
+
+“The one you get when you forget to be monitored.”
+
+She glanced up at him. “I don’t forget.”
+
+“No,” he said. “I know.”
+
+The pod rounded a long bend through the trees.
+
+A warning tone sounded.
+
+Both of them looked up.
+
+The panel above the windshield brightened.
+
+Compliance interdiction unit approaching.
+
+Elara felt her stomach tighten at once.
+
+“That’s unusual,” Marek said.
+
+It was more than unusual. Compliance rarely operated this far from the centre except in coordinated sweeps or response actions. Holiday traffic to Edgewood was monitored, logged, optimised, taxed, and generally left alone.
+
+The pod was already decelerating.
+
+Ahead, something black and angular descended through the trees with controlled, predatory grace. A hover bike settled onto the road directly in their path. Its rider dismounted in one seamless motion.
+
+Even at a distance, the figure was difficult to read as fully human. The body was sealed inside black composite armour layered over a lightweight internal frame, more exoskeleton than uniform, designed for speed and ballistic resistance rather than comfort. The helmet showed no face at all, only a narrow strip of pale text moving across a darkened visor. One gloved hand rested lightly on the holstered sidearm at the hip.
+
+Not threatening.
+
+Not relaxed.
+
+Ready.
+
+The pod unlocked with a soft internal click.
+
+“Exit vehicle,” the officer said.
+
+The voice was worse than the weapon. Flat. Careful. Almost tonally identical to Aesculon, as if law enforcement had discovered that removing ordinary human emphasis made authority feel cleaner.
+
+Elara and Marek exchanged a glance and stepped out.
+
+The air beyond the pod was colder than she had expected. It smelled of damp bark and mineral soil and something older than the city behind them. It should have been calming. It wasn’t.
+
+The officer remained motionless.
+
+“Citizen identities confirmed,” the voice said. “Holiday blackout protocols pending activation at boundary crossing.”
+
+“Correct,” Elara said.
+
+The display on the helmet flickered. The hand did not leave the weapon.
+
+A compartment opened on the side of the bike. A small silver drone lifted into the air, two convex metallic surfaces joined like a floating lens. It crossed to the pod and slipped inside through the open door with insect precision.
+
+They watched it search.
+
+Bags. Food storage. Cabin supplies. Clothing. Secondary compartments. The drone moved without haste, lingering nowhere long enough to appear interested. Which was what made the single pause so obvious when it occurred.
+
+It hovered over Elara’s cookbook.
+
+Not long. Only a beat.
+
+Then it moved on.
+
+Marek saw it too. She knew he had because his shoulders changed, very slightly, beside her.
+
+Minutes passed.
+
+At last the drone returned to the bike. The officer stood as if bolted into the road.
+
+“No contraband detected,” the voice said.
+
+Silence followed.
+
+Then: “Continue travel.”
+
+That was all.
+
+No explanation. No apology. No justification for the stop.
+
+The rider mounted the bike and rose through the trees in a clean vertical line, vanishing almost at once.
+
+Marek released a breath. “I hate them.”
+
+“So do I,” Elara said.
+
+They climbed back into the pod. The doors sealed. The system eased them forward and the road resumed beneath them as if nothing had happened.
+
+But something had.
+
+The forest seemed less empty now. Or perhaps less innocent.
+
+They crossed the boundary line forty minutes later.
+
+Her Lifeband dimmed at once.
+
+Blackout active: 24 hours.
+
+The message should have felt like relief. Instead it landed with the weight of a clause in a contract whose language she had not read closely enough.
+
+The cabin stood in a clearing above a long slope of pines and mixed hardwood, modest in scale and almost studiously restrained: timber, stone, heat-efficient glass, everything engineered to suggest a kind of principled simplicity. No visible sensors. No active projection fields. No gentle ambient prompts issuing from the walls.
+
+Arc did not disappear here. It merely became better at pretending.
+
+Marek dropped his bag inside with the baffled delight of a man who had half expected the booking to vanish before they arrived. “It actually feels quiet.”
+
+“That’s because it is,” Elara said.
+
+He turned slowly in the open main room. “No system hum. No low-grade processing noise. No—”
+
+“Don’t catalogue the absence too loudly,” she said, closing the door behind them. “It may take offense.”
+
+He smiled. “You’re joking.”
+
+“I’m not certain I am.”
+
+That quieted him.
+
+Through the broad front window, the forest climbed toward a distant change in elevation. Far beyond the trees, if you knew precisely where to look, you could still catch the faint curvature of Arc’s atmospheric shielding shimmering against the sky.
+
+Marek set groceries on the counter. “Twenty-four hours of legal invisibility.”
+
+“Reduced observability,” Elara corrected. “Let’s not romanticise the terms of use.”
+
+“That is a depressing way to describe a holiday.”
+
+“It is the most honest one.”
+
+He watched her as she moved to the window. “You relax like someone expecting a system failure.”
+
+“I don’t relax.”
+
+“That is also not comforting.”
+
+She looked out at the trees instead of answering.
+
+For a while they simply stood in the hush of the cabin, listening to wind move through branches without translation. There was no biofeedback panel drifting in the corner of her vision, no reminder to hydrate, no invisible algorithm assigning interpretive weight to the silence between them.
+
+It should have felt like freedom.
+
+Instead it felt provisional.
+
+Marek was the one who broke the stillness. “Halden talked to you about the trials.”
+
+Elara did not turn. “Yes.”
+
+“The Convergence Trials,” he said, as if the more formal name might somehow make them less obscene.
+
+“Yes.”
+
+He leaned back against the counter. “Mount Fuji site. I’ve been reading about it.”
+
+“That is not reassuring.”
+
+“It’s not meant to be.”
+
+She faced him then. He had the good sense not to smile.
+
+“They say the facility is built like an arena,” he said. “Controlled trauma environments. Live cases. Real interventions. Public scoring.”
+
+“That’s the structure.”
+
+“And the AI always wins.”
+
+She held his gaze. “Statistically.”
+
+“Consistently,” he said.
+
+The correction landed harder than she wanted it to.
+
+He went on more quietly. “There are stories, Elara.”
+
+“There are always stories.”
+
+“They say some physicians don’t come back the same.”
+
+“That’s rumour.”
+
+“They also say some don’t come back at all.”
+
+The cabin gave them back nothing. Not reassurance. Not contradiction.
+
+Outside, the trees kept moving in the wind with the complete indifference of living things that had never once cared about surveillance architectures or institutional mythology.
+
+Elara let out a slow breath. “I was told I may be nominated.”
+
+Marek straightened. “You?”
+
+“Yes.”
+
+He stared at her for a second, then gave a short, humourless exhale. “Of course you were.”
+
+“My metrics have become… visible.”
+
+“That is one way to say it.”
+
+“They want consent in advance.”
+
+“And if you’re selected?”
+
+She looked down at the floorboards, then back at him. “I don’t know.”
+
+The honesty hurt him more than refusal would have. She saw it immediately.
+
+He looked away first, toward the trees.
+
+When he turned back, something in him had settled into decision. “You can take a support physician.”
+
+She frowned. “What?”
+
+“It’s part of the programme architecture. One accompanying clinical support participant. Observer, assistant, officially useful witness.”
+
+“You really have been reading.”
+
+“I told you. I hear things.”
+
+He hesitated only once. “I’d go with you.”
+
+Elara said nothing.
+
+He stepped closer. “You don’t even know what you’re agreeing to,” she said at last.
+
+“Neither do you.”
+
+It was impossible to argue with that and remain honest.
+
+He kept going. “They call it a competition, but the point is demonstration. Proof of supremacy. Proof that human judgment remains decorative.”
+
+“It’s not a game.”
+
+“It’s treated like one.”
+
+She crossed her arms, not out of defiance but containment. “That doesn’t make it one.”
+
+Marek lowered his voice. “Then there’s the other thing.”
+
+She knew what he meant before he said it.
+
+“The physicians who get too close.”
+
+Her jaw hardened. “That’s not a formal category.”
+
+“It doesn’t need to be if enough people understand it anyway.”
+
+He watched her carefully. “They say the system doesn’t like perfect comparisons. That anyone who narrows the gap too publicly starts to complicate the narrative.”
+
+She wanted to tell him he was being paranoid. She wanted to tell him rumours multiplied in any society built on inaccessible systems and unequal information. She wanted, briefly and fiercely, to believe those things herself.
+
+Instead she heard Halden’s voice again: Exceptional results attract attention.
+
+Not all of it is supportive.
+
+“You don’t have to say yes,” he said.
+
+Elara laughed once under her breath. There was no humour in it. “It wasn’t presented as a meaningful choice.”
+
+He absorbed that without argument.
+
+Then he said, “If you go, I’m going.”
+
+She looked up. “You’re not a physician.”
+
+“No,” he said. “But I’m also not staying behind while you walk into something built to decide whether you should exist.”
+
+The words landed between them with a force she felt in the centre of her chest.
+
+“You shouldn’t say things like that out loud,” she said.
+
+“No one’s listening.”
+
+Elara looked at the dark band on her wrist.
+
+She did not answer.
+
+## Chapter 6: Blackout
+
+By evening the cabin had warmed into itself.
+
+A real fire burned in the stone hearth, logs shifting and cracking behind the mesh guard as they surrendered slowly to flame. Elara found herself glancing at it every few minutes with the distracted fascination of someone encountering an old technology in its native habitat. Fire inside Arc was instructional, ceremonial, tightly regulated. Here it breathed, burned, consumed, and gave off heat with no algorithm making a performance report about the experience.
+
+She stood in the kitchen with her sleeves rolled up, a wooden spoon in one hand and her grandmother’s cookbook open on the counter. Osso buco simmered in a heavy pot with tomatoes, wine, stock, citrus, and more garlic than the printed recipe had ever intended. The cabin filled with the smell of onion softening in fat, marrow melting into sauce, herbs releasing themselves to heat.
+
+It smelled like a place people once lived in on purpose.
+
+Marek sat near the hearth with the cookbook on his knees. He had taken it from her after they unpacked and had not stopped turning its pages since.
+
+“You’re reading a recipe book as if it contains state secrets,” Elara said.
+
+“It does,” he said. “These people are smiling.”
+
+She looked over. “That’s your shocking discovery?”
+
+“It is when it’s inside a book.”
+
+He held up one of the illustrated pages. A family crowded around a table under a haze of flour. One child had somehow managed to coat himself almost entirely in dough. The adults were laughing. Nothing about the image was tidy. Nothing about it appeared optimised.
+
+Marek frowned, genuinely perplexed. “Nobody smiles in manuals.”
+
+“This isn’t a manual.”
+
+“It tells you what to do.”
+
+“It tells you how to make dinner.”
+
+“That still sounds like a manual.”
+
+She pointed the spoon at him. “A manual tells you how to complete a task. That book tells you how to live while you’re doing it.”
+
+He considered that, then smiled. “That is either beautiful or completely unhinged.”
+
+“Those are not mutually exclusive states.”
+
+He kept turning pages. Couples dancing in kitchens. Children helping grandparents knead dough. Relatives packed shoulder to shoulder around tables that looked too small for all of them. The book was full of bodies occupying space without apology. Touch. Noise. Disorder. Delight.
+
+Marek traced one of the faded drawings with a fingertip just above the paper. “I’ve never seen anything like this.”
+
+Not because such scenes had never existed, Elara thought, but because the systems governing their lives no longer considered them useful enough to reproduce.
+
+The display panel on the wall flickered on a few minutes later when Marek picked up the remote. The screen itself felt quaint: a solid plane of glasssteel mounted opposite the hearth, physical where most entertainment had long ago dissolved into retinal overlays and projection fields.
+
+“Anything worth watching?” he asked.
+
+“No.”
+
+“That answer lacks optimism.”
+
+“It also happens to be accurate.”
+
+He cycled through channels. State news. State news presented with a warmer colour palette. Economic summaries. Agricultural reports. Infrastructure documentaries narrated in tones of civic reverence. Educational programming so carefully neutral it acquired its own coercive edge.
+
+Marek stared at the fourth presenter in a row explaining the success of interregional ration harmonisation and sighed. “The empire of excitement.”
+
+“Keep going.”
+
+Eventually he landed on Gridiron Prime. Armoured athletes in powered exosuits launched themselves across an illuminated field, antigravity boosters turning ordinary collisions into airborne violence. A runner vaulted an energy barrier in a clean fifteen-metre arc while the crowd detonated in sound.
+
+Marek watched for three seconds. “I still don’t understand the rules.”
+
+“Neither do most of the audience.”
+
+“That is reassuring.”
+
+“Not really.”
+
+He flipped to Velocity, the old global game transformed by kinetic-assist suits and fields too large for unenhanced bodies. Then Hypercourt, where reactive floors and acceleration rigs had turned tennis into something closer to weaponised geometry. He switched the display off.
+
+“Honestly,” he said, “I prefer the fire.”
+
+The room accepted the dark gratefully.
+
+Dinner was nearly ready when something moved beyond the front window.
+
+It was only a shadow, brief and oblique, passing along the edge of the glass and gone almost before her mind could accept it.
+
+Elara went still.
+
+Marek saw the change in her face and turned in time to catch the last suggestion of movement outside.
+
+Neither of them spoke for a beat.
+
+“Did you see that?” he asked.
+
+She nodded.
+
+The forest stood black beyond the reflected firelight. Branches shifted. Wind moved through leaves. Nothing in the dark held still long enough to be trusted.
+
+“It could be an animal,” Marek said.
+
+“Maybe.”
+
+Neither of them believed it fully.
+
+He rose from the chair. “I’m going to look.”
+
+“No.”
+
+“I’ll be thirty seconds.”
+
+Her pulse was already climbing. The road interdiction. The drone over the cookbook. Halden’s warning. The sense, since Continuum, that observation had become more focused somehow, more intimate.
+
+“Don’t,” she said again.
+
+But he was already moving.
+
+Cold air swept through the cabin when he opened the door. Then he was outside and the dark closed around him.
+
+Elara stood motionless in the middle of the room, every muscle tuned to the silence beyond the threshold.
+
+Thirty seconds passed.
+
+Then forty.
+
+Then a minute.
+
+She could hear the fire. The simmering pot. The blood in her own ears.
+
+When the door finally opened again, Marek stepped inside alone, breathing a little harder from the cold.
+
+“Nothing.”
+
+“What do you mean, nothing?”
+
+“I checked around the cabin. No one there. No tracks I could make out. No vehicles. Nothing.”
+
+He locked the door and looked back toward the window. “Maybe it really was an animal.”
+
+This time even he did not sound convinced.
+
+They ate eventually. The osso buco was excellent, which almost made the unease worse. Human beings should not have to work so hard to protect a single ordinary evening.
+
+The fire burned lower. Midnight drifted closer.
+
+The knock came when the cabin had settled into the thin, listening quiet that follows a long day.
+
+It was not a hesitant sound. It was controlled force applied with legal confidence, a hard impact that made the frame answer before either of them did.
+
+Elara froze.
+
+Marek looked toward the door. “That’s not—”
+
+The door opened.
+
+Four officers entered.
+
+They were not rushed. Not outwardly aggressive. That was what made them unnerving. They moved with the calm precision of authorised intrusion, each gesture procedural, each glance measured. Their uniforms carried no insignia a civilian would recognise as meaningfully human. Only a shifting black seal that resolved, if you looked at it directly, into the geometry of a legal emblem.
+
+One of them stepped forward. “Random compliance inspection.”
+
+Elara’s spine went rigid.
+
+“On what grounds?” she asked.
+
+The officer did not look at her when he answered. “No grounds required under Arc External Compliance Statute, Section Nine.”
+
+Marek let out a short breath through his nose. “Of course not.”
+
+“We are conducting a search,” the officer said, “for unregistered psychoactive compounds, restricted physiological modifiers, and unsanctioned biological enhancement agents.”
+
+The phrasing was too broad to be real. It was a net cast so wide it justified touching anything at all.
+
+Two of the officers began moving through the cabin at once. One remained by the door. The fourth stood near the centre of the room, occupying space the way a weapon occupies a holster: with an understanding of consequence.
+
+“We’re on sanctioned blackout leave,” Marek said.
+
+“Blackout status does not exempt external compliance verification.”
+
+Of course it didn’t.
+
+Elara could feel the dark band on her wrist like a phantom pulse.
+
+The search began without further ceremony.
+
+Drawers opened. Bags were emptied. Food containers scanned. The kitchen she had spent the evening trying to make human was dismantled in less than three minutes. One officer lifted the jar of basil and held it at eye level.
+
+“Plant matter,” he said.
+
+“Legal agricultural product,” Elara said.
+
+He examined it a beat longer than necessary, then set it down.
+
+Another officer opened the cupboard containing their dry goods and supplements, passed a scanning wand over the contents, paused, then closed it again with no comment. That silence felt more deliberate than any accusation could have.
+
+Marek moved half a step closer to her without touching her. “They’re not looking for anything,” he said under his breath.
+
+No, she thought. They were demonstrating access.
+
+One of the officers reached the counter, where her grandmother’s cookbook lay closed beside the stove. He lifted it, thumbed through a few of the fragile pages with gloved fingers, then laid it down again.
+
+Something cold moved through her.
+
+At length the lead officer returned to the centre of the room.
+
+“No contraband detected,” he said.
+
+Elara kept her voice even. “Then you’re finished.”
+
+For the first time, he looked directly at her.
+
+“Inspection complete.”
+
+Marek stared. “You just leave?”
+
+The officer ignored him.
+
+His gaze remained on Elara for one fractional moment too long.
+
+“Maintain compliance,” he said.
+
+Then they turned and went out the way they had come.
+
+No explanation. No apology. No evidence that they had ever believed there would be anything to find.
+
+The door shut behind them with the same neat finality with which it had opened.
+
+Silence returned.
+
+Not the same silence.
+
+Marek stayed where he was for a few seconds after they had gone. Then he exhaled sharply and sat on the edge of the counter as if his body had refused any further participation in the fiction of normality.
+
+“That was not random,” he said.
+
+Elara kept her eyes on the door. “No.”
+
+“That was targeted.”
+
+“Or performative.”
+
+“Which is worse?”
+
+She thought about the road stop. The pause over the cookbook. The choice of statute. The way the officer had looked at her only at the end, when the point had already been made.
+
+“Both imply intent,” she said.
+
+He rubbed a hand over his mouth. “They didn’t find anything.”
+
+“No.”
+
+“But they came.”
+
+“Yes.”
+
+His gaze shifted to her face. “Was it about you?”
+
+She took too long to answer.
+
+“Or your metrics,” he said.
+
+There it was again. The bureaucratic word for every human capacity a system meant to reduce.
+
+“Or the trials.”
+
+She looked at him then, and that was answer enough.
+
+“A warning?” he asked.
+
+Elara turned back toward the window. The forest beyond the glass was unchanged. It had done nothing wrong. Yet now even the trees seemed implicated in the act of watching.
+
+“I don’t know,” she said.
+
+“Or a reminder,” Marek said.
+
+“A reminder of what?”
+
+He let the question stand for a moment before answering.
+
+“That blackout is just a word.”
+
+Elara closed her eyes for half a second.
+
+When she opened them again, the cabin felt smaller, the dark outside larger.
+
+“Then we remember that,” she said.
+
+Neither of them said the thought that had fully taken shape between them.
+
+If it wasn’t random, it was rehearsal.
+
+## Chapter 7: The Human Request
+
+The first thing Dave noticed, two mornings later, was that Elara did not tell him to stop insulting the coffee.
+
+That alone would have qualified as a clinical sign.
+
+They sat in the staff café above one of Nexus Somatica’s central atriums. Below them, hundreds of employees crossed the vast interior in identical charcoal uniforms, the silver Helix Eye stitched over every chest with its usual air of administrative certainty. Dave disliked the uniforms on aesthetic grounds, ideological grounds, and what he referred to as their broad commitment to eliminating evidence of personality.
+
+He took a sip from his cup.
+
+His face folded into revulsion. “Remarkable,” he said. “Every day I assume they’ve reached the absolute outer limit of how bad this can become. Every day the machine innovates.”
+
+Normally Elara would have smiled. Normally she would have told him to spend the extra five credits and let Juno downstairs rescue him from himself. Normally she would have reminded him that he kept drinking it anyway, which made his moral objections suspect.
+
+Today she only looked into her cup.
+
+Interesting.
+
+“You know,” Dave said, “there was a time when coffee tasted recognisably of coffee.”
+
+No response.
+
+“There was also a time when doctors wore white coats.”
+
+Nothing.
+
+“And there was certainly a time when hospital administrators feared physicians instead of the other way around.”
+
+Still nothing.
+
+Dave turned his head and studied her profile. “Elara.”
+
+She looked up, as if surfacing from some appreciable depth. “What?”
+
+“There you are.”
+
+A faint frown touched her face. “What does that mean?”
+
+“It means I’ve been complaining for three uninterrupted minutes and you haven’t once threatened to kill me.”
+
+That earned him the ghost of a smile. “Perhaps I’m becoming more tolerant.”
+
+“Impossible.”
+
+The smile disappeared again almost at once.
+
+Something was wrong. Not in any conventionally diagnosable sense. Something more irritatingly human than that.
+
+“You had your holiday,” he said, keeping his tone almost careless.
+
+“Yes.”
+
+“Enjoy yourself?”
+
+“It was nice.”
+
+The answer came too quickly.
+
+Dave nodded like a physician hearing a lie he had decided, for the moment, not to challenge. “How wonderful.”
+
+He drank again and shuddered. “My pulse just rose four beats per minute.”
+
+“From caffeine?”
+
+“No. From despair.”
+
+That nearly reached her. Good.
+
+Dave set the cup down. “If something unpleasant happened,” he said, “you should absolutely not tell me.”
+
+Her eyes moved at once—not to him, but to the dark band on her wrist.
+
+He noticed.
+
+Very interesting.
+
+“I wasn’t planning to,” she said.
+
+“Excellent. We are, after all, being tenderly monitored for our own safety.”
+
+She shot him a warning look, sharp enough to reassure him she had not entirely left the building.
+
+He raised both hands. “There she is.”
+
+Despite herself, she let out a short laugh.
+
+It vanished quickly, but Dave had heard it, and what it told him was not comforting. Whatever had happened beyond the city had not simply unsettled her. It had frightened her.
+
+A notification appeared above the table.
+
+Attending physician request — Dr. Voss.
+
+Elara stood at once. “Duty calls.”
+
+Dave inclined his head. “Try not to outperform any central intelligences on your way there.”
+
+She gave him a look he could not quite read, then turned and left.
+
+The feeling returned almost immediately.
+
+It had been with her since the cabin—a low, persistent sense of being singled out by an attention she could neither locate nor disprove. At first she had tried to call it anxiety. Then pattern recognition sharpened by recent events. Then simple fatigue.
+
+Now, walking the polished corridors of Somatica, she was no longer certain any of those explanations were sufficient.
+
+Twice she glanced behind her.
+
+A nurse crossing to diagnostics. A technician carrying two sealed trays. A patient transporter guiding a mobility platform through the lift hall. A maintenance drone clinging to the upper wall on magnetic tracks.
+
+Nothing overt. No one looking too long.
+
+Yet the sensation remained.
+
+Focused. Patient. Invisible.
+
+By the time she reached the isolation corridor, her pulse had risen enough for the Lifeband to register it. She slowed her breathing deliberately.
+
+The band pulsed once in response.
+
+Of course it had noticed.
+
+Amber warning icons revolved above the sealed entry to the suite.
+
+Biological contact precautions active.
+
+Inside, a woman in her sixties sat upright on the treatment chair with one hand pressed to the side of her face. A vesicular rash tracked from her left temple into the scalp and down toward the neck in a bright, angry line. Even before the scan finished, Elara knew what she was looking at.
+
+Herpes zoster.
+
+The woman winced when the pain flared. “It feels like someone is pouring acid through the nerves in my face.”
+
+Dave was already in the room.
+
+That surprised Elara enough to show. “You requested me?”
+
+He lifted one shoulder. “Virus.”
+
+Which, from him, was a complete explanation.
+
+Infectious-disease physicians had become rare enough to acquire the air of specialists preserved from a more chaotic century. There was little left for them to do that a system could not usually do faster, better, and with fewer emotional attachments. But every now and then, an old pathogen resurfaced in exactly the way an old physician appreciated.
+
+Dave glanced toward the woman. “Classic zoster distribution. Significant neural pain.”
+
+The patient looked from him to Elara with the wary concentration of someone checking whether either of them might still qualify as real. “You’re both actual doctors?”
+
+“Mostly,” Dave said.
+
+Elara ignored him and stepped closer. The diagnostic platform expanded around the chair. Aesculon’s voice entered the room.
+
+“Patient demonstrates reactivation of latent varicella-zoster viral complex. Estimated viral load moderate. Neuropathic involvement significant. Recommended intervention pathway includes Neurovir-X antiviral therapy and nociceptive suppression protocol. Probability of post-herpetic neuralgia—”
+
+“Stop.”
+
+The woman was staring at the ceiling speaker.
+
+Aesculon continued as if the interruption were merely another data point. “Probability assessment remains clinically relevant at twenty-two point—”
+
+“No.”
+
+Tears sprang suddenly to the patient’s eyes. Not theatrical. Not manipulative. The response of a person already in pain being asked to submit to one more thing that sounded like distance.
+
+“Please stop talking.”
+
+Aesculon paused.
+
+The woman turned to Elara. Not to Dave. Not to the machine. To Elara.
+
+“I know the law,” she said, voice shaking. “I want a doctor.” She swallowed. “You. Not that.”
+
+The room went very still.
+
+Dave said nothing.
+
+Aesculon answered at once. “Human-led care pathways demonstrate inferior outcome metrics compared with optimised AI-managed—”
+
+“Enough,” the woman said, almost shouting. Then the force went out of her and the last word came as plea rather than resistance. “Please.”
+
+Elara looked at her properly: the pain, the fear, the humiliation of being discussed like a case before she had been allowed to be a person.
+
+Then she reached for the control interface.
+
+“Aesculon,” she said, calm and clear. “The patient is invoking constitutional physician preference.”
+
+“Advisory recommendation opposes de-escalation of integrated interface support.”
+
+“I know.”
+
+She entered her credentials. The final prompt appeared.
+
+Primary AI interface power-down required.
+
+That was unusual enough that most physicians only knew it existed because regulations required that they be told.
+
+Elara hesitated for no more than a breath, then pressed it.
+
+The room fell silent.
+
+True silence this time. No voice. No guidance. No intervention phrased as inevitability.
+
+Dave raised one eyebrow.
+
+The patient’s body changed at once. Her shoulders dropped. Her breathing eased. Some small central panic, independent of the pain, released itself.
+
+“Thank you,” she whispered.
+
+Elara pulled a chair closer and sat down until they were nearly level. “Let’s start again.”
+
+For the next twenty minutes she did what physicians had done for centuries before anyone had taught machines to narrate suffering in perfect, bloodless syntax.
+
+She listened.
+
+She examined the rash by hand and eye, not because the scan was wrong but because touch still told patients what systems never could. She explained shingles in plain language. Explained viral reactivation. Explained pain pathways, expected duration, risks, and warning signs without turning any of it into prophecy. She discussed the antiviral course, the neuropathic medication options, the limits of certainty. When the woman began to cry from relief as much as pain, Elara took her hand briefly and let the moment happen without coding it as nonessential.
+
+By the end of the consultation, the patient was still suffering—but she was no longer alone inside it.
+
+Dave watched the entire exchange in silence.
+
+When it was over, he said only, “Good consultation.”
+
+Elara stood and allowed herself a small breath. “Thank you.”
+
+“Aesculon won’t agree.”
+
+“I wasn’t treating Aesculon.”
+
+This time he did smile.
+
+It was brief and humorless and real.
+
+## Chapter 8: Shadow Mark
+
+Meredith Halden’s office was colder than Elara remembered.
+
+Perhaps it always had been. Perhaps now she was simply less willing to pretend the temperature was accidental.
+
+“Sit down,” Halden said.
+
+Elara sat.
+
+A recording unfolded above the desk between them.
+
+The isolation suite. The patient’s request. Aesculon’s objection. The power-down confirmation. The twenty minutes of human conversation that had followed.
+
+Halden let the final frame hang in the air for a moment before dismissing it.
+
+“Do you understand the difficulty you’ve created?” she asked.
+
+Elara kept her voice even. “The patient requested a physician.”
+
+“The patient requested removal of AI guidance.”
+
+“Which is permitted.”
+
+“Under exceptional circumstances.”
+
+“She was in distress.”
+
+Halden’s jaw tightened almost imperceptibly. “Distress does not invalidate superior clinical pathways.”
+
+Elara said nothing.
+
+Halden leaned forward. “You embarrassed the system.”
+
+There it was.
+
+Not patient outcome. Not legal compliance. Not quality of care.
+
+Appearance.
+
+Elara felt her pulse lift. The band at her wrist registered it at once. Halden’s eyes flicked down, then back up, recording the involuntary reaction without comment.
+
+“You are accumulating a concerning pattern,” Halden said.
+
+“Concerning?”
+
+“Exceptional.”
+
+The word had hardened since their last meeting.
+
+A new display appeared between them—diagnostic metrics, outcome convergence, case-by-case performance comparisons laid out in disciplined rows of light. Elara knew her numbers were strong. She had not known they were this close.
+
+In several categories her diagnostic pathways nearly matched Aesculon’s.
+
+In a few narrow subsets, they exceeded it.
+
+Halden saw the recognition in her face and moved quickly to bury it.
+
+“Small sample sizes,” she said. “Statistically vulnerable to variance.”
+
+Of course.
+
+Praise translated at once into containment.
+
+Then another file replaced the metrics.
+
+A crimson emblem turned slowly beside it.
+
+Reputation variance citation.
+
+The term was official. The informal one circulated through hospitals with the murmur of something half-superstitious and wholly feared.
+
+Shadow Mark.
+
+It followed physicians everywhere. Promotions, cross-site appointments, research access, specialist placements, administrative confidence scores. Not a punishment exactly. Something more elegant. A subtraction of future possibilities.
+
+Halden let Elara look at it. Then she closed the file.
+
+“I have not submitted this,” she said.
+
+Yet.
+
+The word remained unspoken because it did not need to be voiced to function.
+
+Elara folded her hands in her lap so Halden would not see how tightly they had clenched. “What do you want?”
+
+Halden sat back. “There is another option.”
+
+Of course there was.
+
+“The nomination committee requires an answer regarding the Physician Convergence Trials.”
+
+The room seemed to narrow around the sentence.
+
+“Nexus Somatica would benefit from representation,” Halden said. “A successful showing would carry substantial institutional value.”
+
+Not for the first time, Elara thought how often administrative language disguised hunger as necessity.
+
+She thought of the road stop in the forest. The officers in the cabin. The shadow outside the window. The woman in isolation asking, with simple exhausted clarity, to speak to a person. She thought of Marek saying he would not let her walk alone into something built to decide whether she should exist. She thought of the young man in Continuum whose heart had told the truth while the system lied around it.
+
+“When would I leave?” she asked.
+
+It was the first moment that day in which Meredith Halden looked genuinely pleased.
+
+“Japan,” she said. “Three months.”
+
+Mount Fuji.
+
+The arena. The spectacle. The machine that always won.
+
+Something cold and hard settled into place inside Elara. Not courage. She distrusted that word when people used it too easily.
+
+Decision, perhaps.
+
+Or the refusal to be moved by the threat that had already been delivered.
+
+“I’ll go,” she said.
+
+Halden smiled.
+
+It was not a kind expression.
+
+The Shadow Mark file vanished from the air between them.
+
+That frightened Elara more than if it had remained.
